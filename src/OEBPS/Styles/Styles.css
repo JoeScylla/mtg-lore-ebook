@@ -1,0 +1,56 @@
+@charset "utf-8";
+@import "Reset.css";
+@import "Kindle.css";
+@import "Helper.css";
+@import "../Fonts/Fonts.css";
+
+/** General */
+body {
+	color: black;
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+h1, h2, h3, h4, h5 {
+	text-transform: uppercase;
+}
+section > h1, section > h2, section > h3, section > h4, section > h5 {
+	margin-top: 0;
+}
+p {
+	text-indent: 0;
+	margin-bottom: 1em;
+}
+figure figcaption {
+	float: right;
+	font-size: 0.8125em; /* .fs-xxs */
+	line-height: 1.84615385;
+}
+/** Pages */
+/** Pages: Index */
+#index nav ul {
+	text-align: center;
+}
+#index nav ul li {
+	display: inline-block;
+}
+#index [epub\:type="index-group"] ul li ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+/** Components */
+/** Components: Header 1 with Subtitle */
+h1.cmp-title span {
+	text-transform: none;
+	font-size: 0.69565217em;
+}
+/** Components: Header 2 with Link */
+h2.cmp-link a {
+	float: right;
+	text-transform: none;
+	font-size: 0.76190476em;
+}
+/** Components: Figure for single cards (centered) */
+figure.cmp-card {
+	text-align: center;
+}

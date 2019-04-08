@@ -1,0 +1,6 @@
+#!/bin/bash
+rm -f $1.epub
+cd src
+zip -q0X ../mtg-lore.epub mimetype
+zip -qXr9D ../mtg-lore.epub *
+java -jar ../bin/EpubCheck/epubcheck.jar ../mtg-lore.epub

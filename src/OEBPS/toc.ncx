@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta content="fcdfc681038d4a31bb9a6382242dec0e" name="dtb:uid"/>
+		<meta content="1" name="dtb:depth"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+	<docTitle>
+		<text>Table of Content</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="f7da2e100e30467c86e64d221511bb24">
+			<navLabel><text>Title</text></navLabel>
+			<content src="Content/Title.xhtml"/>
+		</navPoint>
+		<navPoint id="b37a3d37695f4aa9ba004f9b3b42e86e">
+			<navLabel><text>Table of Content</text></navLabel>
+			<content src="Content/TableOfContent.xhtml"/>
+		</navPoint>
+		<navPoint id="c515e1619b7e4e1dbf5d78726bc0073f">
+			<navLabel><text>Stories</text></navLabel>
+			<content src="Content/Stories/Index.xhtml"/>
+			<navPoint id="ff3f534fa7b645f48276284adc2082d7">
+				<navLabel><text>Amonkhet</text></navLabel>
+				<content src="Content/Stories/Amonkhet/Index.xhtml"/>
+				<navPoint id="e1481e7191bc4f13b8fd0879359e42ca">
+					<navLabel><text>01. Impact</text></navLabel>
+					<content src="Content/Stories/Amonkhet/01-Impact/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ea6ff42642204a7eb5430ce2ba2fd6a7">
+					<navLabel><text>02. Trust</text></navLabel>
+					<content src="Content/Stories/Amonkhet/02-Trust/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ac1f060bdddc41dfabe418e383317d98">
+					<navLabel><text>03. The Writing on the Wall</text></navLabel>
+					<content src="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="a81d30b2733c46da97280724a97e7cb0">
+					<navLabel><text>04. Servants</text></navLabel>
+					<content src="Content/Stories/Amonkhet/04-Servants/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="b05c0d167e4b4852a3930b626e7433dc">
+					<navLabel><text>05. The Hand That Moves</text></navLabel>
+					<content src="Content/Stories/Amonkhet/05-TheHandThatMoves/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ae6895d54d6c4c80a5aa3ba579df077f">
+					<navLabel><text>06. Brazen</text></navLabel>
+					<content src="Content/Stories/Amonkhet/06-Brazen/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="a233f52de83f4b97a96f7ffb196ff77d">
+					<navLabel><text>07. Trespass</text></navLabel>
+					<content src="Content/Stories/Amonkhet/07-Trespass/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ae3e88b52f0540c38edb2039363e4660">
+					<navLabel><text>08. Judgment</text></navLabel>
+					<content src="Content/Stories/Amonkhet/08-Judgment/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="d8cf9682b6264bde93bf6b45cafbb491">
+					<navLabel><text>09. The Hour of Revelation</text></navLabel>
+					<content src="Content/Stories/Amonkhet/09-TheHourOfRevelation/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ce536781bb46472a9b0d882996705ff2">
+					<navLabel><text>10. Feast</text></navLabel>
+					<content src="Content/Stories/Amonkhet/10-Feast/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ba31d89f29c04b18b41298f5b5808142">
+					<navLabel><text>11. Hour of Glory</text></navLabel>
+					<content src="Content/Stories/Amonkhet/11-HourOfGlory/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="b6fc2c63246c49ceba4e7a6f7aa29e9f">
+					<navLabel><text>12. The Hour of Promise</text></navLabel>
+					<content src="Content/Stories/Amonkhet/12-TheHourOfPromise/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="c0b6334eb8444914b1bccc0156029dab">
+					<navLabel><text>13. Favor</text></navLabel>
+					<content src="Content/Stories/Amonkhet/13-Favor/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="a88f93989fe44f99b62fe036459bec2f">
+					<navLabel><text>14. Hour of Eternity</text></navLabel>
+					<content src="Content/Stories/Amonkhet/14-HourOfEternity/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="cb95fb250e9c4b77943394efacfbcaf0">
+					<navLabel><text>15. Endure</text></navLabel>
+					<content src="Content/Stories/Amonkhet/15-Endure/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="cb9edd3213ef4b5ab811e733440387fa">
+					<navLabel><text>16. Hour of Devastation</text></navLabel>
+					<content src="Content/Stories/Amonkhet/16-HourOfDevastation/Index.xhtml"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="f5579735e2b64a1ab8c7ffa37dfec287">
+			<navLabel><text>Index</text></navLabel>
+			<content src="Content/Index.xhtml"/>
+		</navPoint>
+		<navPoint id="f44de760d11e49ff94fa1ab19b9f1c79">
+			<navLabel><text>Planes</text></navLabel>
+			<content src="Content/Planes/Index.xhtml"/>
+			<navPoint id="f5ad954569514e77a59d7149d879b2cd">
+				<navLabel><text>Amonkhet</text></navLabel>
+				<content src="Content/Planes/Amonkhet/Index.xhtml"/>
+				<navPoint id="c463600aa7b54be081602b00f3806dbc">
+					<navLabel><text>LegendaryCreatures</text></navLabel>
+					<content src="Content/Planes/Amonkhet/LegendaryCreatures/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="cf90f99d08bd41c59c7875125a8a4e5d">
+					<navLabel><text>Cities</text></navLabel>
+					<content src="Content/Planes/Amonkhet/Cities/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="fc2b9434a92a4dcbb60a9541654d2b0a">
+					<navLabel><text>CreatureRaces</text></navLabel>
+					<content src="Content/Planes/Amonkhet/CreatureRaces/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="df79bf40984f4664be588830b9a994c2">
+					<navLabel><text>Planeswalker</text></navLabel>
+					<content src="Content/Planes/Amonkhet/Planeswalker/Index.xhtml"/>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="f7fdf0d8663b4a01b80e116569771911">
+			<navLabel><text>Planeswalker</text></navLabel>
+			<content src="Content/Planeswalker/Index.xhtml"/>
+			<navPoint id="e750fe3a56ef4fcf88a1d56470bfcce7">
+				<navLabel><text>Chandra Nalaar</text></navLabel>
+				<content src="Content/Planeswalker/ChandraNalaar/Index.xhtml"/>
+			</navPoint>
+			<navPoint id="c11bb8e3f3e249368889a75a62951745">
+				<navLabel><text>Gideon Jura</text></navLabel>
+				<content src="Content/Planeswalker/GideonJura/Index.xhtml"/>
+			</navPoint>
+			<navPoint id="ebb979f82b9c46c89a186dec4f219c56">
+				<navLabel><text>Jace Beleren</text></navLabel>
+				<content src="Content/Planeswalker/JaceBeleren/Index.xhtml"/>
+			</navPoint>
+			<navPoint id="a29b4d5bbe314a029210c40982e1d830">
+				<navLabel><text>Liliana Vess</text></navLabel>
+				<content src="Content/Planeswalker/LilianaVess/Index.xhtml"/>
+			</navPoint>
+			<navPoint id="ec5c8181aabb4d1a82b664bca5bfa453">
+				<navLabel><text>Nissa Revane</text></navLabel>
+				<content src="Content/Planeswalker/NissaRevane/Index.xhtml"/>
+			</navPoint>
+		</navPoint>
+	</navMap>
+</ncx>

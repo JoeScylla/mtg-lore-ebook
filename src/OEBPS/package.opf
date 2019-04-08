@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package prefix="rendition: http://www.idpf.org/vocab/rendition/# schema: http://schema.org/ ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ a11y: http://www.idpf.org/epub/vocab/package/a11y/#" xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="BookId">
+	<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ibooks="http://apple.com/ibooks/html-extensions">
+		<dc:identifier id="BookId">fcdfc681038d4a31bb9a6382242dec0e</dc:identifier>
+		<dc:title>Magic the Gathering: Lore EBook</dc:title>
+		<dc:description>A collection of the lore of Magic the Gathering.</dc:description>
+		<dc:creator>Joe Scylla</dc:creator>
+		<dc:type>Text</dc:type>
+		<dc:language>en</dc:language>
+		<dc:rights>Wizards of the Coast LLC Fan Content Policy</dc:rights>
+		<dc:source>https://magic.wizards.com/en/story</dc:source>
+		<meta property="dcterms:modified">2019-07-05T00:00:01Z</meta>
+		<meta name="cover" content="bef8186fa01f4cd2a25c195880b02bc5" />
+		<meta property="ibooks:version">1.0</meta>
+		<meta property="ibooks:specified-fonts">false</meta>
+		<meta property="schema:accessibilityFeature">displayTransformability</meta>
+		<meta property="schema:accessibilityFeature">readingOrder</meta>
+		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+		<!--<meta property="schema:accessibilityFeature">index</meta>-->
+		<meta property="schema:accessibilityHazard">noFlashing</meta>
+		<meta property="schema:accessibilityHazard">noSound</meta>
+		<meta property="schema:accessibilityHazard">noMotionSimulation</meta>
+		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilitySummary">Pictures are not necessary to understand the text. Pictures usually have no description and only a small caption.</meta>
+	</metadata>
+	<manifest>
+		<!-- Content -->
+		<item id="ae215177b4fd4238898b3ed9b4a729f1" href="Content/Cover.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ee3b2986338a4e1fa6f203d859bb3900" href="Content/Title.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cc28e27e9fb54ef4badb54e4da490390" href="Content/TableOfContent.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="e3b859528e3947dcad12529ce53cbf6d" href="Content/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Fonts -->
+		<item id="a46e21ff7da4472a6f67e3c99f2f8a8" href="Fonts/Fonts.css" media-type="text/css"/>
+		<item id="d65ab56716274b89a44e5ff1ea889a8d" href="Fonts/LICENSE.txt" media-type="text/plain"/>
+		<item id="a3b8ccecce7d4c4ca8fa8e38b98f636b" href="Fonts/OpenSans-Bold.woff" media-type="application/font-woff"/>
+		<item id="caccc4d73d7d45cc87294cf771469f25" href="Fonts/OpenSans-BoldItalic.woff" media-type="application/font-woff"/>
+		<item id="eeb7d81972244549b7b50758e5a2cdbc" href="Fonts/OpenSans-ExtraBold.woff" media-type="application/font-woff"/>
+		<item id="e810a4dbcd454522bed96865965b5a67" href="Fonts/OpenSans-ExtraBoldItalic.woff" media-type="application/font-woff"/>
+		<item id="a5e18b19439245438e07716b9a92d750" href="Fonts/OpenSans-Italic.woff" media-type="application/font-woff"/>
+		<item id="b16032cc064f45038b1ab2a76e230f71" href="Fonts/OpenSans-Light.woff" media-type="application/font-woff"/>
+		<item id="ebfcedeca34f4761ab4278920f2eccfb" href="Fonts/OpenSans-LightItalic.woff" media-type="application/font-woff"/>
+		<item id="bfd0dfe5f2ba470cacdb56b52fc72923" href="Fonts/OpenSans-Regular.woff" media-type="application/font-woff"/>
+		<item id="ab43cadc7f1d4406bba85d42a1372e8b" href="Fonts/OpenSans-SemiBold.woff" media-type="application/font-woff"/>
+		<item id="c675bae409e34231b0a82df89663a4d7" href="Fonts/OpenSans-SemiBoldItalic.woff" media-type="application/font-woff"/>
+		<!-- Images -->
+		<item id="bef8186fa01f4cd2a25c195880b02bc5" href="Images/Cover.png" media-type="image/png" properties="cover-image"/>
+		<item id="f2f2eca23cb3447bac3610437136c529" href="Images/asterism.svg" media-type="image/svg+xml"/>
+		<!-- Styles -->
+		<item id="fb95aeeb052645a986129c44e8c7d901" href="Styles/Reset.css" media-type="text/css"/>
+		<item id="cc8bec3104024a99bdedbe1221f92665" href="Styles/Kindle.css" media-type="text/css"/>
+		<item id="d4731e48a4214363b60b08dd501878b8" href="Styles/Helper.css" media-type="text/css"/>
+		<item id="b61c198386204600b6f47bc65baa9ebb" href="Styles/Styles.css" media-type="text/css"/>
+		<!-- EPUB 2 Table of Content (superseeded by EPUB 3.x; included for compatibility) -->
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+		<!-- Content -->
+		<!-- Stories -->
+		<item id="b85f744a593c4b68923e2d34d7cdc19f" href="Content/Stories/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Stories / Amonkhet -->
+		<item id="cd94bbd0d534483da85a9818e3d742df" href="Content/Stories/Amonkhet/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Stories / Amonkhet / 01. Impact -->
+		<item id="e8e0eeb11bbf4d7389222d19b7bb6337" href="Content/Stories/Amonkhet/01-Impact/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c728c3b8b7a0445d98ffbf74761ff05e" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_8B1bipyEYq.jpg" media-type="image/jpeg"/>
+		<item id="a76828c2cca641528e69fe7ea83d22da" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_9gw4NKWrve.jpg" media-type="image/jpeg"/>
+		<item id="dd6900105d024587884dbda65ce0c469" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_AgIDafCeCb.jpg" media-type="image/jpeg"/>
+		<item id="a5d14d01584c411780caee15314d578e" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_b8FWB0ufsV.jpg" media-type="image/jpeg"/>
+		<item id="e1ce1b5993444929a12d93904b4d2a07" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_bsT2xtSxIm.jpg" media-type="image/jpeg"/>
+		<item id="b6d32efd09434834afb80bf52337a03c" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_gvHRsZRnRk.jpg" media-type="image/jpeg"/>
+		<item id="b31bdda3333d4f83a75b806182281fd1" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_n4izAnle2Q.jpg" media-type="image/jpeg"/>
+		<item id="d235ca33aa554330b5bccb8a6cae9446" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_pTiNlDVXTS.jpg" media-type="image/jpeg"/>
+		<item id="a52f21b6d1e44a55adb5d7591739ef85" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_tJTFWdgbnP.jpg" media-type="image/jpeg"/>
+		<item id="cb3b3096319a494a9c1ed8a6eac15ca8" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_tUHkp0KxH0.jpg" media-type="image/jpeg"/>
+		<item id="e4646c2b0a79483ba73056d19e676efd" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_tZW3PFuQgz.jpg" media-type="image/jpeg"/>
+		<item id="e608dae2ea934dcc9713ee857ba4ed50" href="Content/Stories/Amonkhet/01-Impact/Images/c4rd4r7_WegnP0IDd2.jpg" media-type="image/jpeg"/>
+		<item id="ec1c19f2df9a4156b7953938a1055a95" href="Content/Stories/Amonkhet/01-Impact/Images/id1a1QUl9s.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 02. Trust -->
+		<item id="c9a400c528a44657abb0f59ae776fd60" href="Content/Stories/Amonkhet/02-Trust/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ef69553b768546f7b24889b724f7d26e" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_4V2ztLZBeH.jpg" media-type="image/jpeg"/>
+		<item id="e2d2b7f4cc2344108eeeab268a6c0bb0" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_8UW5GHQtSZ.jpg" media-type="image/jpeg"/>
+		<item id="d4b09bee9cd34fe1b432efdb1fb6fd30" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_8XrPxCXzBD.jpg" media-type="image/jpeg"/>
+		<item id="c5e7825f5b2549b0af69e6e11ee0f077" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_dFxyXeYajG.jpg" media-type="image/jpeg"/>
+		<item id="e397097bafa64a74873549eb3917e315" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_KT0CYzMcQl.jpg" media-type="image/jpeg"/>
+		<item id="f7a2f4cdca3d4fa1a50ad2e6504226a8" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_M3qBH8gJ4C.jpg" media-type="image/jpeg"/>
+		<item id="e8baea7909e64d73b2ec7b2b943095a7" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_Msz4xk0aJd.jpg" media-type="image/jpeg"/>
+		<item id="ea152413d7634f8ba5ba98e989cf3787" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_oAZ23SiCe5.jpg" media-type="image/jpeg"/>
+		<item id="adc66e3e6c4d40be90fd41c70775c09e" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_RRcWuHToCj.jpg" media-type="image/jpeg"/>
+		<item id="d3c24925b0df4c98ae911e959b8928c5" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_t7Ay8p8trc.jpg" media-type="image/jpeg"/>
+		<item id="d153764a967f4b26a4ece7af41072f62" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_utZsNDU6PY.jpg" media-type="image/jpeg"/>
+		<item id="d0f2041f919e4545b6c8ce70f63b43b0" href="Content/Stories/Amonkhet/02-Trust/Images/c4rd4r7_z2xKrKYe3Z.jpg" media-type="image/jpeg"/>
+		<item id="cbdd8d4e37044700baf0e11fc92ee954" href="Content/Stories/Amonkhet/02-Trust/Images/en_iLihnohg44.png"  media-type="image/png"/>
+		<!-- Stories / Amonkhet / 03. The Writing on the Wall -->
+		<item id="fc6f45c1b9b04aac92a8f93ad4b0e21d" href="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dc288959ed5d4931b087aaa876f43555" href="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Images/en_ZwfaTSMgZp.png"  media-type="image/png"/>
+		<item id="a4bdcfb6a11f4fd8831519ae28b05874" href="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Images/m0zemvIQOs_crop.jpg" media-type="image/jpeg"/>
+		<item id="ef944df312cf402a8fbd8bf7d65b11b2" href="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Images/7CzkPu80jD.jpg" media-type="image/jpeg"/>
+		<item id="c976406d994e4cf48466cfce14a591ff" href="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Images/wJu2soQonK.jpg" media-type="image/jpeg"/>
+		<item id="f86ae09b57a74b08a21fe57dc31915a7" href="Content/Stories/Amonkhet/03-TheWritingOnTheWall/Images/UCRzCMYSB3.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 04. Servants -->
+		<item id="ed077b1cc40b4dcdb1a7124ac7d442de" href="Content/Stories/Amonkhet/04-Servants/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ae528a7a243741bf90a7d24ba4a15dc6" href="Content/Stories/Amonkhet/04-Servants/Images/c4rd4r7_uBd8vjGQBN.jpg"  media-type="image/jpeg"/>
+		<item id="f5894bbd795b4ca8aa0cd8d2fbf11abb" href="Content/Stories/Amonkhet/04-Servants/Images/c4rd4r7_o1T1T2Lrl7.jpg"  media-type="image/jpeg"/>
+		<item id="cb5c8f9395b54d538fd8d5b408d93888" href="Content/Stories/Amonkhet/04-Servants/Images/c4rd4r7_mnjrUt6rNs.jpg"  media-type="image/jpeg"/>
+		<item id="e186aae56d1c41b991ad60c7147a2597" href="Content/Stories/Amonkhet/04-Servants/Images/c4rd4r7_HYqtCoJvax.jpg"  media-type="image/jpeg"/>
+		<item id="bd4c638c4836462997b0be16a2bfa978" href="Content/Stories/Amonkhet/04-Servants/Images/c4rd4r7_SiFpCGxJRu.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 05. The Hand that Moves -->
+		<item id="e8e3ad10ecda447a88ae517053a77bd1" href="Content/Stories/Amonkhet/05-TheHandThatMoves/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c9f3f270b1d34d5480f691faa75fba44" href="Content/Stories/Amonkhet/05-TheHandThatMoves/Images/cardart_AKH_Forest-C_.jpg"  media-type="image/jpeg"/>
+		<item id="c071873cd3324578b6e8452a6b7e8cec" href="Content/Stories/Amonkhet/05-TheHandThatMoves/Images/cardart_AKH_Essence-Scatter.jpg"  media-type="image/jpeg"/>
+		<item id="a51e40c1d0c9410fa7099195af6c9748" href="Content/Stories/Amonkhet/05-TheHandThatMoves/Images/cardart_IVC_Daze.jpg"  media-type="image/jpeg"/>
+		<item id="f6fb855fbf214b86afd8ab7c16a290c0" href="Content/Stories/Amonkhet/05-TheHandThatMoves/Images/cardart_AKHPW_Stone-Quarry.jpg"  media-type="image/jpeg"/>
+		<item id="e5396f9342af425399a5c0d31cf4a0f2" href="Content/Stories/Amonkhet/05-TheHandThatMoves/Images/cardart_AKH_Winds-of-Rebuke.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 06.-Brazen -->
+		<item id="dbd2a6ee33de4fc5b49db1bb286c593e" href="Content/Stories/Amonkhet/06-Brazen/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c27da26097d843499ce68203732b3b09" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_9BOkZgg7xw.jpg"  media-type="image/jpeg"/>
+		<item id="d79b4ce6beed4ca1b24848146236839b" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_T9CHupJGTI.jpg"  media-type="image/jpeg"/>
+		<item id="f5c5402ece5f4ba89f1dde035bca9df3" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_OMUzCPHuSn.jpg"  media-type="image/jpeg"/>
+		<item id="b69a3e0fbe6c4b8881c3f15fecf0642b" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_Z7BGjeMHEy.jpg"  media-type="image/jpeg"/>
+		<item id="ef065dee5c7e45a2b447bdc45981b1b7" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_9gw4NKWrve.jpg"  media-type="image/jpeg"/>
+		<item id="ea914b3f91c34ea28347af988c8caaf1" href="Content/Stories/Amonkhet/06-Brazen/Images/zqjMMYE4nC.jpg"  media-type="image/jpeg"/>
+		<item id="c9c022036a67434c9fc656a8dbee0587" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_-r96Psrf1j3.jpg"  media-type="image/jpeg"/>
+		<item id="ed54925b826e42a0aede6e266eb9ad6c" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_-FQqvVwEFTb.jpg"  media-type="image/jpeg"/>
+		<item id="f5430b6514964be4ae5b46cc803c2f82" href="Content/Stories/Amonkhet/06-Brazen/Images/cardart_AKH_Cruel-Reality.jpg"  media-type="image/jpeg"/>
+		<item id="ae6125e8ad654aca94362738fe165e54" href="Content/Stories/Amonkhet/06-Brazen/Images/c4rd4r7_-1bSukEAd6K.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 07. Trespass -->
+		<item id="d746476e470f42a7adb71b82867b5b00" href="Content/Stories/Amonkhet/07-Trespass/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f272ed145f664ae083dfcbfb7244e138" href="Content/Stories/Amonkhet/07-Trespass/Images/cardart_IVC_Daze.jpg"  media-type="image/jpeg"/>
+		<item id="fb0d510598994fca9c69ccfdc2a5d615" href="Content/Stories/Amonkhet/07-Trespass/Images/cardart_AKH_Hazorets-Monument.jpg"  media-type="image/jpeg"/>
+		<item id="d5b0184c0455473d969aeb005160f2e3" href="Content/Stories/Amonkhet/07-Trespass/Images/caption_AKH_Protection-of-the-Hekma.jpg"  media-type="image/jpeg"/>
+		<item id="fb347522bffb4335a9d3f2a29e549538" href="Content/Stories/Amonkhet/07-Trespass/Images/cardart_AKH_Grim-Strider.jpg"  media-type="image/jpeg"/>
+		<item id="ab2d66d7226b4c1e969e15e648cff0de" href="Content/Stories/Amonkhet/07-Trespass/Images/c4rd4r7_4V2ztLZBeH.jpg"  media-type="image/jpeg"/>
+		<item id="fa056760da654343a9315dc059518757" href="Content/Stories/Amonkhet/07-Trespass/Images/cardart_AKH_Tresspassers-Curse.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 08. Judgment -->
+		<item id="e6b3f0d47e414105aa532b0905af9d4a" href="Content/Stories/Amonkhet/08-Judgment/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ffb55ade149943689c83913fd0e641bc" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Tresspassers-Curse.jpg"  media-type="image/jpeg"/>
+		<item id="e1ba5233ecd64913b73ea8e14ffc64ef" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_TOK_Labyrinth-Guardian.jpg"  media-type="image/jpeg"/>
+		<item id="e10ccf25153742f98194afbba6ff94ce" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Samut-Voice-of-Dissent.jpg"  media-type="image/jpeg"/>
+		<item id="e88e22d13ca949e59e454f51c988fa11" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Prepare.jpg"  media-type="image/jpeg"/>
+		<item id="ade706ada24e46e8aaed7484ed563325" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Hazorets-Monument.jpg"  media-type="image/jpeg"/>
+		<item id="b08098c863074707bb12f321cf785ec3" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Trial-of-Zeal.jpg"  media-type="image/jpeg"/>
+		<item id="a29d888804e24d76a0666dbb53c55b39" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Time-to-Reflect.jpg"  media-type="image/jpeg"/>
+		<item id="fb7d1bd8adef476d8082bdc4678eeb29" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_By-Force.jpg"  media-type="image/jpeg"/>
+		<item id="f6fd66c40ba64a7d8d1a45acfdaa3736" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_INV_Hazoret-the-Fervent.jpg"  media-type="image/jpeg"/>
+		<item id="ecdd37c5870a4b639b11be61ba6deb11" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Pursue-Glory.jpg"  media-type="image/jpeg"/>
+		<item id="ae7192c872b849c9bec5fb4c860a127c" href="Content/Stories/Amonkhet/08-Judgment/Images/cardart_AKH_Gideons-Intervention.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 09. The Hour of Revelation -->
+		<item id="a08ea302d9b74b818f2463a449bf562b" href="Content/Stories/Amonkhet/09-TheHourOfRevelation/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a35272336d6247cb80473b9ffd55d5d2" href="Content/Stories/Amonkhet/09-TheHourOfRevelation/Images/c4rd4r7_BG4iHgj4Lx.jpg"  media-type="image/jpeg"/>
+		<item id="f75b153548fc4d35a3522875b6e8d761" href="Content/Stories/Amonkhet/09-TheHourOfRevelation/Images/c4rd4r7_ENNqZGTUlD.jpg"  media-type="image/jpeg"/>
+		<item id="a163b5dc5ccf4128a227cb3651f9c24f" href="Content/Stories/Amonkhet/09-TheHourOfRevelation/Images/c4rd4r7_BZ3snEOak3.jpg"  media-type="image/jpeg"/>
+		<item id="d8e0672d1d194515b1631193b26b2222" href="Content/Stories/Amonkhet/09-TheHourOfRevelation/Images/c4rd4r7_xxtLmk0lvJ.jpg"  media-type="image/jpeg"/>
+		<item id="ccf7091e7bc94be7a8d81a77856f9f95" href="Content/Stories/Amonkhet/09-TheHourOfRevelation/Images/c4rd4r7_3jiOJ2aRbs.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 10. Feast -->
+		<item id="a757a92ab1f34a5eac7848e6c648a05a" href="Content/Stories/Amonkhet/10-Feast/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d4f7e132fa854b6e8238a3ea8c923d6c" href="Content/Stories/Amonkhet/10-Feast/Images/c4rd4r7_Nd41R0tgy0.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 11. Hour of Glory -->
+		<item id="f6371915560f4b25859dc1f7d202d98f" href="Content/Stories/Amonkhet/11-HourOfGlory/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d66ef70b39414cf68684783c86d93524" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_HK9QaCM4fa.jpg"  media-type="image/jpeg"/>
+		<item id="ca1cfed981fc43e1ab84af629f3d2240" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_oAnNH9aeQp.jpg"  media-type="image/jpeg"/>
+		<item id="ebf529ea140d49bbb64b0a3f959e40b1" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_h9WvYZskSE.jpg"  media-type="image/jpeg"/>
+		<item id="ea1fdf10f4a74767afa582d45fc462ea" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_AauMpY84d4.jpg"  media-type="image/jpeg"/>
+		<item id="b33f15a5549544c1a2a0e003f84d278c" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_6E9Of7XiAz.jpg"  media-type="image/jpeg"/>
+		<item id="b941a6df7c464de9ab636e2cc45564d2" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_1ashDUlepj.jpg"  media-type="image/jpeg"/>
+		<item id="ede11a8f033b40a9aadffd094ef414a9" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/cardart_AKH_Rhonas-the-Indomitable.jpg"  media-type="image/jpeg"/>
+		<item id="d72da0d5afb241f9bf91c88577a6f29e" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/en_9LbKfiUIeo.png"  media-type="image/png"/>
+		<item id="c4b9a2a1abc74e0e95c5bae692eab45f" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_Gr3H4kmzlS.jpg"  media-type="image/jpeg"/>
+		<item id="c09ce713d9044a10a9d7b73e2f2f1250" href="Content/Stories/Amonkhet/11-HourOfGlory/Images/c4rd4r7_GZW1sxefrt.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 12. The Hour of Promise -->
+		<item id="a0e4d7fd141d46d2aa52cdb086d9bf1c" href="Content/Stories/Amonkhet/12-TheHourOfPromise/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fabe2014bcac46399578a9a36318a8c2" href="Content/Stories/Amonkhet/12-TheHourOfPromise/Images/cardart_AKH_Hapatra-Vizier-of-Poisons.jpg"  media-type="image/jpeg"/>
+		<item id="b665571a65c84ac19faa97f94803ecf2" href="Content/Stories/Amonkhet/12-TheHourOfPromise/Images/c4rd4r7_UfUf1ubax4.jpg"  media-type="image/jpeg"/>
+		<item id="ed4877f700fb48e0b2925cc8d97355c1" href="Content/Stories/Amonkhet/12-TheHourOfPromise/Images/c4rd4r7_lOaUXFWd9u.jpg"  media-type="image/jpeg"/>
+		<item id="c9e0e4290d144de49c55a0bda4c60c2c" href="Content/Stories/Amonkhet/12-TheHourOfPromise/Images/c4rd4r7_5hm0XZ83Gu.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 13. Favor -->
+		<item id="fee3a11fcfe3485bbdc33b4421c8c110" href="Content/Stories/Amonkhet/13-Favor/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b1b71e8f799f44158bf9c8514fe4ee06" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_YKINrfSCP5.jpg"  media-type="image/jpeg"/>
+		<item id="aa2c863c18974f9a8fff624181c7083e" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_oqYkon7rWy.jpg"  media-type="image/jpeg"/>
+		<item id="be689cf8ab0b4004a6193defc0c460d9" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_W128cdUE9r.jpg"  media-type="image/jpeg"/>
+		<item id="b9beb452841f42b8ab5352d531bf3427" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_dawcIf3PTB.jpg"  media-type="image/jpeg"/>
+		<item id="b4da4940415048c880a44b988c4c1d48" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_FHiq7tFha6.jpg"  media-type="image/jpeg"/>
+		<item id="fa67773a1a1547c297a614a94e390c0a" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_aPuPYDBy1y.jpg"  media-type="image/jpeg"/>
+		<item id="fae1970649044aa08cf07d3d4b3744d5" href="Content/Stories/Amonkhet/13-Favor/Images/c4rd4r7_sCQYzWpFlS.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 14. Hour of Eternity -->
+		<item id="eb282ebc9d5a433eb5e76dfb0bcb7e1e" href="Content/Stories/Amonkhet/14-HourOfEternity/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e9f03a1fc4e54dde86fbb4aca3f91370" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_God-Pharaohs-Faithful.jpg"  media-type="image/jpeg"/>
+		<item id="fd17dfd485dd41d6a3fa175f50ab2e92" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Angel-of-the-God-Pharaoh.jpg"  media-type="image/jpeg"/>
+		<item id="d53a5fad660949f5b0d2c724df1cebd3" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Hour-of-Eternity.jpg"  media-type="image/jpeg"/>
+		<item id="fc9d7de57dc3466ab6f4f3a3ccac3116" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Act-of-Heroism.jpg"  media-type="image/jpeg"/>
+		<item id="a0a9ac71feff41de920fa78440608ed6" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Spellweaver-Eternal.jpg"  media-type="image/jpeg"/>
+		<item id="f34ba505c8fe46a797d9b05b1f19ced9" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_INV_Threads-of-Disloyalty.jpg"  media-type="image/jpeg"/>
+		<item id="ecb442882d734d6da68bf0321e01cf32" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Without-Weakness.jpg"  media-type="image/jpeg"/>
+		<item id="d9a7880f0e004d5cbb2b39dd699a458a" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_INV_Omniscience.jpg"  media-type="image/jpeg"/>
+		<item id="ac1bb23e7c804ddfac1e47c9e9601c0b" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Oketras-Avenger.jpg"  media-type="image/jpeg"/>
+		<item id="f116a57059a4436a99cd49d2b0a8a92f" href="Content/Stories/Amonkhet/14-HourOfEternity/Images/cardart_HOU_Merciless-Eternal.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 15. Endure -->
+		<item id="cd94371613504912a112e878d63c3b53" href="Content/Stories/Amonkhet/15-Endure/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="bf0e4845639445f1a6f78b4740abd90a" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Blur-of-Blades.jpg"  media-type="image/jpeg"/>
+		<item id="d891ef22b84341ed84e66f2d8abece68" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Endless-Sands.jpg"  media-type="image/jpeg"/>
+		<item id="ac4e1102248e40e0af33c4bfd23cca1d" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_PW_Nicol-Bolas-the-Deceiver.jpg"  media-type="image/jpeg"/>
+		<item id="c57a73f7e3a1422086638808c48c882c" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Djerus-Renunciation.jpg"  media-type="image/jpeg"/>
+		<item id="ee50376a06e943838a2541e94ef7f606" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Neheb-the-Eternal.jpg"  media-type="image/jpeg"/>
+		<item id="f21e08b026cd44df84065d9102e9cf4c" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Strategic-Planning.jpg"  media-type="image/jpeg"/>
+		<item id="cd9c4c88d31c4e2aba58ae48c16c6821" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Life-Goes-On.jpg"  media-type="image/jpeg"/>
+		<item id="bcd91fb330fc4119a88c8929cd07cc52" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_E01_A-Reckoning-Approaches.jpg"  media-type="image/jpeg"/>
+		<item id="be1dc4927f8c4b17844dfc7a414cbcc7" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Torment-of-Venom.jpg"  media-type="image/jpeg"/>
+		<item id="a527d5b2eda54c1293046cc9d0605f91" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Gift-of-Strength.jpg"  media-type="image/jpeg"/>
+		<item id="ea0b3d3336bb4a2cbde2cbc13e3cd59d" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Puncturing-Blow.jpg"  media-type="image/jpeg"/>
+		<item id="f84e8bfdef274921aad7f82ebef0287a" href="Content/Stories/Amonkhet/15-Endure/Images/ciP5tcsS24.jpg"  media-type="image/jpeg"/>
+		<item id="fd135dd7e1c742e5b1b9c63fa41c581f" href="Content/Stories/Amonkhet/15-Endure/Images/cardart_HOU_Leave.jpg"  media-type="image/jpeg"/>
+		<!-- Stories / Amonkhet / 16. Hour of Devastation -->
+		<item id="b382195301b140749fa9c9935a7b52eb" href="Content/Stories/Amonkhet/16-HourOfDevastation/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b2bc2d40e2314fc0b80be27f39ffb316" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_INV_Damnation.jpg"  media-type="image/jpeg"/>
+		<item id="f8a1510e694247e3abc95401a9c3f0d1" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Imminent-Doom.jpg"  media-type="image/jpeg"/>
+		<item id="c3f16d5e087a4085b66fa3598ea449dd" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Hour-of-Devastation.jpg"  media-type="image/jpeg"/>
+		<item id="abf8cb1f9c4a4da188b77bd964ac75c2" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Jaces-Defeat.jpg"  media-type="image/jpeg"/>
+		<item id="f5ce66e12acc496b998080c00126388a" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Lilianas-Defeat.jpg"  media-type="image/jpeg"/>
+		<item id="b0b5ac8e9fc34b34b64be991c5611a61" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Chandras-Defeat.jpg"  media-type="image/jpeg"/>
+		<item id="d4ad9c5272084be69e50e26b972fc7be" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Nissas-Defeat.jpg"  media-type="image/jpeg"/>
+		<item id="ff90a4dab00941c1a68055dd1400c97d" href="Content/Stories/Amonkhet/16-HourOfDevastation/Images/cardart_HOU_Gideons-Defeat.jpg"  media-type="image/jpeg"/>
+		<!-- Planes -->
+		<item id="ee237f6ffcc345058e7318f70ec91fd5" href="Content/Planes/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Planes / Amonkhet -->
+		<item id="fec99fe1af7e4265b4a54991e3663aa4" href="Content/Planes/Amonkhet/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cc87e1b12a564002888f1ca205327d47" href="Content/Planes/Amonkhet/Images/NUFuTxhVKq.jpg" media-type="image/jpeg"/>
+		<!-- Planes / Amonkhet / LegendaryCreatures -->
+		<item id="b0c2d26378a44adabd500f0965b18322" href="Content/Planes/Amonkhet/LegendaryCreatures/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b0d95affda7348a68e05d7a6ff578582" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/OketraTheTrue.jpg" media-type="image/jpeg"/>
+		<item id="cc726c2f55c046ab8fa258dd4587c140" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/KefnetTheMindful.jpg" media-type="image/jpeg"/>
+		<item id="b5d6d8eae6af41e1ab32f151e3550c0c" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/BontuTheGlorified.jpg" media-type="image/jpeg"/>
+		<item id="d32340d448c848599d0795f17c8f23c3" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/HazoretTheFervent.jpg" media-type="image/jpeg"/>
+		<item id="c09a52145d3e4eedb5c24da80a83389d" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/RhonasTheIndomitable.jpg" media-type="image/jpeg"/>
+		<item id="ba768243d48d49aebb589d55b66ca052" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/TemmetVizierOfNaktamun.jpg" media-type="image/jpeg"/>
+		<item id="ed7f3fb0548b4959b319e2ddfde34577" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/HapatraVizierOfPoisons.jpg" media-type="image/jpeg"/>
+		<item id="b13e08e13f38436ea5850c582f4f5336" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/NehebTheWorthy.jpg" media-type="image/jpeg"/>
+		<item id="ec3507e24506465bb308f5872e646b54" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/SamutVoiceOfDissent.jpg" media-type="image/jpeg"/>
+		<item id="d3803d3516b5405193f43d673f78dd88" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/TheGodsOfDestruction.jpg" media-type="image/jpeg"/>
+		<item id="d58a6f4c466e483192743bfbf0b30dd3" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/TheScorpionGod.jpg" media-type="image/jpeg"/>
+		<item id="f4a38acf5df44d4e8131db480a3995f3" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/TheLocustGod.jpg" media-type="image/jpeg"/>
+		<item id="cb5df0d8ba1c405cb386b5f9ad597f9d" href="Content/Planes/Amonkhet/LegendaryCreatures/Images/TheScarabGod.jpg" media-type="image/jpeg"/>
+		<!-- Planes / Amonkhet / Cities -->
+		<item id="ff2ada7fc7bc49f89671b9e6908475ef" href="Content/Planes/Amonkhet/Cities/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ab26eccabd614816a0ed76e817ae7416" href="Content/Planes/Amonkhet/Cities/Images/Naktamun.jpg" media-type="image/jpeg"/>
+		<!-- Planes / Amonkhet / Creature Races -->
+		<item id="f9b31749edad46f5bb91806384e8e474" href="Content/Planes/Amonkhet/CreatureRaces/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b48f4ca055a04d828ecb0ede50956efa" href="Content/Planes/Amonkhet/CreatureRaces/Images/Humans.jpg" media-type="image/jpeg"/>
+		<item id="f161680aa7fd4110ab0fb7b2f8ab738a" href="Content/Planes/Amonkhet/CreatureRaces/Images/Aven.jpg" media-type="image/jpeg"/>
+		<item id="e45d1f94fbaf4d8eabff3bb4ea165b93" href="Content/Planes/Amonkhet/CreatureRaces/Images/Khendra.jpg" media-type="image/jpeg"/>
+		<item id="f28eb8742cb94ea081894d6af64d0fb2" href="Content/Planes/Amonkhet/CreatureRaces/Images/Minotaurs.jpg" media-type="image/jpeg"/>
+		<item id="cb782dd1a8634e838dd5748fd0b87ba4" href="Content/Planes/Amonkhet/CreatureRaces/Images/Naga.jpg" media-type="image/jpeg"/>
+		<!-- Planes / Amonkhet / Planeswalker -->
+		<item id="a9771f133fbe4c1ca3f107a7fa2cc2ec" href="Content/Planes/Amonkhet/Planeswalker/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d06b6e71488d4513aa7d69db38b033b0" href="Content/Planes/Amonkhet/Planeswalker/Images/GideonJura.jpg" media-type="image/jpeg"/>
+		<item id="edcd18df183a4dd0ab59638ee6ee2507" href="Content/Planes/Amonkhet/Planeswalker/Images/JaceBeleren.jpg" media-type="image/jpeg"/>
+		<item id="e99644f98e954e0ea77a196716b8f8fd" href="Content/Planes/Amonkhet/Planeswalker/Images/LilianaVess.jpg" media-type="image/jpeg"/>
+		<item id="c2a6d4358b11483aab4c43e29c79f47b" href="Content/Planes/Amonkhet/Planeswalker/Images/ChandraNalaar.jpg" media-type="image/jpeg"/>
+		<item id="bfd4101c50a1461e9dab9d840c967236" href="Content/Planes/Amonkhet/Planeswalker/Images/NissaRevane.jpg" media-type="image/jpeg"/>
+		<!-- Planeswalker -->
+		<item id="a83904d8831546059a720d2b9281fc13" href="Content/Planeswalker/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Planeswalker / Chandra Nalaar -->
+		<item id="b88f039870394eb78d7d50327bc12b60" href="Content/Planeswalker/ChandraNalaar/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cb33e9eef86e4b33a58e3dcabf039288" href="Content/Planeswalker/ChandraNalaar/Images/ChandraNalaar.jpg" media-type="image/jpeg"/>
+		<!-- Planeswalker / Gideon Jura -->
+		<item id="ada7ceda5e0242e8bb398186da9b994b" href="Content/Planeswalker/GideonJura/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e03f90b099ce49279d069e24380e84f6" href="Content/Planeswalker/GideonJura/Images/GideonJura.jpg" media-type="image/jpeg"/>
+		<!-- Planeswalker / Jace Beleren -->
+		<item id="fc0a82de84124f6c8ec2dba6e372ad03" href="Content/Planeswalker/JaceBeleren/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fd18a048e066457fa41950bb1021e1fa" href="Content/Planeswalker/JaceBeleren/Images/JaceBeleren.jpg" media-type="image/jpeg"/>
+		<!-- Planeswalker / Liliana Vess -->
+		<item id="a2dec4eb5af24034bb6b884fe6d111ea" href="Content/Planeswalker/LilianaVess/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e4b4dd8afe694cc2a9a74820b9ea5851" href="Content/Planeswalker/LilianaVess/Images/LilianaVess.jpg" media-type="image/jpeg"/>
+		<!-- Planeswalker / Nissa Revane -->
+		<item id="b04552c7ab6d4919a5a406aa9821c0d9" href="Content/Planeswalker/NissaRevane/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f6881bc56ac54b659a954b13dc8b3b8f" href="Content/Planeswalker/NissaRevane/Images/NissaRevane.jpg" media-type="image/jpeg"/>
+	</manifest>
+	<spine toc="ncx">
+		<!-- Cover, Title, Table of Content -->
+		<itemref idref="ae215177b4fd4238898b3ed9b4a729f1" />
+		<itemref idref="ee3b2986338a4e1fa6f203d859bb3900" />
+		<itemref idref="cc28e27e9fb54ef4badb54e4da490390" />
+		<!-- Stories -->
+		<itemref idref="b85f744a593c4b68923e2d34d7cdc19f" />
+		<!-- Stories / Amonkhet -->
+		<itemref idref="cd94bbd0d534483da85a9818e3d742df" />
+		<itemref idref="e8e0eeb11bbf4d7389222d19b7bb6337" />
+		<itemref idref="c9a400c528a44657abb0f59ae776fd60" />
+		<itemref idref="fc6f45c1b9b04aac92a8f93ad4b0e21d" />
+		<itemref idref="ed077b1cc40b4dcdb1a7124ac7d442de" />
+		<itemref idref="e8e3ad10ecda447a88ae517053a77bd1" />
+		<itemref idref="dbd2a6ee33de4fc5b49db1bb286c593e" />
+		<itemref idref="d746476e470f42a7adb71b82867b5b00" />
+		<itemref idref="e6b3f0d47e414105aa532b0905af9d4a" />
+		<itemref idref="a08ea302d9b74b818f2463a449bf562b" />
+		<itemref idref="a757a92ab1f34a5eac7848e6c648a05a" />
+		<itemref idref="f6371915560f4b25859dc1f7d202d98f" />
+		<itemref idref="a0e4d7fd141d46d2aa52cdb086d9bf1c" />
+		<itemref idref="fee3a11fcfe3485bbdc33b4421c8c110" />
+		<itemref idref="eb282ebc9d5a433eb5e76dfb0bcb7e1e" />
+		<itemref idref="cd94371613504912a112e878d63c3b53" />
+		<itemref idref="b382195301b140749fa9c9935a7b52eb" />
+		<!-- Index -->
+		<itemref idref="e3b859528e3947dcad12529ce53cbf6d" /> 
+		<!-- Planes -->
+		<itemref idref="ee237f6ffcc345058e7318f70ec91fd5" linear="no" />
+		<!-- Planes / Amonkhet -->
+		<itemref idref="fec99fe1af7e4265b4a54991e3663aa4" linear="no" /> 
+		<itemref idref="b0c2d26378a44adabd500f0965b18322" linear="no" />
+		<itemref idref="ff2ada7fc7bc49f89671b9e6908475ef" linear="no" />
+		<itemref idref="f9b31749edad46f5bb91806384e8e474" linear="no" />
+		<itemref idref="a9771f133fbe4c1ca3f107a7fa2cc2ec" linear="no" />
+		<!-- Planeswalkers -->
+		<itemref idref="a83904d8831546059a720d2b9281fc13" linear="no" />
+		<itemref idref="b88f039870394eb78d7d50327bc12b60" linear="no" />
+		<itemref idref="ada7ceda5e0242e8bb398186da9b994b" linear="no" />
+		<itemref idref="fc0a82de84124f6c8ec2dba6e372ad03" linear="no" />
+		<itemref idref="a2dec4eb5af24034bb6b884fe6d111ea" linear="no" />
+		<itemref idref="b04552c7ab6d4919a5a406aa9821c0d9" linear="no" />
+	</spine>
+</package>
