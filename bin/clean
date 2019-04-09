@@ -11,8 +11,8 @@ if [ -f $1 ]; then
 	cp $TEMP_FILE $1
 	rm $TEMP_FILE
 	
-	# Remove empty lines.
-	sed -i '/^\s*$/d' $1
+	# --
+	sed -i 's/<p><\/p>//g' $1
 	
 	# --
 	sed -i 's/<hr>/<hr \/>/g' $1
@@ -22,6 +22,9 @@ if [ -f $1 ]; then
 	
 	# Replace image URIs.
 	sed -i 's/http:\/\/media.wizards.com\/2015\/images\/daily\//Images\//g' $1
+	
+	# Remove empty lines.
+	sed -i '/^\s*$/d' $1
 	exit 1
 else
 	exit 0
