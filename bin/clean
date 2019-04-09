@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Helper command to clean a copy/pasted html source code.
+
+TEMP_FILE=$(mktemp)
+
+if [ -f $1 ]; then
+	
+	# Covert HTML-entities to literals.
+	cat $1 | python3 -c 'import html, sys; [print(html.unescape(l), end="") for l in sys.stdin]' > $TEMP_FILE
+	cp $TEMP_FILE $1
+	rm $TEMP_FILE
+	
+	# Remove empty lines.
+	sed -i '/^\s*$/d' $1
+	
+	# --
+	sed -i 's/<hr>/<hr \/>/g' $1
+	# --
+	sed -i 's/<a[^>]*>//g' $1
+	sed -i 's/<\/a>//g' $1
+	
+	# Replace image URIs.
+	sed -i 's/http:\/\/media.wizards.com\/2015\/images\/daily\//Images\//g' $1
+	exit 1
+else
+	exit 0
+fi
