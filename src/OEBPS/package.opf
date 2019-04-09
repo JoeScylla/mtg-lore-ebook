@@ -57,6 +57,92 @@
 		<!-- Content -->
 		<!-- Stories -->
 		<item id="b85f744a593c4b68923e2d34d7cdc19f" href="Content/Stories/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Stories / Origins -->
+		<item id="e8368eafaf524252879ddb5f29293946" href="Content/Stories/Origins/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Stories / Origins / 01. Chandra's Origin: Fire Logic -->
+		<item id="afa589594bf045dd8c9dd1fba8f6bacb" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d8139ff15fb249fc8fd64cf8a474bc7b" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_nrnx79twrl.jpg" media-type="image/jpeg"/>
+		<item id="bd783533f734431bbeef83e1b696d56d" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_rtyebl09e0.jpg" media-type="image/jpeg"/>
+		<item id="cc5615b8ebd44f5092d721e88cc01ef4" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_1ix5dzvf5o.jpg" media-type="image/jpeg"/>
+		<item id="f8d97b9ce4c847048a3873e393d14679" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_9qixcdlw5h.jpg" media-type="image/jpeg"/>
+		<item id="d0772241e6004d0897a7b2780702fd14" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_5fi73tg3w9.jpg" media-type="image/jpeg"/>
+		<item id="ec0d5bd7457f4b9485bf4f718b1aa8ee" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_vrgtjjkzuf.jpg" media-type="image/jpeg"/>
+		<item id="c845a932d57d43b2a4aee2dba950c0fd" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_3qsjqyhyyc.jpg" media-type="image/jpeg"/>
+		<item id="ea3c18cec83240d6ad39e7f0b4d05d5d" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_lzcxtkb1xi.jpg" media-type="image/jpeg"/>
+		<item id="b43467a994834e57806f8493cfbaa35c" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_418jnretg7.jpg" media-type="image/jpeg"/>
+		<item id="ffbe426134914c15a42414e66f16cfee" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_7vwpjkl1f7.jpg" media-type="image/jpeg"/>
+		<item id="d31a0a2b24f048f3897a6c1aac266ecf" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_8974uoho4e.jpg" media-type="image/jpeg"/>
+		<item id="bd8868b39de740bb88b6cee4df1da2a3" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_i5i9h16h7g.jpg" media-type="image/jpeg"/>
+		<item id="c40b2abdf9244ac29f80e748e5596538" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_x5igvvpgp8.jpg" media-type="image/jpeg"/>
+		<item id="cf5805314a8d467db610616dc0c3b629" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_4g0kw2ot81.jpg" media-type="image/jpeg"/>
+		<item id="df5738863e47431a82fe867d4f66d7ba" href="Content/Stories/Origins/01-ChandrasOriginFireLogic/Images/card4rt_mismjknm6a.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Origins / 02. Liliana's Origin: The Fourth Pact -->
+		<item id="d679dd2ffb4b4adfa251f8be21ebfa44" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a1290fa9beb94a0a8f2d1fb73146e0c6" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_jliTjJXKq4.jpg" media-type="image/jpeg"/>
+		<item id="daece4a5393241b8b5e1aeb5a2610642" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_pguJpjtqcy.jpg" media-type="image/jpeg"/>
+		<item id="c8a51a36d5514bfdb26ed21e25543526" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_vtntRQapZQ.jpg" media-type="image/jpeg"/>
+		<item id="b464a5ee91964fbea860841c0a79072c" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_IxDftKyS6d.jpg" media-type="image/jpeg"/>
+		<item id="d7b548bd18d540f98dd4a360d24db888" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_jgnNdMzpMO.jpg" media-type="image/jpeg"/>
+		<item id="f546007edd454f62b3ebe52ccfbf51e1" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_4gjUwewpJu.jpg" media-type="image/jpeg"/>
+		<item id="ac7858cb10e744d5a2b5d7ddea80d126" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_zzUvSUab5V.jpg" media-type="image/jpeg"/>
+		<item id="a709c183950f4f1585e23c9bcf72d148" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_v6eSXtfKVU.jpg" media-type="image/jpeg"/>
+		<item id="bf8bf91bbff04a7c9f2148040cd72b30" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_wwSxDjMM0T.jpg" media-type="image/jpeg"/>
+		<item id="bc775bee61da45b6a176f28018c07109" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_6uealrQZVL.jpg" media-type="image/jpeg"/>
+		<item id="de8a6e0271e84c2fa49fe4a2cb4cd719" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_r355Gqt3Ei.jpg" media-type="image/jpeg"/>
+		<item id="ff65b5008cbb4a64b798986b06b73775" href="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Images/cardart_uwMVww8ftw.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Origins / 03. Jace's Origin: Absent Minds -->
+		<item id="dceeb1f7916a41c481594d7d8657dea0" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="eafe013640494e6082caca7fdbbd40c3" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/en_jM4lpIu9Uy.png" media-type="image/png"/>
+		<item id="d113d09058ae4440a37fb846fc2a046d" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/en_1E2dacS9In.png" media-type="image/png"/>
+		<item id="b3169fbc45e248b0a330b955b58a0c45" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_csysnAEdbJ.jpg" media-type="image/jpeg"/>
+		<item id="ffbdc1dfd6694957b6517ae4495ba6b3" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_TlxF0Eozkd.jpg" media-type="image/jpeg"/>
+		<item id="ce76bcb6b58342b5a9d79443d1fba3d4" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_C2dgxJL9kA.jpg" media-type="image/jpeg"/>
+		<item id="fcf5a83137d24e81a845eb045cc63a0a" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_iuDKcfi018.jpg" media-type="image/jpeg"/>
+		<item id="e473a8a8a1cd4361875a92ee9762ad53" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_nkviaZbTp1.jpg" media-type="image/jpeg"/>
+		<item id="f5ffa6a7d9be4170870ba5d91f7c71eb" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_eYmk2V6W8c.jpg" media-type="image/jpeg"/>
+		<item id="e20bf8c987e84abe84a94b79494a6010" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_M3YpNbbNbt.jpg" media-type="image/jpeg"/>
+		<item id="dd5ffbf38921432593dd43aecfbafd2b" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_swgqYY2U25.jpg" media-type="image/jpeg"/>
+		<item id="d9a301fb83b041bc83808ceba3dc2bfc" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_IooxilJ2nH.jpg" media-type="image/jpeg"/>
+		<item id="c14ff348bdca4752a19fb97ad8d5d854" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_AqG952jRlU.jpg" media-type="image/jpeg"/>
+		<item id="b145f0898c04428db1ab4c9a0676adbc" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_1uqbRIlQbo.jpg" media-type="image/jpeg"/>
+		<item id="d7ad1df5f85d40eeb72a520cfdb3086f" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_UgcHouETJM.jpg" media-type="image/jpeg"/>
+		<item id="eb761c1984fb4e4ca4296ca15aa4f7fc" href="Content/Stories/Origins/03-JacesOriginAbsentMinds/Images/cardart_EizdEEZTUQ.png" media-type="image/png"/>
+		<!-- Stories / Origins / 04. Gideon’s Origin: Kytheon Iora of Akros -->
+		<item id="cc162a38e5dd48dd9a1fa4af3fd5dee0" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fddf47a7ed9449c18a8901aee84a2e31" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/KeyArt_vQqf7vOH8J.jpg" media-type="image/jpeg"/>
+		<item id="a0feb7df190545d6861531b1a473544b" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_N108LBch1A.jpg" media-type="image/jpeg"/>
+		<item id="d9453369073e4b108f2104288d30db6a" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_4J2DTeUFUH.jpg" media-type="image/jpeg"/>
+		<item id="a721d485eb974d3f95af7bb0f8e376c1" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_ttvJUR24kw.jpg" media-type="image/jpeg"/>
+		<item id="d61803ac894d4eb1ba2b6175a5d03938" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_aKs5KXcNkw.jpg" media-type="image/jpeg"/>
+		<item id="b370094073d545539ea4c15b6aff8a96" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_OzZNDjqR41.jpg" media-type="image/jpeg"/>
+		<item id="e61e197111464d0aad7ef053055b48cf" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_CG3pPyDwHt.jpg" media-type="image/jpeg"/>
+		<item id="e51544ef48e24cf8810a73dd7f77b5a4" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_IvbadqCHQNL.jpg" media-type="image/jpeg"/>
+		<item id="c07baeff9e9840999d19d5adaaadc115" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_WZz5IjisiK.png" media-type="image/png"/>
+		<item id="bfd50520d3ca49a0ab7353c243d1d171" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_cdNAnEMm1.jpg" media-type="image/jpeg"/>
+		<item id="bb20daaa7560451aa12df91593ec6b11" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_dc4BSfWW07.jpg" media-type="image/jpeg"/>
+		<item id="fb5d382b887b424a8d237456bc1c27dd" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_2I2ympNB3W.jpg" media-type="image/jpeg"/>
+		<item id="d4c30849c4cd4e6d99fd3960924a3de5" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_TZj78Idk1V.jpg" media-type="image/jpeg"/>
+		<item id="c85bf2c8097b4f3ca1731ab6c0c3eb07" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_6SUOVi7qNx.jpg" media-type="image/jpeg"/>
+		<item id="c7c4d0550dc340dda7db2fd494c32b3d" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_fFvacbJZF2.jpg" media-type="image/jpeg"/>
+		<item id="b8c180915286449bac1b2b03b1ad74c9" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/en_ZvgnxRnNhy.png" media-type="image/png"/>
+		<item id="a7e95e36ba8e46c795a0db8fcc34ab57" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_TmiKeLNWv9.jpg" media-type="image/jpeg"/>
+		<item id="cb06db25b10e4a4aa153746e7094c925" href="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Images/cardart_bEB11vu5wT.png" media-type="image/png"/>
+		<!-- Stories / Origins / 05. Nissa’s Origin: Home -->
+		<item id="a6ec723d0c0a44e5b241daa70666427b" href="Content/Stories/Origins/05-NissasOriginHome/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fb0c1d7c11374211a41cf1b5c2c061dd" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_XIVN8ZLTQ2.png" media-type="image/png"/>
+		<item id="e0da3ce8adc140c6b9a70873876764c6" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_QXO5X9RSX6.jpg" media-type="image/jpeg"/>
+		<item id="f5d24ec671924df98bc25598142d717d" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_UGYRLY7JK1.jpg" media-type="image/jpeg"/>
+		<item id="abac312b2d4d4932b940d32069fe790a" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_TS2JJNWHQ5.jpg" media-type="image/jpeg"/>
+		<item id="bd0cd7e775774018989f3355f9e31f8b" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_3NLMJBCKOT.jpg" media-type="image/jpeg"/>
+		<item id="fab2dc08af49455f9fe2685d184d5e79" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_NATLHKV6MV.jpg" media-type="image/jpeg"/>
+		<item id="abb842925ad44ae88eb7faaf3b228e5a" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_OLOA6USPAS.jpg" media-type="image/jpeg"/>
+		<item id="b8bbb94da0e94dfdaa968e3891ade334" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_ZL2EGG9EKC.jpg" media-type="image/jpeg"/>
+		<item id="aa38409908e34f0a98c9aa8d6b7327d8" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_3XWXBVDL66.jpg" media-type="image/jpeg"/>
+		<item id="cf1e232c6ea04b01a3c395c5deb459fd" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_TNQRW37EJ1.jpg" media-type="image/jpeg"/>
+		<item id="d1c1f4a6cea94eb2a44c0469382b3766" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_3LN6379VOS.jpg" media-type="image/jpeg"/>
+		<item id="a12bca00169448ce824ffca3857c1fd1" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_ONH007VSSR.jpg" media-type="image/jpeg"/>
+		<item id="aa6c6c6ea0ad4929aaaa3cd5ad997b0d" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_Q5N10U0PM8.jpg" media-type="image/jpeg"/>
+		<item id="eef3582e08904c2ea281d3872d275e64" href="Content/Stories/Origins/05-NissasOriginHome/Images/c4rdar7_S91CI4OVF5.jpg" media-type="image/jpeg"/>
 		<!-- Stories / Amonkhet -->
 		<item id="cd94bbd0d534483da85a9818e3d742df" href="Content/Stories/Amonkhet/Index.xhtml" media-type="application/xhtml+xml"/>
 		<!-- Stories / Amonkhet / 01. Impact -->
@@ -279,6 +365,13 @@
 		<itemref idref="cc28e27e9fb54ef4badb54e4da490390" />
 		<!-- Stories -->
 		<itemref idref="b85f744a593c4b68923e2d34d7cdc19f" />
+		<!-- Stories / Origins -->
+		<itemref idref="e8368eafaf524252879ddb5f29293946" />
+		<itemref idref="afa589594bf045dd8c9dd1fba8f6bacb" />
+		<itemref idref="d679dd2ffb4b4adfa251f8be21ebfa44" />
+		<itemref idref="dceeb1f7916a41c481594d7d8657dea0" />
+		<itemref idref="cc162a38e5dd48dd9a1fa4af3fd5dee0" />
+		<itemref idref="a6ec723d0c0a44e5b241daa70666427b" />
 		<!-- Stories / Amonkhet -->
 		<itemref idref="cd94bbd0d534483da85a9818e3d742df" />
 		<itemref idref="e8e0eeb11bbf4d7389222d19b7bb6337" />

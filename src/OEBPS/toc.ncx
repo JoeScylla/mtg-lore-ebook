@@ -18,9 +18,36 @@
 			<navLabel><text>Table of Content</text></navLabel>
 			<content src="Content/TableOfContent.xhtml"/>
 		</navPoint>
+		<!-- Stories -->
 		<navPoint id="c515e1619b7e4e1dbf5d78726bc0073f">
 			<navLabel><text>Stories</text></navLabel>
 			<content src="Content/Stories/Index.xhtml"/>
+			<!-- Stories / Origins -->
+			<navPoint id="c5ef43103fda4acb8bff7cb161af2f30">
+				<navLabel><text>Origins</text></navLabel>
+				<content src="Content/Stories/Origins/Index.xhtml"/>
+				<navPoint id="d3db673188374286a19248bd967c9a95">
+					<navLabel><text>01. Chandra's Origin: Fire Logic</text></navLabel>
+					<content src="Content/Stories/Origins/01-ChandrasOriginFireLogic/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="a2893f0371c04705b70c9d8efcefea60">
+					<navLabel><text>02. Liliana's Origin: The Fourth Pact</text></navLabel>
+					<content src="Content/Stories/Origins/02-LilianasOriginTheFourthPact/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="ce4dbde55a6b45b781686adb1602cf26">
+					<navLabel><text>03. Jace's Origin: Absent Minds</text></navLabel>
+					<content src="Content/Stories/Origins/03-JacesOriginAbsentMinds/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="eaf83a6453e34b2b968df2a82c7c1399">
+					<navLabel><text>04. Gideon's Origin: Kytheon Iora of Akros</text></navLabel>
+					<content src="Content/Stories/Origins/04-GideonsOriginKytheonIoraOfAkros/Index.xhtml"/>
+				</navPoint>
+				<navPoint id="a3380d9c66e8421ba4ecbc75c0f5354c">
+					<navLabel><text>05. Nissa's Origin: Home</text></navLabel>
+					<content src="Content/Stories/Origins/05-NissasOriginHome/Index.xhtml"/>
+				</navPoint>
+			</navPoint>
+			<!-- Stories / Amonkhet -->
 			<navPoint id="ff3f534fa7b645f48276284adc2082d7">
 				<navLabel><text>Amonkhet</text></navLabel>
 				<content src="Content/Stories/Amonkhet/Index.xhtml"/>
@@ -94,9 +121,11 @@
 			<navLabel><text>Index</text></navLabel>
 			<content src="Content/Index.xhtml"/>
 		</navPoint>
+		<!-- Planes -->
 		<navPoint id="f44de760d11e49ff94fa1ab19b9f1c79">
 			<navLabel><text>Planes</text></navLabel>
 			<content src="Content/Planes/Index.xhtml"/>
+			<!-- Planes / Amonkhet -->
 			<navPoint id="f5ad954569514e77a59d7149d879b2cd">
 				<navLabel><text>Amonkhet</text></navLabel>
 				<content src="Content/Planes/Amonkhet/Index.xhtml"/>
@@ -118,6 +147,7 @@
 				</navPoint>
 			</navPoint>
 		</navPoint>
+		<!-- Planeswalker -->
 		<navPoint id="f7fdf0d8663b4a01b80e116569771911">
 			<navLabel><text>Planeswalker</text></navLabel>
 			<content src="Content/Planeswalker/Index.xhtml"/>
