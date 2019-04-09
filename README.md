@@ -8,6 +8,9 @@ LLC.
 
 This ebook uses following libraries and assets:
 
+[EPUBCheck](https://github.com/w3c/epubcheck) released under
+[BSD 3-Clause “New” or “Revised” License](https://choosealicense.com/licenses/bsd-3-clause/).
+
 [Blitz eBook Framework v1.2.0](https://github.com/FriendsOfEpub/Blitz) released under 
 [MIT License](https://choosealicense.com/licenses/mit/) © 2016, Jiminy Panoz.
 
