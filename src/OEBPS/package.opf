@@ -59,7 +59,6 @@
 		<item id="b85f744a593c4b68923e2d34d7cdc19f" href="Stories/Index.xhtml" media-type="application/xhtml+xml"/>
 		<!-- Stories / Magic Origins -->
 		<item id="e8368eafaf524252879ddb5f29293946" href="Stories/083-MagicOrigins/Index.xhtml" media-type="application/xhtml+xml"/>
-		<!-- Stories / Magic Origins / 1. Chandra's Origin: Fire Logic -->
 		<item id="afa589594bf045dd8c9dd1fba8f6bacb" href="Stories/083-MagicOrigins/001-ChandrasOriginFireLogic/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d8139ff15fb249fc8fd64cf8a474bc7b" href="Stories/083-MagicOrigins/001-ChandrasOriginFireLogic/Images/card4rt_nrnx79twrl.jpg" media-type="image/jpeg"/>
 		<item id="bd783533f734431bbeef83e1b696d56d" href="Stories/083-MagicOrigins/001-ChandrasOriginFireLogic/Images/card4rt_rtyebl09e0.jpg" media-type="image/jpeg"/>
@@ -76,7 +75,6 @@
 		<item id="c40b2abdf9244ac29f80e748e5596538" href="Stories/083-MagicOrigins/001-ChandrasOriginFireLogic/Images/card4rt_x5igvvpgp8.jpg" media-type="image/jpeg"/>
 		<item id="cf5805314a8d467db610616dc0c3b629" href="Stories/083-MagicOrigins/001-ChandrasOriginFireLogic/Images/card4rt_4g0kw2ot81.jpg" media-type="image/jpeg"/>
 		<item id="df5738863e47431a82fe867d4f66d7ba" href="Stories/083-MagicOrigins/001-ChandrasOriginFireLogic/Images/card4rt_mismjknm6a.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Magic Origins / 2. Liliana's Origin: The Fourth Pact -->
 		<item id="d679dd2ffb4b4adfa251f8be21ebfa44" href="Stories/083-MagicOrigins/002-LilianasOriginTheFourthPact/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a1290fa9beb94a0a8f2d1fb73146e0c6" href="Stories/083-MagicOrigins/002-LilianasOriginTheFourthPact/Images/cardart_jliTjJXKq4.jpg" media-type="image/jpeg"/>
 		<item id="daece4a5393241b8b5e1aeb5a2610642" href="Stories/083-MagicOrigins/002-LilianasOriginTheFourthPact/Images/cardart_pguJpjtqcy.jpg" media-type="image/jpeg"/>
@@ -90,7 +88,6 @@
 		<item id="bc775bee61da45b6a176f28018c07109" href="Stories/083-MagicOrigins/002-LilianasOriginTheFourthPact/Images/cardart_6uealrQZVL.jpg" media-type="image/jpeg"/>
 		<item id="de8a6e0271e84c2fa49fe4a2cb4cd719" href="Stories/083-MagicOrigins/002-LilianasOriginTheFourthPact/Images/cardart_r355Gqt3Ei.jpg" media-type="image/jpeg"/>
 		<item id="ff65b5008cbb4a64b798986b06b73775" href="Stories/083-MagicOrigins/002-LilianasOriginTheFourthPact/Images/cardart_uwMVww8ftw.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Magic Origins / 3. Jace's Origin: Absent Minds -->
 		<item id="dceeb1f7916a41c481594d7d8657dea0" href="Stories/083-MagicOrigins/003-JacesOriginAbsentMinds/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="eafe013640494e6082caca7fdbbd40c3" href="Stories/083-MagicOrigins/003-JacesOriginAbsentMinds/Images/en_jM4lpIu9Uy.png" media-type="image/png"/>
 		<item id="d113d09058ae4440a37fb846fc2a046d" href="Stories/083-MagicOrigins/003-JacesOriginAbsentMinds/Images/en_1E2dacS9In.png" media-type="image/png"/>
@@ -107,7 +104,6 @@
 		<item id="b145f0898c04428db1ab4c9a0676adbc" href="Stories/083-MagicOrigins/003-JacesOriginAbsentMinds/Images/cardart_1uqbRIlQbo.jpg" media-type="image/jpeg"/>
 		<item id="d7ad1df5f85d40eeb72a520cfdb3086f" href="Stories/083-MagicOrigins/003-JacesOriginAbsentMinds/Images/cardart_UgcHouETJM.jpg" media-type="image/jpeg"/>
 		<item id="eb761c1984fb4e4ca4296ca15aa4f7fc" href="Stories/083-MagicOrigins/003-JacesOriginAbsentMinds/Images/cardart_EizdEEZTUQ.png" media-type="image/png"/>
-		<!-- Stories / Magic Origins / 4. Gideon’s Origin: Kytheon Iora of Akros -->
 		<item id="cc162a38e5dd48dd9a1fa4af3fd5dee0" href="Stories/083-MagicOrigins/004-GideonsOriginKytheonIoraOfAkros/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="fddf47a7ed9449c18a8901aee84a2e31" href="Stories/083-MagicOrigins/004-GideonsOriginKytheonIoraOfAkros/Images/KeyArt_vQqf7vOH8J.jpg" media-type="image/jpeg"/>
 		<item id="a0feb7df190545d6861531b1a473544b" href="Stories/083-MagicOrigins/004-GideonsOriginKytheonIoraOfAkros/Images/cardart_N108LBch1A.jpg" media-type="image/jpeg"/>
@@ -127,7 +123,6 @@
 		<item id="b8c180915286449bac1b2b03b1ad74c9" href="Stories/083-MagicOrigins/004-GideonsOriginKytheonIoraOfAkros/Images/en_ZvgnxRnNhy.png" media-type="image/png"/>
 		<item id="a7e95e36ba8e46c795a0db8fcc34ab57" href="Stories/083-MagicOrigins/004-GideonsOriginKytheonIoraOfAkros/Images/cardart_TmiKeLNWv9.jpg" media-type="image/jpeg"/>
 		<item id="cb06db25b10e4a4aa153746e7094c925" href="Stories/083-MagicOrigins/004-GideonsOriginKytheonIoraOfAkros/Images/cardart_bEB11vu5wT.png" media-type="image/png"/>
-		<!-- Stories / Magic Origins / 5. Nissa’s Origin: Home -->
 		<item id="a6ec723d0c0a44e5b241daa70666427b" href="Stories/083-MagicOrigins/005-NissasOriginHome/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="fb0c1d7c11374211a41cf1b5c2c061dd" href="Stories/083-MagicOrigins/005-NissasOriginHome/Images/c4rdar7_XIVN8ZLTQ2.png" media-type="image/png"/>
 		<item id="e0da3ce8adc140c6b9a70873876764c6" href="Stories/083-MagicOrigins/005-NissasOriginHome/Images/c4rdar7_QXO5X9RSX6.jpg" media-type="image/jpeg"/>
@@ -145,7 +140,6 @@
 		<item id="eef3582e08904c2ea281d3872d275e64" href="Stories/083-MagicOrigins/005-NissasOriginHome/Images/c4rdar7_S91CI4OVF5.jpg" media-type="image/jpeg"/>
 		<!-- Stories / Battle for Zendikar -->
 		<item id="b1a1593e932f40b2b10a1064b547f5f2" href="Stories/084-BattleForZendikar/Index.xhtml" media-type="application/xhtml+xml"/>
-		<!-- Stories / Battle for Zendikar / 1. Drop for Drop -->
 		<item id="a4f702f7c5b446e48b621655e445d47c" href="Stories/084-BattleForZendikar/001-DropForDrop/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a4e611e3095b44cda45cd5ca509737ff" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_KioratheCrashingWave.png" media-type="image/png"/>
 		<item id="a9255e1ed5334f81b10e30e5a7e014aa" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_ThassasIre.jpg" media-type="image/jpeg"/>
@@ -155,7 +149,6 @@
 		<item id="e755365c799d45e8a9870ba6bbe485fe" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_VoyagesEnd.jpg" media-type="image/jpeg"/>
 		<item id="d0621e9b9c6d4136896cc64a149ac44a" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_Harrow.jpg" media-type="image/jpeg"/>
 		<item id="d32512e3660048e88f0770b3ee1c7881" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_BidentofThassa.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 2. Stirring from Slumber -->
 		<item id="e68a771ed3c64899820939418eb641b3" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c5883cd929ce4c04b772e7700f0c5d75" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_NomadsAssembly.jpg" media-type="image/jpeg"/>
 		<item id="b88d66dedac2436e9fd289f65fa4c9ab" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_EmrakulsHatcher.jpg" media-type="image/jpeg"/>
@@ -164,7 +157,6 @@
 		<item id="b4fdf07873a34b6b956de63b08d4e56f" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_NahiritheLithomancer.png" media-type="image/png"/>
 		<item id="d6b35073e519406e95d833f594e31da1" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_GuulDrazAssassin.jpg" media-type="image/jpeg"/>
 		<item id="b5cb05de125641d796e36695c5eaa88a" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_PerilousVault.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 3. Limits -->
 		<item id="c3f40d3eb8864ca1beed3a46f951c396" href="Stories/084-BattleForZendikar/003-Limits/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f1c2730e686b40da83f935083c248359" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_Plains123755.jpg" media-type="image/jpeg"/>
 		<item id="d888600403ad433a9434f86d5ba78f3d" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_FiveAlarmFire.jpg" media-type="image/jpeg"/>
@@ -175,7 +167,6 @@
 		<item id="dea27c381867410997b78180c5950e8a" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_D11LoadScreen.jpg" media-type="image/jpeg"/>
 		<item id="ece537187e044847bf0c7469c1db5c0e" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_AncientStirrings.jpg" media-type="image/jpeg"/>
 		<item id="a1f5f23605fd439fa8e6917cae584367" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_PathrazerofUlamogPromo.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 4. Catching Up -->
 		<item id="c653e6e052344234872193bbdc47d0d0" href="Stories/084-BattleForZendikar/004-CatchingUp/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ab3f014ab46d4504a813efed48fa2669" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_EizdEEZTUQ.png" media-type="image/png"/>
 		<item id="cf57407e8b5c4c5298fa10f373fc18c0" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_LaviniaoftheTenth.jpg" media-type="image/jpeg"/>
@@ -190,7 +181,6 @@
 		<item id="e159acf5915e427d90e0d9b0f515995c" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_GideonChampionofJustice.png" media-type="image/png"/>
 		<item id="ce26da2b469541be86cf4701477b4cf1" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_TalentoftheTelepath.jpg" media-type="image/jpeg"/>
 		<item id="dfe5b89ee70a4efe9ef139d647eb8a9a" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_137431.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 5. Unkindness of Ravens -->
 		<item id="e1c44848dbe64b84a1a877d420b8c573" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f25910df20ed4ae4bf1f02a15c560624" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_M15_The-Chain-Veil.jpg" media-type="image/jpeg"/>
 		<item id="eed53b7e39c84bd18eb671c41765aa31" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_ORI_Demonic-Pact.jpg" media-type="image/jpeg"/>
@@ -199,7 +189,6 @@
 		<item id="d843bdce623b43f8947d8c7e9278f00a" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_C13_Raven-Familiar.jpg" media-type="image/jpeg"/>
 		<item id="eefb81837c624be7a6292ff2c9a93279" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_D16_Liliana-Interstitial-8.jpg" media-type="image/jpeg"/>
 		<item id="bd38ec85bd4042bc938561fbaa732536" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_M15_Carrion-Crow.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 6. Offers to the Fire -->
 		<item id="ab1fdc9bc95b41b3aebefec94fa9f6a7" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d860d7e7b0f14632a967cdc20c0bcfa4" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Mountain_160368.jpg" media-type="image/jpeg"/>
 		<item id="db837ad80e93458db9b3a22fafe53620" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Abbot-of-Keral-Keep.jpg" media-type="image/jpeg"/>
@@ -210,7 +199,6 @@
 		<item id="d7cfade7097241c4966d3fc07367d8cc" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Jace-Telepath-Unbound.jpg" media-type="image/jpeg"/>
 		<item id="bd1edd15d4d442fcb18b83ddc9f91f7b" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_GTC_Gideon-Champion-of-Justice.jpg" media-type="image/jpeg"/>
 		<item id="c6be88478c3a45fca0da749f4c887669" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Chandra-Roaring-Flame.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 7. For Zendikar -->
 		<item id="ba825042741d4625b12a8122a16b129f" href="Stories/084-BattleForZendikar/007-ForZendikar/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d460ff881f904338b776933eb15173e9" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Nissa-Sage-Animist.jpg" media-type="image/jpeg"/>
 		<item id="adbbe44a170041d1b4ca944377e7a72d" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Animists-Awakening.jpg" media-type="image/jpeg"/>
@@ -231,7 +219,6 @@
 		<item id="a457e82635b8434ca6367b7b6e92522f" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_M11_Leyline-of-Vitality.jpg" media-type="image/jpeg"/>
 		<item id="d0baf66d10e543b2a2b8d0573de80e18" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_WWK_Vastwood-Zendikon.jpg" media-type="image/jpeg"/>
 		<item id="efe38c1ba2634be4a6cb739a26b7ad26" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_WWK_Groundswell.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 8. Slaughter at the Refuge -->
 		<item id="a587b273641f43bb8b8b85727ed54556" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d2fb47b460ae43c897eec1aac5c4c2ee" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/rj37auzaj7.jpg" media-type="image/jpeg"/>
 		<item id="d8345610d8e84343815d412b0b27696e" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
@@ -241,7 +228,6 @@
 		<item id="ce1fd455c071418dbaccf2fb13f5faf1" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/1yu9kxjuce.jpg" media-type="image/jpeg"/>
 		<item id="f773f69cb4b54ad997d011fd26c40874" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/gm07546g55.jpg" media-type="image/jpeg"/>
 		<item id="b67ae854028e47bcb7267cbe5872d2ee" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/mhenbhvort.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 9. The Silent Cry -->
 		<item id="fd714b084a2f4f0c8b1536badd2e1ae2" href="Stories/084-BattleForZendikar/009-TheSilentCry/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="e764f9d4233a4c80ba33a40cbdfb4cc2" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/UdeR7EjjL0.jpg" media-type="image/jpeg"/>
 		<item id="d5b94e06276d4bfd9e77607ee1b2f46e" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/GX9WacRXBY.jpg" media-type="image/jpeg"/>
@@ -254,7 +240,6 @@
 		<item id="f3a2372d89124409859f8469b4c69afe" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/4AfWZrTMSp.jpg" media-type="image/jpeg"/>
 		<item id="fc8f30189bde43968ff79d8758e38e90" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/tQ4SrkPza6.jpg" media-type="image/jpeg"/>
 		<item id="fa04aba0509b4bcaa0553c9db152cfad" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 10. The Believer's Pilgrimage -->
 		<item id="b6e8e87acb6f4909b0a37ef814258303" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a42a5c8b7f3d4035897dc1514462db54" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_WakIySb2h4.jpg" media-type="image/jpeg"/>
 		<item id="aee64edfe9184a65a15cefbe1fa1a435" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_xBBBP3Rc8j.jpg" media-type="image/jpeg"/>
@@ -264,7 +249,6 @@
 		<item id="fb103a42b5534851888cc9cfeeebbf31" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_OTQBwlQeRf.jpg" media-type="image/jpeg"/>
 		<item id="acfdba11e2864ce08599da03ac6ca38c" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_7ziyOorHiy.jpg" media-type="image/jpeg"/>
 		<item id="d9641ee9c57f4edab266933af83ee94a" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_WgVLGdHlKz.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 11. The Survivors of Sky Rock -->
 		<item id="ecb4f658f42343bb807abb31eaf9e18f" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a86ed4c94b7848b38aa36c4a617f190e" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_irUQ5GmTXX.jpg" media-type="image/jpeg"/>
 		<item id="d608dab529dd4d1f829761760740bc83" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_9qQm70BtPX.jpg" media-type="image/jpeg"/>
@@ -279,7 +263,6 @@
 		<item id="c3a0ac8ba0494cfe9af537e1ca406a46" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_ZOd4kfAjDr.jpg" media-type="image/jpeg"/>
 		<item id="bb8c72d008ac42fe9097b3e3a6912a55" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_bjt3ieQws8.jpg" media-type="image/jpeg"/>
 		<item id="c9026570118041a3ae2e7180f8b7d14f" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 12. Memories of Blood -->
 		<item id="d200df102568404b8b9e140e766f46e3" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c5752eb0e1e44bd8862d0464dec5d3a6" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/en_Ofep9LePMi.png" media-type="image/png"/>
 		<item id="cd08cbb0817e4516bc14039248fe3fe4" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_UVElC2YyiL.jpg" media-type="image/jpeg"/>
@@ -293,7 +276,6 @@
 		<item id="cb095605d6bb43fbae0d256ad2749b5a" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_OxtvU7d6tk.jpg" media-type="image/jpeg"/>
 		<item id="e7403f35b1e746288d0ecc6144621f2b" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_pjr1CzFs9A.jpg" media-type="image/jpeg"/>
 		<item id="c1e5200f80bf46c3b7ea806111d60495" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_n9RtlMZorV.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 13. Nissa's Quest -->
 		<item id="de983dfcc8e4433985211e7cd3f626b5" href="Stories/084-BattleForZendikar/013-NissasQuest/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="b187a469897e444b8877427bca639f00" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
 		<item id="ffb7cfd7d31844f0a4c7eac792a56cb1" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ORI_Zendikars-Roil.jpg" media-type="image/jpeg"/>
@@ -303,7 +285,6 @@
 		<item id="b4386b24a6b94581aa10516c5145ef7c" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/c4rd4r7_2Tc6AcNvEP.jpg" media-type="image/jpeg"/>
 		<item id="cb7f6debcd0b4ba18e54c54f48f8c776" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ZEN_Khalni-Heart-Expedition.jpg" media-type="image/jpeg"/>
 		<item id="ffadff49b96846978a0783e2c48e8502" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_NissasExpedition.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 14. Home Waters -->
 		<item id="d0b09fc7ebb14e2f9196205951b71f29" href="Stories/084-BattleForZendikar/014-HomeWaters/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="aa67944e25524c7bb5b1ef5eedbd9258" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_tsAaRPTRmF.jpg" media-type="image/jpeg"/>
 		<item id="f8fed78983ed4a7dabbd3e886213439b" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_0qEtP7Uja1.jpg" media-type="image/jpeg"/>
@@ -316,7 +297,6 @@
 		<item id="d7911f5a0dfd4b2680bc004f63b0a069" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_7ziyOorHiy.jpg" media-type="image/jpeg"/>
 		<item id="b4967af4543140b88a1c779d4c57bb49" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/cardart_ZEN_Sea-Gate-Loremaster.jpg" media-type="image/jpeg"/>
 		<item id="a34f893659284f7fb0c12eaa6b191682" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/cardart_ZEN_Island-258.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 15. Nissa's Resolve -->
 		<item id="d6bcaa9448184cd8a1cf54bc45d9555e" href="Stories/084-BattleForZendikar/015-NissasResolve/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="daf03fa8368a4da7806d13861147438d" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_BFZ_Blighted-Woodland.jpg" media-type="image/jpeg"/>
 		<item id="c4c009f662474174add8631e5a277481" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/c4rd4r7_6R0jNH68W2.jpg" media-type="image/jpeg"/>
@@ -332,7 +312,6 @@
 		<item id="ce8e28b51a8c4b3b853e2f6289303786" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ZEN_Khalni-Heart-Expedition.jpg" media-type="image/jpeg"/>
 		<item id="a17318fb6293431a9ee1d1779720dabc" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_MM2_Blinkmoth-Nexus.jpg" media-type="image/jpeg"/>
 		<item id="c262575d61634b9d83e078c12c89040e" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 16. Revelation at the Eye -->
 		<item id="a4e1874304ea4797b22efaf77a31735d" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d93f2ce9a477443b922ed2cbbccc0868" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Looming-Spires.jpg" media-type="image/jpeg"/>
 		<item id="fb70b5a46d864f039ef6c4d0debb0c81" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Salvage-Drone.jpg" media-type="image/jpeg"/>
@@ -344,7 +323,6 @@
 		<item id="ff9c6054eb54483d9f2fc0a397f22f9e" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Dispel.jpg" media-type="image/jpeg"/>
 		<item id="b073f59e0b9f4ffab1514829f46c28a9" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/3hnueij4kd_storyshot.jpg" media-type="image/jpeg"/>
 		<item id="d72836fb45834f059952d0ae685a4738" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/c4rd4r7_CXAtiVtVvz.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 17. Shaping an Army -->
 		<item id="ad19b19ba94145fe87dbeeb137e0ce24" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f7c3008294ee4470a38bb8e2b193727b" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Retreat-to-Coralhelm.jpg" media-type="image/jpeg"/>
 		<item id="e238c89fe66f418286c4deade0e76344" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_Roil-Spout.jpg" media-type="image/jpeg"/>
@@ -357,7 +335,6 @@
 		<item id="d9df25626f1340a38f9d82195a7d72d7" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Noyan-Dar-Roil-Shaper.jpg" media-type="image/jpeg"/>
 		<item id="af3e80375a48458c9b70ef0290711620" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Boiling-Earth.jpg" media-type="image/jpeg"/>
 		<item id="d0fd99d02b1141f98bea0f4ba18bd0fc" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Prairie-Stream.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 18. The Liberation of Sea Gate -->
 		<item id="be8579097f614e58900f8fd13f0a42c7" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ff324e8d12d240ed8dcd015402a92ce3" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Serpentine-Spike.jpg" media-type="image/jpeg"/>
 		<item id="e62ff9b0ca4240879e928a9b6ca61341" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/c4rd4r7_2Tc6AcNvEP.jpg" media-type="image/jpeg"/>
@@ -367,7 +344,6 @@
 		<item id="d8109ccf7f244ce8af86c4f7523fdb7f" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Kalastria-Nightwatch.jpg" media-type="image/jpeg"/>
 		<item id="aa2caf8baa134ee79c4c0950e3a902cc" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Woodland_Wanderer.jpg" media-type="image/jpeg"/>
 		<item id="db488e8c99464269979013e9952b9bd3" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Outnumber.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 19. Hedron Alignment -->
 		<item id="d54b750f154241b7800e9623cc336642" href="Stories/084-BattleForZendikar/019-HedronAlignment/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="fe28e80359734c1da3fcc75e4ac3cd59" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_EVK_Kiora-the-Crashing-Wave.jpg" media-type="image/jpeg"/>
 		<item id="a7f0163810f94802add888852837ab43" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_THS_PRM_Bident-of-Thassa.jpg" media-type="image/jpeg"/>
@@ -385,7 +361,6 @@
 		<item id="c301ed849ded42f79fe4c5c71c87bebf" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Goblin-War-Paint.jpg" media-type="image/jpeg"/>
 		<item id="d002e98e570a4c4e90ce6ad7bad1b262" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
 		<item id="fd57c0d1cabc416083bfc60f5ab1eec7" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Demons-Grasp.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 20. At Any Cost  -->
 		<item id="e2eb521e832d4b5298a5d424e6f1ad4d" href="Stories/084-BattleForZendikar/020-AtAnyCost/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="bea0a4d9dbd1438daa70b87da53e709e" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Nissas-Renewal.jpg" media-type="image/jpeg"/>
 		<item id="bd7a44100e3746bcaa522406b4f70ce2" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Sire-of-Stagnation.jpg" media-type="image/jpeg"/>
@@ -393,7 +368,6 @@
 		<item id="e66255e59a344a1b9bcc3b7b53664273" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
 		<item id="e8b6ba51418b4b1f9f4eed67041b3f24" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Demons-Grasp.jpg" media-type="image/jpeg"/>
 		<item id="cb5aa9de840f4dcfa6aa5acbe74262f1" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/c4rd4r7_-VxY1TFS7My.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 21. Promises to Keep  -->
 		<item id="f7bad6826cd0414bbdd5d50ff7eeff08" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="aa5b382d49f44a5f945dc9f7c8b01ba3" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_ORI_Mountain-268.jpg" media-type="image/jpeg"/>
 		<item id="e91a76b1f65b409bac871dc70c438ed8" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_BFZ_Skyline-Cascade.jpg" media-type="image/jpeg"/>
@@ -404,7 +378,6 @@
 		<item id="ebe81bb8abdd4ff99e8eb985a66cce44" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_ORI_Chandra-Roaring-Flame.jpg" media-type="image/jpeg"/>
 		<item id="ff787a9af1b745b88e6c1feef80260c8" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_BFZ_Ob-Nixilis-Reignited.jpg" media-type="image/jpeg"/>
 		<item id="e040ca87f5be4377bb635c3619671694" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/c4rd4r7_NhORRpG3i5.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Battle for Zendikar / 22. The Rise of Kozilek  -->
 		<item id="c5d3a731db434953811dc4cdc5076333" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ba45f4a31e664cb8a153814947635cf7" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/cardart_BFZ_Kiora-close.jpg" media-type="image/jpeg"/>
 		<item id="c4f00840b1fc4c3ab9c2a6041f82fa8d" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/cardart_ZEN_Lorthos-the-Tidemaker.jpg" media-type="image/jpeg"/>
@@ -413,7 +386,6 @@
 		<item id="bdc0009cfc1d4d2a854bf27291b7073b" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/c4rd4r7_g7jaab0wd0.jpg" media-type="image/jpeg"/>
 		<!-- Stories / Oath of the Gatewatch -->
 		<item id="f5429ad999434cab8b6f2e2dd0d0e217" href="Stories/085-OathOfTheGatewatch/Index.xhtml" media-type="application/xhtml+xml"/>
-		<!-- Stories / Oath of the Gatewatch / 1. Retaliation of Ob Nixilis -->
 		<item id="ceb7f0af0c764af6983e53c93c8dda4b" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f77fdff566cd41159a5587271968d906" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/en_PCXZnQjfTF.png" media-type="image/png"/>
 		<item id="f984d4b920074961a6e410c56c31ed55" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
@@ -426,7 +398,6 @@
 		<item id="c0bce15df6a941b8a1450c382aa1a321" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/VnlStEaAbl.jpg" media-type="image/jpeg"/>
 		<item id="ae094291f2274f2f90b4a7997ab963ce" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
 		<item id="f6a7197aa70247ea83a90f5a49acad1c" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/c4rd4r7_42DJIbUqFt.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 2. Reclamation -->
 		<item id="b306be7e0e334fe491692ebc951e7027" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f1d6414af58d4183ab95f7b9893df8bd" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/en_2xAXRdWQSW.png" media-type="image/png"/>
 		<item id="bfab23b42ab74ee6b9ddf63faa72f05c" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4rt_gIjMDtzif3.jpg" media-type="image/jpeg"/>
@@ -434,7 +405,6 @@
 		<item id="f72996339a294e7d95c8e50c02cff6da" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_DCBhdxZCRT.jpg" media-type="image/jpeg"/>
 		<item id="a7a62698a4724aa4bd6612eb2edc1c70" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_4XhCrEOW8A.jpg" media-type="image/jpeg"/>
 		<item id="a66684122f2a49e795eaaefcd97cc104" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_4Vci7ve9Ww.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 3. The Blight We Were Born For -->
 		<item id="e5a0420fa64f4e91b02a4f953c9236be" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="e64f2d09bf1e4cfd9eb519d29b11231e" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
 		<item id="fd926801351e4806a15cbe92b2ed86cf" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/QxjSHc9Dvr.jpg" media-type="image/jpeg"/>
@@ -454,7 +424,6 @@
 		<item id="baa9105316f24a0ebc983185c25b1338" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/c4rd4r7_OxtvU7d6tk.jpg" media-type="image/jpeg"/>
 		<item id="d154a702e961435a9411ccb99e81bfe2" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/ORBbiVIdoI.jpg" media-type="image/jpeg"/>
 		<item id="f8034f8a551a40bdbe6654a5f6d7ef1a" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/z0fuoL1hEF.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 4. Up in Flames -->
 		<item id="fe2356475f0a4aac88741c3f7400d66f" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="fe2945721ed34779afd4fba9398ac026" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_ORI_Gideons-PhalanxB.jpg" media-type="image/jpeg"/>
 		<item id="d0da8f9f8bac4faf8ad841d73972bdb6" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_General-Tazri.jpg" media-type="image/jpeg"/>
@@ -463,14 +432,12 @@
 		<item id="a1d65757247e4dabaf5d0f0d2bc31573" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_Remorseless-Punishment.jpg" media-type="image/jpeg"/>
 		<item id="c59d59164ae645dfba6deef20eb08856" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_Devour-in-Flames.jpg" media-type="image/jpeg"/>
 		<item id="c48ea0e1a6934259b78002e62158eb23" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/storyart_OGW_Nissas-Nemesis.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 5. Beneath the Surface -->
 		<item id="cbbf6256ae384fd5b06b4f00cd463d37" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="cc4beee1cff34a5790ba1aed656cfee6" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Jori-En_Ruin_Diver.jpg" media-type="image/jpeg"/>
 		<item id="f9d91c369f164f82b780d5e5127259d8" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Kozilek-the-Great-Distortion.jpg" media-type="image/jpeg"/>
 		<item id="c0a9174f60234d4181470df18daa32a8" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Deepfathom-SkulkerB.jpg" media-type="image/jpeg"/>
 		<item id="ad9f0e76df28435c9570861f44eb3e38" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Unknown-Shores.jpg" media-type="image/jpeg"/>
 		<item id="c606db7e915f4b71bdc83db42cd9942f" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Goblin-Dark-Dwellers.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 6. Oath of the Gatewatch -->
 		<item id="cbb8aeb6c4464a6190a1d067db837448" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="eef24ce05233469789d2b5a9b2b35676" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Ruin-In-Their-Wake.jpg" media-type="image/jpeg"/>
 		<item id="aaeff08ed6394dd2ad85bbfa3d48dd05" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Gideon.jpg" media-type="image/jpeg"/>
@@ -478,7 +445,6 @@
 		<item id="d9be8ee791c7444db11079d9c0a4ca07" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Jace.jpg" media-type="image/jpeg"/>
 		<item id="f40f0dd7f34d48809e2e2109db4de1ba" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Chandra.jpg" media-type="image/jpeg"/>
 		<item id="e5b36635ad9f4aa9893d9b5deb24a769" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Call-the-Gatewatch.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 7. Brink of Extinction -->
 		<item id="dc9186b7509d4f069df26fe6a382c22f" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a09b2a635173473cb719c3941ff68dd0" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_General-Tazri.jpg" media-type="image/jpeg"/>
 		<item id="f30f3bc2a84d4e88a4726fb1f8d01d81" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_Oath-of-Nissa.jpg" media-type="image/jpeg"/>
@@ -487,7 +453,6 @@
 		<item id="b8aca1ed6f78432996d90587c6f6befb" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_Nissas-Judgment.jpg" media-type="image/jpeg"/>
 		<item id="d76e3fec34b94cf68c36cb17f5cf2d04" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_BFZ_Nissa-Master-of-the-Depths.jpg" media-type="image/jpeg"/>
 		<item id="c4670b3b32b54e6bbc7d4c873afecff0" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_Unity-of-Purpose.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 8. Zendikar's Last Stand -->
 		<item id="aa025b64f3e046389d68861510e2d45a" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="aaf9c1650ed04da69a90d13e11d842ae" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Relief-Captain.jpg" media-type="image/jpeg"/>
 		<item id="f588bc5bb1e0435db53f06fbcb7aa49b" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Overwhelming-Denial.jpg" media-type="image/jpeg"/>
@@ -502,7 +467,6 @@
 		<item id="ba9f4086bfb54f03804f0745aede1b0a" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_EXP_Mana-Confluence.jpg" media-type="image/jpeg"/>
 		<item id="a8dccdde087c46b38b570cac4830b032" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_WastesB.jpg" media-type="image/jpeg"/>
 		<item id="f02ec4991acc4c3da5ff10485b4d6957" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Affa-Protector.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Oath of the Gatewatch / 9. Zendikar Resurgent -->		
 		<item id="b182d452e7714b1cbf23ac429dcc353d" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="b76f4b225d5f4e519ab4df9500135256" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Oath-of-Gideon.jpg" media-type="image/jpeg"/>
 		<item id="c6861885f3f44bd39317761546f61d08" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_BFZ_Island-257.jpg" media-type="image/jpeg"/>
@@ -512,9 +476,225 @@
 		<item id="f4819b6d26014ccdb7f4cc5fff2a07ea" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_FRF_Ugin-the-Spirit-DragonA.jpg" media-type="image/jpeg"/>
 		<item id="f269d70f5e5e4f95955612f27343064e" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Oath-of-Nissa.jpg" media-type="image/jpeg"/>
 		<item id="d7554dab04ba408482951cc33cf02487" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Zendikar-Resurgent.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Shadows over Innistrad -->
+		<item id="fb2c3ff58a354a6cbb85aee8a4d97ae2" href="Stories/086-ShadowsOverInnistrad/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="dab3a20ac59e4193b936d8cc52fccb9f" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b08fe79a39184a9eb9b2305287cb242c" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/c4rd4r7_sGipe4TBjF.jpg" media-type="image/jpeg"/>
+		<item id="e15ca268af9c40588fea53bf4ffea931" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/c4rd4r7_nJSF7KlCDN.jpg" media-type="image/jpeg"/>
+		<item id="a83ac126c9ff4baea176354f755f6c45" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/9c4rd4r7_nrKKL8ohyw.jpg" media-type="image/jpeg"/>
+		<item id="a1bc1907772644e3947826d577df51c4" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/cardart_ISD_Village-Bell-Ringer.jpg" media-type="image/jpeg"/>
+		<item id="d35f292f9ba7493bbfba3ea8b476124d" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/cardart_ISD_Silver-Inlaid-Dagger.jpg" media-type="image/jpeg"/>
+		<item id="e772dae5b3064b4b83a4f59a095edf60" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/cardart_ISD_Paraselene.jpg" media-type="image/jpeg"/>
+		<item id="be3c67824a5c4b75b8e4afacb90dc577" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/cardart_ISD_Forest-262.jpg" media-type="image/jpeg"/>
+		<item id="ef2e7161693c45d3a517992c587fde3e" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/c4rd4r7_GJoTe8KJtl.jpg" media-type="image/jpeg"/>
+		<item id="d810acd1d1124ae191ae990eedfa3fc2" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/c4rd4r7_TkYCOwPqrw.jpg" media-type="image/jpeg"/>
+		<item id="da7a7955f3024cfe8c6ef49054dc6168" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/c4rd4r7_h9XsKVPIrA.jpg" media-type="image/jpeg"/>
+		<item id="bbc089f758d74db59927a14235522641" href="Stories/086-ShadowsOverInnistrad/001-UnderTheSilverMoon/Images/c4rd4r7_Domal7RecD.jpg" media-type="image/jpeg"/>
+		<item id="fb6591e3276e40838e36d34223d18c7b" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fc345411c6e044dca524ebbf2286d1f3" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/cardart_AVR_Avacyn-Angel-of-Hope.jpg" media-type="image/jpeg"/>
+		<item id="bf2c5f25ef9d4b0c951e10ee22fbd2a7" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_1cV68y6XOr.jpg" media-type="image/jpeg"/>
+		<item id="b3917336ae214c0eb48ed52e1266940c" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_bNQoBYIcDk.jpg" media-type="image/jpeg"/>
+		<item id="bf33c1ee5a2843e18a872c385f31f659" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_PuyzNJVWpY.jpg" media-type="image/jpeg"/>
+		<item id="d6bd8dfa487b486cb31dddf86805febb" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_shgJojj4Rs.jpg" media-type="image/jpeg"/>
+		<item id="d987daf7dba44361bf8f7a429d8c6118" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_AhigHOQxTp.jpg" media-type="image/jpeg"/>
+		<item id="acb25ad34be94418b674a71cd3d5fedd" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_Dt8mafr3Ih.jpg" media-type="image/jpeg"/>
+		<item id="febe4d449afb4034b059a3d66c511ed4" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_H4BkTzKYL9.jpg" media-type="image/jpeg"/>
+		<item id="dd9d9264948b4622817c73f3cde31238" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_A6LT8AmdaY.jpg" media-type="image/jpeg"/>
+		<item id="b8e5e4b335fd49e98bf55774e60b0935" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_T78MpUS8nZ.jpg" media-type="image/jpeg"/>
+		<item id="cd1a26835bdf42d39912e9751df7f91c" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_P0rlvsPu4q.jpg" media-type="image/jpeg"/>
+		<item id="fc4d3f0bf6174a51ac2e6fb81cfeb092" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/cardart_AVR_Bruna-Light-of-Alabaster.jpg" media-type="image/jpeg"/>
+		<item id="cc6cdd5c007f4689b38239059b9daccc" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/cardart_AVR_Gisela-Blade-of-Goldnight.jpg" media-type="image/jpeg"/>
+		<item id="faf897d9a4f34231a35bc6d9d0cfaf9e" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_MkPi3K9BtS.jpg" media-type="image/jpeg"/>
+		<item id="e45013798f3340a1b932cb9807ab2a50" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_9y5HIzDmTS.jpg" media-type="image/jpeg"/>
+		<item id="b17ec53d91de4c9dad7e195117c86e1c" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_ofc6hlDKZb.jpg" media-type="image/jpeg"/>
+		<item id="a4af4d0524494848974875b114332292" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_JKW38cUCxR.jpg" media-type="image/jpeg"/>
+		<item id="cd24107e88c24fc4b005b6b773b550ae" href="Stories/086-ShadowsOverInnistrad/002-AGazeBlankAndPitiless/Images/c4rd4r7_ExRPnMojKR.jpg" media-type="image/jpeg"/>
+		<item id="b6a85ba010c346ce8d95545ec15a00d3" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e6af033467464d998d9d7ae32a56b744" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Images/en_lYCOLf1gCh.png" media-type="image/png"/>
+		<item id="b77190ac98a84379904c2d6c66d13bf8" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Images/s70ry4r7_XHpoPNLBC7.jpg" media-type="image/jpeg"/>
+		<item id="c40d4cd441b14cb399b6a25092a72484" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Images/cardart_M12_Phantasmal-Bear.jpg" media-type="image/jpeg"/>
+		<item id="ce19310aede84431ba4844335939f425" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Images/s70ry4r7_NAd3BlhN7Z.jpg" media-type="image/jpeg"/>
+		<item id="c1b6d38a18ee49fea3750f5ac7070e52" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Images/cardart_AVR_Barter_In-Blood.jpg" media-type="image/jpeg"/>
+		<item id="bc936db0073b4aa5984bc7166f8ab29f" href="Stories/086-ShadowsOverInnistrad/003-Unwelcome/Images/cardart_M15_Endless-Obedience.jpg" media-type="image/jpeg"/>
+		<item id="da3bf783bafc4019b8b351e8ede133a4" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c2026010b0244a308064a69c040d6d9a" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/en_LsYpeyc5Iu.png" media-type="image/png"/>
+		<item id="e8c713d9a0474c3bb35f767388cf652b" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_JN8JKcnuov.jpg" media-type="image/jpeg"/>
+		<item id="bbc85ee67cd644b8b6a0b69405fdf294" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_5fKdRSymow.jpg" media-type="image/jpeg"/>
+		<item id="a7137bddcdb74bcf867afe2814530ecd" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_MTKnJ0jzrr.jpg" media-type="image/jpeg"/>
+		<item id="e4686d01c6fa495cb6b9c31f83765f96" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/cardart_ISD_Mausoleum-Guard.jpg" media-type="image/jpeg"/>
+		<item id="e6303766ff92416293c860a87c417014" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/cardart_DKA_Wolfhunters-Quiver.jpg" media-type="image/jpeg"/>
+		<item id="d17da7991b7647e29a1b84309cb4cf0b" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/cardart_ISD_Sharpened-Pitchfork.jpg" media-type="image/jpeg"/>
+		<item id="a1153d337f244309acc30ad1e67bdf5a" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_MpBVXP2XsR.jpg" media-type="image/jpeg"/>
+		<item id="b630591222624b87b2fbd1b34f998314" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_EhUBb4UHQo.jpg" media-type="image/jpeg"/>
+		<item id="ffb3c685c12c4813948a322a3b470e4e" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_ZNvAVHexYz.jpg" media-type="image/jpeg"/>
+		<item id="e6309e1ba7d9436daf8c690a617eebe1" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_GagCaoBH8L.jpg" media-type="image/jpeg"/>
+		<item id="c8e3bcdad54043c3b173516caba7b9d0" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_1fpBdIUaFc.jpg" media-type="image/jpeg"/>
+		<item id="d5ab71bbb0d942569fe4a200659cb487" href="Stories/086-ShadowsOverInnistrad/004-Sacrifice/Images/c4rd4r7_AtzPs1LxSh.jpg" media-type="image/jpeg"/>
+		<item id="a1946b80965a496d89eca86fb7c7565f" href="Stories/086-ShadowsOverInnistrad/005-TheMysteryOfMarkovManor/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a92362d5d6af4b88a478d8a948e424ef" href="Stories/086-ShadowsOverInnistrad/005-TheMysteryOfMarkovManor/Images/c4rd4r7_UL2RlnhTzq.jpg" media-type="image/jpeg"/>
+		<item id="f2ade331c9d94152be09265f373169e2" href="Stories/086-ShadowsOverInnistrad/005-TheMysteryOfMarkovManor/Images/c4rd4rt_6pCkFyzhKe.jpg" media-type="image/jpeg"/>
+		<item id="fe1a58f7d36046228208b5621968df93" href="Stories/086-ShadowsOverInnistrad/005-TheMysteryOfMarkovManor/Images/c4rd4r7_f8L5R18SI7.jpg" media-type="image/jpeg"/>
+		<item id="f91789e1a2984f688eeb4b8fa110ec76" href="Stories/086-ShadowsOverInnistrad/005-TheMysteryOfMarkovManor/Images/c4rd4r7_GPEC2sCxCp.jpg" media-type="image/jpeg"/>
+		<item id="b1235f69336e49288f3cf366b37aeac2" href="Stories/086-ShadowsOverInnistrad/005-TheMysteryOfMarkovManor/Images/c4rd4r7_ihKN2Ka8vs.jpg" media-type="image/jpeg"/>
+		<item id="aa4d08945be84009bf35120c0380366c" href="Stories/086-ShadowsOverInnistrad/006-TheDrownyardTemple/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cc0e98ca273f467ea521504eb39b8d4c" href="Stories/086-ShadowsOverInnistrad/006-TheDrownyardTemple/Images/cardart_SOI_Tamiyos-Journal.jpg" media-type="image/jpeg"/>
+		<item id="a2301224e06941768f1523fd2f800a6e" href="Stories/086-ShadowsOverInnistrad/006-TheDrownyardTemple/Images/cardart_SOI_Weirding-Wood.jpg" media-type="image/jpeg"/>
+		<item id="b81e343609ba4102928b446d6f49481e" href="Stories/086-ShadowsOverInnistrad/006-TheDrownyardTemple/Images/cardart_SOI_Jaces-Scrutiny.jpg" media-type="image/jpeg"/>
+		<item id="fb9dd378efa445a2b8be832b69c316df" href="Stories/086-ShadowsOverInnistrad/006-TheDrownyardTemple/Images/cardart_SOI_Epiphany-at-the-Drownyard.jpg" media-type="image/jpeg"/>
+		<item id="c79d6e5996ef41e5a1a388a3715eb3f8" href="Stories/086-ShadowsOverInnistrad/006-TheDrownyardTemple/Images/cardart_SOI_Drownyard-Temple.jpg" media-type="image/jpeg"/>
+		<item id="c992c3b546a541f7a84c90b0975e58fd" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ac0ca7fc319144bab21105ec58e1ae96" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_ISD_Olivia-Voldaren.jpg" media-type="image/jpeg"/>
+		<item id="e4c310e7110041b0a813c8b0863f4284" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_JUDGE_Vindicate.jpg" media-type="image/jpeg"/>
+		<item id="eda7fae0b60a41029d7ec498a8d4f0ee" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_SOI_Vampire-Noble.jpg" media-type="image/jpeg"/>
+		<item id="c2359b264af443ed9d5482425c920ebf" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_ISD_Vampiric-Fury.jpg" media-type="image/jpeg"/>
+		<item id="f7f8aedb016b4a57a0200f52cd948621" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_SOI_Merciless-Resolve.jpg" media-type="image/jpeg"/>
+		<item id="faeec42784b04522a9b3124a493488cc" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_DKA_Helvault.jpg" media-type="image/jpeg"/>
+		<item id="c133aeb834de4379bcc509a59019863a" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/4RcI794lvy_Nahiri.jpg" media-type="image/jpeg"/>
+		<item id="cf88aa701eb941a8b343fc2f78e5fed2" href="Stories/086-ShadowsOverInnistrad/007-PromisesOldAndNew/Images/cardart_ISD_Avacyn-Angel-of-Hope.jpg" media-type="image/jpeg"/>
+		<item id="c1d4456cdd9947a2aa33352b58bc3b27" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f94452c5817441b98a48d8b704041ca9" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/cardart_SOI_Swamp-289.jpg" media-type="image/jpeg"/>
+		<item id="e62b7df9b14e4c07940da0bf4e7537d7" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/storyart_ORI_Raven-Man.jpg" media-type="image/jpeg"/>
+		<item id="bfc1c1c01dc34675bea4e454a496d31a" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/cardart_SOI_Lilianas-Indignation.jpg" media-type="image/jpeg"/>
+		<item id="d64762f7b9374cb3a1d5e2dd3f650c50" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/c4rd4r7_f8L5R18SI7.jpg" media-type="image/jpeg"/>
+		<item id="de293dba1f8048d68faf000d6a4aef60" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/cardart_M15_The-Chain-Veil.jpg" media-type="image/jpeg"/>
+		<item id="f0e0b123eec1444488756bb5eaa7864f" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/cardart_SOI_Behind-the-Scenes.jpg" media-type="image/jpeg"/>
+		<item id="cd9b95ce01d1468badb2815b453c19fb" href="Stories/086-ShadowsOverInnistrad/008-LilianasIndignation/Images/cardart_SOI_Crow-of-Dark-Tiding.jpg" media-type="image/jpeg"/>
+		<item id="fcebcb084fe54e81b0c128d5d67387d9" href="Stories/086-ShadowsOverInnistrad/009-Games/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a86553072aa0454ea99986b1ca795d0a" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/Cardart_C14-Stitcher-Geralf.jpg" media-type="image/jpeg"/>
+		<item id="cc60556ea1d84b488576d0665dc74d5d" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_DKA_Zombie-Apocalypse.jpg" media-type="image/jpeg"/>
+		<item id="bcfecc3f6d5f4e3d837c36924d849d5d" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_C14_Ghoulcaller-Gisa.jpg" media-type="image/jpeg"/>
+		<item id="c128b17d65d0408e942c0a9fa2f48df7" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_SOI_Ever-After.jpg" media-type="image/jpeg"/>
+		<item id="c073ab19926e4b749edfb67a15791c6f" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_SOI_Geralfs-Masterpiece.jpg" media-type="image/jpeg"/>
+		<item id="b56d62ec1cc74c8b98e19c5a38ee22cb" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_SOI_Gisas-Bidding.jpg" media-type="image/jpeg"/>
+		<item id="fd6bb672e8514c98a77a518ab333ccf2" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_SOI_Drownyard_Temple.jpg" media-type="image/jpeg"/>
+		<item id="a2bb4504729546ee84f7d3d3ffbf8477" href="Stories/086-ShadowsOverInnistrad/009-Games/Images/cardart_SOI_Prized-Amalgam.jpg" media-type="image/jpeg"/>
+		<item id="bebc21a1bf2b4b009f6a089ab37d9fc9" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="afe4c65014524b1b80acdff592b97ebb" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_PRM_Thalia-Guardian-of-Thraben.jpg" media-type="image/jpeg"/>
+		<item id="c75ab91a86c3428a99752dacda79233f" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/storyart_AVR_Opening-the-Helvault.jpg" media-type="image/jpeg"/>
+		<item id="a67a2135002b4226b65c454a0ff1a8b7" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_Strength-of-Arms.jpg" media-type="image/jpeg"/>
+		<item id="a3cebce735294e5991f20a3483df7c91" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_SOI_Hope-Against-Hope.jpg" media-type="image/jpeg"/>
+		<item id="a3f719c0e00a4d02934c1a6f428bb2f3" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_SOI_Thalias-Lieutenant.jpg" media-type="image/jpeg"/>
+		<item id="e5bc0aea845d4efb93077d66a327e436" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_M13_Crusader-of-Odric.jpg" media-type="image/jpeg"/>
+		<item id="bdfbaf4eb5784fefac0def83bd896124" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_SOI_Odric-Lunarch-Marshal.jpg" media-type="image/jpeg"/>
+		<item id="edb3b0931b614f1f898d0d1064678653" href="Stories/086-ShadowsOverInnistrad/010-TheLunarchInquisition/Images/cardart_SOI_Invocation-of-Saint-Traft.jpg" media-type="image/jpeg"/>
+		<item id="f311c77c999b4db1a4973e01282858a5" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e2485bbc9eee43a8b5cdc9603ee3d8fc" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_AVR_Tamiyo-the-Moon-Sage.jpg" media-type="image/jpeg"/>
+		<item id="f7a67f69d2b046138ab1bc6a8d7a4b57" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SPEC_SOK_Oni-of-Wild-Places.jpg" media-type="image/jpeg"/>
+		<item id="e8c02733f2ed42bc8970f7e70057668a" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SOI_Jace-Unraveler-of-Secrets.jpg" media-type="image/jpeg"/>
+		<item id="b9d534a7785c4dbb8c0d24ed73cd7eca" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SPEC_FD_Myr-Servitor.jpg" media-type="image/jpeg"/>
+		<item id="e1b2905eedff483fbf7e093f66459e42" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SOI_Pieces-of-the-Puzzle.jpg" media-type="image/jpeg"/>
+		<item id="ffde4eaf442e4ffba145f38113f03197" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_CNS_Fact-or-Fiction.jpg" media-type="image/jpeg"/>
+		<item id="f0a503298df54e38951be1f5b5c6bd94" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SOI_Avacyns-Judgment.jpg" media-type="image/jpeg"/>
+		<item id="c7a3ba0a90b2402e83772f794298c60f" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SPEC_IA_Cover-of-Winter.jpg" media-type="image/jpeg"/>
+		<item id="e54950ed140b4b82935ee128220ad4b4" href="Stories/086-ShadowsOverInnistrad/011-StoriesAndEndings/Images/cardart_SOI_Avacyn-the-Purifier.jpg" media-type="image/jpeg"/>
+		<item id="f56d4760461d4b88928024e5781c93a9" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="eb3dd676810c4895ac8518df877d8011" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_SOI_Avacyns-Judgment.jpg" media-type="image/jpeg"/>
+		<item id="f0525823b6104473ae4d9cbc47e7df77" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_SOI_Story-5B.jpg" media-type="image/jpeg"/>
+		<item id="dcc92ccec6a546218600e1c88acff7ec" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_SOI_Clue-6.jpg" media-type="image/jpeg"/>
+		<item id="ab2b6a1144234c16a5fededf423bd272" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_SOI_Always-Watching.jpg" media-type="image/jpeg"/>
+		<item id="baa2af1d7d6d4659b860c2f148b5c97e" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_DKA_Vault-of-the-Archangel.jpg" media-type="image/jpeg"/>
+		<item id="b875659e5a6848d0b86f3d013f60a591" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_PRM_Anguished-Unmaking.jpg" media-type="image/jpeg"/>
+		<item id="ed43aab6aac141538f477e62c9c10ecd" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_AVR_Holy-Justiciar.jpg" media-type="image/jpeg"/>
+		<item id="f8fd57d8b207468aaabc83dc4d678e89" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_ISD_Selfless-Cathar.jpg" media-type="image/jpeg"/>
+		<item id="d6d6af02b64e493393d1ba226318b390" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_AVR_Lunar-Mystic.jpg" media-type="image/jpeg"/>
+		<item id="f561b684c7374757882d9d73ccda32ad" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_DDQ_Geist-of-Saint-Traft.jpg" media-type="image/jpeg"/>
+		<item id="b6c21a83be0d40d49a97ace0062b18ee" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_AVR_Banners_Raised.jpg" media-type="image/jpeg"/>
+		<item id="f6495047a9f5438e8fb386894280b602" href="Stories/086-ShadowsOverInnistrad/012-IAmAvacyn/Images/cardart_DKA_Increasing-Devotion.jpg" media-type="image/jpeg"/>
+		<item id="b0828b2e9a9c4810afdfc172a4c4e085" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fa676c21b9bd4b329ad41e931320e931" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Images/cardart_SOI_Flameblade-Angel.jpg" media-type="image/jpeg"/>
+		<item id="c901675f5dc14635a824f8a2ad9e86d3" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Images/c4rd4r7_aJHbdn9L23.jpg" media-type="image/jpeg"/>
+		<item id="e10846327ed14785905678c189ea944b" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Images/cardart_SOI_Clip-Wings.jpg" media-type="image/jpeg"/>
+		<item id="a397f4e9562945a4af639e89fa77309b" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Images/cardart_SOI_Arlinn-Embrace-by-the-Moon.jpg" media-type="image/jpeg"/>
+		<item id="db674360bbbc4b1e8437790f02bd3159" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Images/cardart_SOI_Reaper-of-Flight-Moonsilver.jpg" media-type="image/jpeg"/>
+		<item id="aa4fb8a50c9f4e0cb9eb3befb19de1cb" href="Stories/086-ShadowsOverInnistrad/013-TheArchmageOfGoldnight/Images/cardart_SOI_Arlinn-Kord.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Eldritch Moon -->
+		<item id="b4445d14d6564b418cf8380288c19140" href="Stories/087-EldritchMoon/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e3204b649bb845ebbc73600ba920b060" href="Stories/087-EldritchMoon/001-StoneAndBlood/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d7d3e8ed3c144ce3986f5584de992630" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_DKA_Helvault.jpg" media-type="image/jpeg"/>
+		<item id="edc7bc9f181a4a21b44f37d19c717d46" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_ZEN_Sorin-Markhov.jpg" media-type="image/jpeg"/>
+		<item id="cee195c5402f4cc5b3f250918251f0c5" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/storyart_ROE_Three-Planeswalkers-Trap.jpg" media-type="image/jpeg"/>
+		<item id="ea5312c253344200968d6443483d1a39" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_ISD_Paraselene.jpg" media-type="image/jpeg"/>
+		<item id="f58f20bd25844bb89f60791ebdbb1829" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_AVR_Avacyn-Angel-of-Hope.jpg" media-type="image/jpeg"/>
+		<item id="eeb1def727154d01bf2d2285bb036bf9" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/storyart_EMN_Sorin-Nahiri.jpg" media-type="image/jpeg"/>
+		<item id="b6227c1efbad4df48a92cb5444453471" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_ZEN_Magma-Rift.jpg" media-type="image/jpeg"/>
+		<item id="a1bb7a3ee55446af868713aba6cdf43f" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_BFZ_Prairie-Stream.jpg" media-type="image/jpeg"/>
+		<item id="c804d24cc9a44fa1ba01bfbcd4f84fe6" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_ZEN_Valakut-the-Molten-Pinnacle.jpg" media-type="image/jpeg"/>
+		<item id="bbbfeceb77ff47718b01db5e2696f521" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/stroyart_AVR_Opening-the-Helvault.jpg" media-type="image/jpeg"/>
+		<item id="ddf22efb1daa42e9a36e709f93be25dc" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_BFZ_Cliffside-Lookout.jpg" media-type="image/jpeg"/>
+		<item id="aa74886c965c427fa7c1f4ebd4f2344d" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_BFZ_WastesB.jpg" media-type="image/jpeg"/>
+		<item id="dcb1cebd4a1b45119f037a8146fcda81" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_BFZ_Ulamog-the-Ceaseless-Hunger.jpg" media-type="image/jpeg"/>
+		<item id="a1ef906be03745fe9a1a85adaa6ce688" href="Stories/087-EldritchMoon/001-StoneAndBlood/Images/cardart_SOI_Nahiri-the-Harbinger-Lrg.jpg" media-type="image/jpeg"/>
+		<item id="f60ff18d62124a91a5caf77a102d3fe9" href="Stories/087-EldritchMoon/002-EmrakulRises/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c354919e6c9840a0b00ed90f60cfda9b" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/cardart_SOI_Warped-Landscape.jpg" media-type="image/jpeg"/>
+		<item id="b450927e2fec4137906d0dd25da672fe" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rda4r7_p28Lubv7PG.jpg" media-type="image/jpeg"/>
+		<item id="b60494ac7f1747678bb79671be720f64" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_MkPi3K9BtS.jpg" media-type="image/jpeg"/>
+		<item id="a45c9621561047659d34794eeb58aa5e" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_eF8xEYNBQk.jpg" media-type="image/jpeg"/>
+		<item id="c37b0f22e2764cc987b311484d171428" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_wUabhf69Ep.jpg" media-type="image/jpeg"/>
+		<item id="b2613108d899436d86168e2ab671191a" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_RKjhNfODcm.jpg" media-type="image/jpeg"/>
+		<item id="e0f0e0409a9a4685b7fa1b98a2a62c7b" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_yx5tKcdibd.jpg" media-type="image/jpeg"/>
+		<item id="fbdabcd60269417b8d2539f163d872f6" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_3ubNi4n6aj.jpg" media-type="image/jpeg"/>
+		<item id="f50d3baa8ca0454cbb19023ddbd85c17" href="Stories/087-EldritchMoon/002-EmrakulRises/Images/c4rd4r7_aaFtCcikDA.jpg" media-type="image/jpeg"/>
+		<item id="a4c100b8c08f4601a774436be31687df" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ae735752e1de45aaab54bdb726a6e860" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/cardart_M15_The-Chain-Veil.jpg" media-type="image/jpeg"/>
+		<item id="e8201a5e0ed9489da9d64c7665048149" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/c4rd4r7_wd8WtoTz6G.jpg" media-type="image/jpeg"/>
+		<item id="e19a6083bc264cd2b07f77c02134df04" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/c4rd4r7_XKZHzY7L7M.jpg" media-type="image/jpeg"/>
+		<item id="dec12bf626ac494daf015d3089fab774" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/c4rd4r7_qnO3ZHHec2.jpg" media-type="image/jpeg"/>
+		<item id="a60f5637c47c4248a65cb5643016468c" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/en_D0gaFPhvFg.png" media-type="image/png"/>
+		<item id="e59cdb3e06564138b750090698944450" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/cardart_SOI_Indulgent-Aristocrat.jpg" media-type="image/jpeg"/>
+		<item id="e4285f62ddf64b018a5d0acf6af7c4b6" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/cardart_SOI_Call-the-Bloodline.jpg" media-type="image/jpeg"/>
+		<item id="d3ec3fd3404447788e266db2065ddbbe" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/cardart_Sorins-Thirst.jpg" media-type="image/jpeg"/>
+		<item id="f22630f2bc4b4961b5c54f5ae14e782a" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/c4rd4r7_5Hvc6uRj7B.jpg" media-type="image/jpeg"/>
+		<item id="fd6daa5d8a6a4107a04cf60783bf1b82" href="Stories/087-EldritchMoon/003-InnistradsLastHope/Images/c4rd4r7_Hsa8OHnoib.jpg" media-type="image/jpeg"/>
+		<item id="eeecda16c8964783bbb8a1f9ec4d3b19" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f642835fb5d94792b116ae4caca6dfc4" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/en_IJkKa7OdnB.png" media-type="image/png"/>
+		<item id="fb325a1b50f14d3690f4472c71b0cfd3" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/cardart_SOI_Clue-4.jpg" media-type="image/jpeg"/>
+		<item id="d6ce8cd6dfd04545a72ff3eb82a840eb" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/c4rd4r7_0lFOZ7aiqZ.jpg" media-type="image/jpeg"/>
+		<item id="a43a77d1504e4989b4674d3029d13461" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/c4rd4r7_o5rPLoWs7S.jpg" media-type="image/jpeg"/>
+		<item id="ebb04967ad3b4595bb3d9a2947b21b35" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/c4rd4r7_TTmp5XFBhn.jpg" media-type="image/jpeg"/>
+		<item id="d51fb5a4e2834fcabaa803f927e7eee8" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/c4rd4r7_qNBHfubFQ5.jpg" media-type="image/jpeg"/>
+		<item id="cbca507a52474f2195dbe3d7f44d88e3" href="Stories/087-EldritchMoon/004-CampaignOfVengeance/Images/s7ory4r7_gewRglYA4D.jpg" media-type="image/jpeg"/>
+		<item id="e1e1e60008214265ae1670320394160a" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d1c8dd495168439986cd6d4432e9da85" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_6yxXEWxbLt.jpg" media-type="image/jpeg"/>
+		<item id="c40e8be0c2a8417aa1183f38a18af944" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_ZC2nNmarwk.jpg" media-type="image/jpeg"/>
+		<item id="b07250cfbd2f47a995e377b3550ad986" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_Vk8Ayo6l8l.jpg" media-type="image/jpeg"/>
+		<item id="a276a192832e49d18a630e51ca8d2fd9" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/cardart_SOI_Olivia-Mobilized-for-War.jpg" media-type="image/jpeg"/>
+		<item id="f7a5787cdcc34645aaa1accf99a55c8e" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/cardart_SOI_Invocation-of-Saint-Traft.jpg" media-type="image/jpeg"/>
+		<item id="bab26f43b5dd4c2fae82c030443dc86b" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_3OwlL4n9XG.jpg" media-type="image/jpeg"/>
+		<item id="ae5ffd8985144f278fc79dd82b33ba07" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/cardart_SOI_Drogskol-Cavalry.jpg" media-type="image/jpeg"/>
+		<item id="d749f8d9b76a4f71b738d972b34c4c94" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_flyokEBlPt.jpg" media-type="image/jpeg"/>
+		<item id="a354bcf0757d48acb380622fc072fc82" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_ccFSvKQ43z.jpg" media-type="image/jpeg"/>
+		<item id="fe0c258282f14e6590956f922b1395bd" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/cardart_SOI_Sigarda-Herons-Grace.jpg" media-type="image/jpeg"/>
+		<item id="c4445f316d02487a8c69ec06aa58ae30" href="Stories/087-EldritchMoon/005-SaintTraftAndTheFlightOfNightmares/Images/c4rd4r7_LGIipLUBO6.jpg" media-type="image/jpeg"/>
+		<item id="a21b4b6312254226b883395577494607" href="Stories/087-EldritchMoon/006-BattleOfThraben/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b2f07b94afbf4054b3fcb3ca339a4e07" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Contingency-Plan.jpg" media-type="image/jpeg"/>
+		<item id="e864e7752ef6474aae228482cc1f9651" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Spreading-Flames.jpg" media-type="image/jpeg"/>
+		<item id="b4bf876b00a243bf88d131f9914220a9" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Emrakul-the-Promised-End.jpg" media-type="image/jpeg"/>
+		<item id="e52878cb9a5e4483bc6c7d22735b1a53" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Give-No-Ground.jpg" media-type="image/jpeg"/>
+		<item id="fba023af40464dd896b042e5cb8fd4de" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Lilianas-Elite.jpg" media-type="image/jpeg"/>
+		<item id="de98f4e314574c5da590e565f9447980" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Dark-Salvation.jpg" media-type="image/jpeg"/>
+		<item id="c4f29460e29f4188911913c13c88ad08" href="Stories/087-EldritchMoon/006-BattleOfThraben/Images/cardart_EMN_Collective-Effort.jpg" media-type="image/jpeg"/>
+		<item id="dea2808cf82a459291268abb94a00aab" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e7d3458c77d5477abe8e70307456bf81" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Dark-Salvation.jpg" media-type="image/jpeg"/>
+		<item id="c6b08afbcd884dac8891ccfd68e1cf32" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_ORI_Jaces-Sanctum.jpg" media-type="image/jpeg"/>
+		<item id="c9dd88f172cc4ff19b533361ca7cd53b" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Rise-from-the-Grave.jpg" media-type="image/jpeg"/>
+		<item id="ca1eed06470c4456afa4f2319ed36b2b" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_THS_Erebos-God-of-the-Dead.jpg" media-type="image/jpeg"/>
+		<item id="daf88c0fe02649f0843e55109e5cf33a" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Tamiyo-Field-Researcher.jpg" media-type="image/jpeg"/>
+		<item id="f30a7f163b944291b8c3f9e8c6c7e44b" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Liliana-the-Last-Hope.jpg" media-type="image/jpeg"/>
+		<item id="ac885753dada47b1926790a5ba058932" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_ORI_Chandra-Fire-of-Kaladesh.jpg" media-type="image/jpeg"/>
+		<item id="fd5b01dfa28f43e3b1907d587b50a9c4" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_ZEN_Chandra-Ablaze.jpg" media-type="image/jpeg"/>
+		<item id="c600084a7cef49adaf65560e7b591cd4" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_SOI_Grotesque=Mutation.jpg" media-type="image/jpeg"/>
+		<item id="fd4c37f64077419db20be64a35dee8a9" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_SOI_Fevered-Visions.jpg" media-type="image/jpeg"/>
+		<item id="a5b98bffc17447d6bbf148fa64e2c1f1" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_BFZ_Shrine-of-the-Forsaken-Gods.jpg" media-type="image/jpeg"/>
+		<item id="fcec5b7c9a834d2a8b10c20e97e75585" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_10E_Evacuation.jpg" media-type="image/jpeg"/>
+		<item id="abc4840804ec4d1d92bf3a4a1cca42f7" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Lilianas-Elite.jpg" media-type="image/jpeg"/>
+		<item id="ab1823598e1948f0be25ee26ce283d2b" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_SOI_Jace-Unraveler-of-Secrets.jpg" media-type="image/jpeg"/>
+		<item id="c8419fdff7f440bfa43db9d2099a81bd" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_SOI_Pieces-of-the-Puzzle.jpg" media-type="image/jpeg"/>
+		<item id="a6effb2c80ec40568d7f441abff32500" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Emrakul-the-Promised-End.jpg" media-type="image/jpeg"/>
+		<item id="e5e5025ed7cf4274be157852f2efc2d6" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Imprisoned-in-the-Moon.jpg" media-type="image/jpeg"/>
+		<item id="a75eef2365894d779658584b4cec9256" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_EMN_Oath-of-Liliana.jpg" media-type="image/jpeg"/>
+		<item id="ae3750be1e724f6c9cb9b0efe6247111" href="Stories/087-EldritchMoon/007-ThePromisedEnd/Images/cardart_SOI_Forsaken-Sancutary.jpg" media-type="image/jpeg"/>
 		<!-- Stories / Amonkhet -->
 		<item id="cd94bbd0d534483da85a9818e3d742df" href="Stories/090-Amonkhet/Index.xhtml" media-type="application/xhtml+xml"/>
-		<!-- Stories / Amonkhet / 1. Impact -->
 		<item id="e8e0eeb11bbf4d7389222d19b7bb6337" href="Stories/090-Amonkhet/001-Impact/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c728c3b8b7a0445d98ffbf74761ff05e" href="Stories/090-Amonkhet/001-Impact/Images/c4rd4r7_8B1bipyEYq.jpg" media-type="image/jpeg"/>
 		<item id="a76828c2cca641528e69fe7ea83d22da" href="Stories/090-Amonkhet/001-Impact/Images/c4rd4r7_9gw4NKWrve.jpg" media-type="image/jpeg"/>
@@ -529,7 +709,6 @@
 		<item id="e4646c2b0a79483ba73056d19e676efd" href="Stories/090-Amonkhet/001-Impact/Images/c4rd4r7_tZW3PFuQgz.jpg" media-type="image/jpeg"/>
 		<item id="e608dae2ea934dcc9713ee857ba4ed50" href="Stories/090-Amonkhet/001-Impact/Images/c4rd4r7_WegnP0IDd2.jpg" media-type="image/jpeg"/>
 		<item id="ec1c19f2df9a4156b7953938a1055a95" href="Stories/090-Amonkhet/001-Impact/Images/id1a1QUl9s.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 2. Trust -->
 		<item id="c9a400c528a44657abb0f59ae776fd60" href="Stories/090-Amonkhet/002-Trust/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ef69553b768546f7b24889b724f7d26e" href="Stories/090-Amonkhet/002-Trust/Images/c4rd4r7_4V2ztLZBeH.jpg" media-type="image/jpeg"/>
 		<item id="e2d2b7f4cc2344108eeeab268a6c0bb0" href="Stories/090-Amonkhet/002-Trust/Images/c4rd4r7_8UW5GHQtSZ.jpg" media-type="image/jpeg"/>
@@ -544,28 +723,24 @@
 		<item id="d153764a967f4b26a4ece7af41072f62" href="Stories/090-Amonkhet/002-Trust/Images/c4rd4r7_utZsNDU6PY.jpg" media-type="image/jpeg"/>
 		<item id="d0f2041f919e4545b6c8ce70f63b43b0" href="Stories/090-Amonkhet/002-Trust/Images/c4rd4r7_z2xKrKYe3Z.jpg" media-type="image/jpeg"/>
 		<item id="cbdd8d4e37044700baf0e11fc92ee954" href="Stories/090-Amonkhet/002-Trust/Images/en_iLihnohg44.png"  media-type="image/png"/>
-		<!-- Stories / Amonkhet / 3. The Writing on the Wall -->
 		<item id="fc6f45c1b9b04aac92a8f93ad4b0e21d" href="Stories/090-Amonkhet/003-TheWritingOnTheWall/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="dc288959ed5d4931b087aaa876f43555" href="Stories/090-Amonkhet/003-TheWritingOnTheWall/Images/en_ZwfaTSMgZp.png"  media-type="image/png"/>
 		<item id="a4bdcfb6a11f4fd8831519ae28b05874" href="Stories/090-Amonkhet/003-TheWritingOnTheWall/Images/m0zemvIQOs_crop.jpg" media-type="image/jpeg"/>
 		<item id="ef944df312cf402a8fbd8bf7d65b11b2" href="Stories/090-Amonkhet/003-TheWritingOnTheWall/Images/7CzkPu80jD.jpg" media-type="image/jpeg"/>
 		<item id="c976406d994e4cf48466cfce14a591ff" href="Stories/090-Amonkhet/003-TheWritingOnTheWall/Images/wJu2soQonK.jpg" media-type="image/jpeg"/>
 		<item id="f86ae09b57a74b08a21fe57dc31915a7" href="Stories/090-Amonkhet/003-TheWritingOnTheWall/Images/UCRzCMYSB3.jpg" media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 4. Servants -->
 		<item id="ed077b1cc40b4dcdb1a7124ac7d442de" href="Stories/090-Amonkhet/004-Servants/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ae528a7a243741bf90a7d24ba4a15dc6" href="Stories/090-Amonkhet/004-Servants/Images/c4rd4r7_uBd8vjGQBN.jpg"  media-type="image/jpeg"/>
 		<item id="f5894bbd795b4ca8aa0cd8d2fbf11abb" href="Stories/090-Amonkhet/004-Servants/Images/c4rd4r7_o1T1T2Lrl7.jpg"  media-type="image/jpeg"/>
 		<item id="cb5c8f9395b54d538fd8d5b408d93888" href="Stories/090-Amonkhet/004-Servants/Images/c4rd4r7_mnjrUt6rNs.jpg"  media-type="image/jpeg"/>
 		<item id="e186aae56d1c41b991ad60c7147a2597" href="Stories/090-Amonkhet/004-Servants/Images/c4rd4r7_HYqtCoJvax.jpg"  media-type="image/jpeg"/>
 		<item id="bd4c638c4836462997b0be16a2bfa978" href="Stories/090-Amonkhet/004-Servants/Images/c4rd4r7_SiFpCGxJRu.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 5. The Hand that Moves -->
 		<item id="e8e3ad10ecda447a88ae517053a77bd1" href="Stories/090-Amonkhet/005-TheHandThatMoves/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c9f3f270b1d34d5480f691faa75fba44" href="Stories/090-Amonkhet/005-TheHandThatMoves/Images/cardart_AKH_Forest-C_.jpg"  media-type="image/jpeg"/>
 		<item id="c071873cd3324578b6e8452a6b7e8cec" href="Stories/090-Amonkhet/005-TheHandThatMoves/Images/cardart_AKH_Essence-Scatter.jpg"  media-type="image/jpeg"/>
 		<item id="a51e40c1d0c9410fa7099195af6c9748" href="Stories/090-Amonkhet/005-TheHandThatMoves/Images/cardart_IVC_Daze.jpg"  media-type="image/jpeg"/>
 		<item id="f6fb855fbf214b86afd8ab7c16a290c0" href="Stories/090-Amonkhet/005-TheHandThatMoves/Images/cardart_AKHPW_Stone-Quarry.jpg"  media-type="image/jpeg"/>
 		<item id="e5396f9342af425399a5c0d31cf4a0f2" href="Stories/090-Amonkhet/005-TheHandThatMoves/Images/cardart_AKH_Winds-of-Rebuke.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 6.-Brazen -->
 		<item id="dbd2a6ee33de4fc5b49db1bb286c593e" href="Stories/090-Amonkhet/006-Brazen/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="c27da26097d843499ce68203732b3b09" href="Stories/090-Amonkhet/006-Brazen/Images/c4rd4r7_9BOkZgg7xw.jpg"  media-type="image/jpeg"/>
 		<item id="d79b4ce6beed4ca1b24848146236839b" href="Stories/090-Amonkhet/006-Brazen/Images/c4rd4r7_T9CHupJGTI.jpg"  media-type="image/jpeg"/>
@@ -577,7 +752,6 @@
 		<item id="ed54925b826e42a0aede6e266eb9ad6c" href="Stories/090-Amonkhet/006-Brazen/Images/c4rd4r7_-FQqvVwEFTb.jpg"  media-type="image/jpeg"/>
 		<item id="f5430b6514964be4ae5b46cc803c2f82" href="Stories/090-Amonkhet/006-Brazen/Images/cardart_AKH_Cruel-Reality.jpg"  media-type="image/jpeg"/>
 		<item id="ae6125e8ad654aca94362738fe165e54" href="Stories/090-Amonkhet/006-Brazen/Images/c4rd4r7_-1bSukEAd6K.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 7. Trespass -->
 		<item id="d746476e470f42a7adb71b82867b5b00" href="Stories/090-Amonkhet/007-Trespass/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f272ed145f664ae083dfcbfb7244e138" href="Stories/090-Amonkhet/007-Trespass/Images/cardart_IVC_Daze.jpg"  media-type="image/jpeg"/>
 		<item id="fb0d510598994fca9c69ccfdc2a5d615" href="Stories/090-Amonkhet/007-Trespass/Images/cardart_AKH_Hazorets-Monument.jpg"  media-type="image/jpeg"/>
@@ -585,7 +759,6 @@
 		<item id="fb347522bffb4335a9d3f2a29e549538" href="Stories/090-Amonkhet/007-Trespass/Images/cardart_AKH_Grim-Strider.jpg"  media-type="image/jpeg"/>
 		<item id="ab2d66d7226b4c1e969e15e648cff0de" href="Stories/090-Amonkhet/007-Trespass/Images/c4rd4r7_4V2ztLZBeH.jpg"  media-type="image/jpeg"/>
 		<item id="fa056760da654343a9315dc059518757" href="Stories/090-Amonkhet/007-Trespass/Images/cardart_AKH_Tresspassers-Curse.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 8. Judgment -->
 		<item id="e6b3f0d47e414105aa532b0905af9d4a" href="Stories/090-Amonkhet/008-Judgment/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ffb55ade149943689c83913fd0e641bc" href="Stories/090-Amonkhet/008-Judgment/Images/cardart_AKH_Tresspassers-Curse.jpg"  media-type="image/jpeg"/>
 		<item id="e1ba5233ecd64913b73ea8e14ffc64ef" href="Stories/090-Amonkhet/008-Judgment/Images/cardart_AKH_TOK_Labyrinth-Guardian.jpg"  media-type="image/jpeg"/>
@@ -598,17 +771,14 @@
 		<item id="f6fd66c40ba64a7d8d1a45acfdaa3736" href="Stories/090-Amonkhet/008-Judgment/Images/cardart_INV_Hazoret-the-Fervent.jpg"  media-type="image/jpeg"/>
 		<item id="ecdd37c5870a4b639b11be61ba6deb11" href="Stories/090-Amonkhet/008-Judgment/Images/cardart_AKH_Pursue-Glory.jpg"  media-type="image/jpeg"/>
 		<item id="ae7192c872b849c9bec5fb4c860a127c" href="Stories/090-Amonkhet/008-Judgment/Images/cardart_AKH_Gideons-Intervention.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 9. The Hour of Revelation -->
 		<item id="a08ea302d9b74b818f2463a449bf562b" href="Stories/090-Amonkhet/009-TheHourOfRevelation/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a35272336d6247cb80473b9ffd55d5d2" href="Stories/090-Amonkhet/009-TheHourOfRevelation/Images/c4rd4r7_BG4iHgj4Lx.jpg"  media-type="image/jpeg"/>
 		<item id="f75b153548fc4d35a3522875b6e8d761" href="Stories/090-Amonkhet/009-TheHourOfRevelation/Images/c4rd4r7_ENNqZGTUlD.jpg"  media-type="image/jpeg"/>
 		<item id="a163b5dc5ccf4128a227cb3651f9c24f" href="Stories/090-Amonkhet/009-TheHourOfRevelation/Images/c4rd4r7_BZ3snEOak3.jpg"  media-type="image/jpeg"/>
 		<item id="d8e0672d1d194515b1631193b26b2222" href="Stories/090-Amonkhet/009-TheHourOfRevelation/Images/c4rd4r7_xxtLmk0lvJ.jpg"  media-type="image/jpeg"/>
 		<item id="ccf7091e7bc94be7a8d81a77856f9f95" href="Stories/090-Amonkhet/009-TheHourOfRevelation/Images/c4rd4r7_3jiOJ2aRbs.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 10. Feast -->
 		<item id="a757a92ab1f34a5eac7848e6c648a05a" href="Stories/090-Amonkhet/010-Feast/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d4f7e132fa854b6e8238a3ea8c923d6c" href="Stories/090-Amonkhet/010-Feast/Images/c4rd4r7_Nd41R0tgy0.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 11. Hour of Glory -->
 		<item id="f6371915560f4b25859dc1f7d202d98f" href="Stories/090-Amonkhet/011-HourOfGlory/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d66ef70b39414cf68684783c86d93524" href="Stories/090-Amonkhet/011-HourOfGlory/Images/c4rd4r7_HK9QaCM4fa.jpg"  media-type="image/jpeg"/>
 		<item id="ca1cfed981fc43e1ab84af629f3d2240" href="Stories/090-Amonkhet/011-HourOfGlory/Images/c4rd4r7_oAnNH9aeQp.jpg"  media-type="image/jpeg"/>
@@ -620,13 +790,11 @@
 		<item id="d72da0d5afb241f9bf91c88577a6f29e" href="Stories/090-Amonkhet/011-HourOfGlory/Images/en_9LbKfiUIeo.png"  media-type="image/png"/>
 		<item id="c4b9a2a1abc74e0e95c5bae692eab45f" href="Stories/090-Amonkhet/011-HourOfGlory/Images/c4rd4r7_Gr3H4kmzlS.jpg"  media-type="image/jpeg"/>
 		<item id="c09ce713d9044a10a9d7b73e2f2f1250" href="Stories/090-Amonkhet/011-HourOfGlory/Images/c4rd4r7_GZW1sxefrt.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 12. The Hour of Promise -->
 		<item id="a0e4d7fd141d46d2aa52cdb086d9bf1c" href="Stories/090-Amonkhet/012-TheHourOfPromise/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="fabe2014bcac46399578a9a36318a8c2" href="Stories/090-Amonkhet/012-TheHourOfPromise/Images/cardart_AKH_Hapatra-Vizier-of-Poisons.jpg"  media-type="image/jpeg"/>
 		<item id="b665571a65c84ac19faa97f94803ecf2" href="Stories/090-Amonkhet/012-TheHourOfPromise/Images/c4rd4r7_UfUf1ubax4.jpg"  media-type="image/jpeg"/>
 		<item id="ed4877f700fb48e0b2925cc8d97355c1" href="Stories/090-Amonkhet/012-TheHourOfPromise/Images/c4rd4r7_lOaUXFWd9u.jpg"  media-type="image/jpeg"/>
 		<item id="c9e0e4290d144de49c55a0bda4c60c2c" href="Stories/090-Amonkhet/012-TheHourOfPromise/Images/c4rd4r7_5hm0XZ83Gu.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 13. Favor -->
 		<item id="fee3a11fcfe3485bbdc33b4421c8c110" href="Stories/090-Amonkhet/013-Favor/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="b1b71e8f799f44158bf9c8514fe4ee06" href="Stories/090-Amonkhet/013-Favor/Images/c4rd4r7_YKINrfSCP5.jpg"  media-type="image/jpeg"/>
 		<item id="aa2c863c18974f9a8fff624181c7083e" href="Stories/090-Amonkhet/013-Favor/Images/c4rd4r7_oqYkon7rWy.jpg"  media-type="image/jpeg"/>
@@ -635,7 +803,6 @@
 		<item id="b4da4940415048c880a44b988c4c1d48" href="Stories/090-Amonkhet/013-Favor/Images/c4rd4r7_FHiq7tFha6.jpg"  media-type="image/jpeg"/>
 		<item id="fa67773a1a1547c297a614a94e390c0a" href="Stories/090-Amonkhet/013-Favor/Images/c4rd4r7_aPuPYDBy1y.jpg"  media-type="image/jpeg"/>
 		<item id="fae1970649044aa08cf07d3d4b3744d5" href="Stories/090-Amonkhet/013-Favor/Images/c4rd4r7_sCQYzWpFlS.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 14. Hour of Eternity -->
 		<item id="eb282ebc9d5a433eb5e76dfb0bcb7e1e" href="Stories/090-Amonkhet/014-HourOfEternity/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="e9f03a1fc4e54dde86fbb4aca3f91370" href="Stories/090-Amonkhet/014-HourOfEternity/Images/cardart_HOU_God-Pharaohs-Faithful.jpg"  media-type="image/jpeg"/>
 		<item id="fd17dfd485dd41d6a3fa175f50ab2e92" href="Stories/090-Amonkhet/014-HourOfEternity/Images/cardart_HOU_Angel-of-the-God-Pharaoh.jpg"  media-type="image/jpeg"/>
@@ -647,7 +814,6 @@
 		<item id="d9a7880f0e004d5cbb2b39dd699a458a" href="Stories/090-Amonkhet/014-HourOfEternity/Images/cardart_HOU_INV_Omniscience.jpg"  media-type="image/jpeg"/>
 		<item id="ac1bb23e7c804ddfac1e47c9e9601c0b" href="Stories/090-Amonkhet/014-HourOfEternity/Images/cardart_HOU_Oketras-Avenger.jpg"  media-type="image/jpeg"/>
 		<item id="f116a57059a4436a99cd49d2b0a8a92f" href="Stories/090-Amonkhet/014-HourOfEternity/Images/cardart_HOU_Merciless-Eternal.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 15. Endure -->
 		<item id="cd94371613504912a112e878d63c3b53" href="Stories/090-Amonkhet/015-Endure/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="bf0e4845639445f1a6f78b4740abd90a" href="Stories/090-Amonkhet/015-Endure/Images/cardart_HOU_Blur-of-Blades.jpg"  media-type="image/jpeg"/>
 		<item id="d891ef22b84341ed84e66f2d8abece68" href="Stories/090-Amonkhet/015-Endure/Images/cardart_HOU_Endless-Sands.jpg"  media-type="image/jpeg"/>
@@ -662,7 +828,6 @@
 		<item id="ea0b3d3336bb4a2cbde2cbc13e3cd59d" href="Stories/090-Amonkhet/015-Endure/Images/cardart_HOU_Puncturing-Blow.jpg"  media-type="image/jpeg"/>
 		<item id="f84e8bfdef274921aad7f82ebef0287a" href="Stories/090-Amonkhet/015-Endure/Images/ciP5tcsS24.jpg"  media-type="image/jpeg"/>
 		<item id="fd135dd7e1c742e5b1b9c63fa41c581f" href="Stories/090-Amonkhet/015-Endure/Images/cardart_HOU_Leave.jpg"  media-type="image/jpeg"/>
-		<!-- Stories / Amonkhet / 16. Hour of Devastation -->
 		<item id="b382195301b140749fa9c9935a7b52eb" href="Stories/090-Amonkhet/016-HourOfDevastation/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="b2bc2d40e2314fc0b80be27f39ffb316" href="Stories/090-Amonkhet/016-HourOfDevastation/Images/cardart_HOU_INV_Damnation.jpg"  media-type="image/jpeg"/>
 		<item id="f8a1510e694247e3abc95401a9c3f0d1" href="Stories/090-Amonkhet/016-HourOfDevastation/Images/cardart_HOU_Imminent-Doom.jpg"  media-type="image/jpeg"/>
@@ -677,7 +842,6 @@
 		<!-- Planes / Amonkhet -->
 		<item id="fec99fe1af7e4265b4a54991e3663aa4" href="Planes/Amonkhet/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="cc87e1b12a564002888f1ca205327d47" href="Planes/Amonkhet/Images/NUFuTxhVKq.jpg" media-type="image/jpeg"/>
-		<!-- Planes / Amonkhet / LegendaryCreatures -->
 		<item id="b0c2d26378a44adabd500f0965b18322" href="Planes/Amonkhet/LegendaryCreatures/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="b0d95affda7348a68e05d7a6ff578582" href="Planes/Amonkhet/LegendaryCreatures/Images/OketraTheTrue.jpg" media-type="image/jpeg"/>
 		<item id="cc726c2f55c046ab8fa258dd4587c140" href="Planes/Amonkhet/LegendaryCreatures/Images/KefnetTheMindful.jpg" media-type="image/jpeg"/>
@@ -692,17 +856,14 @@
 		<item id="d58a6f4c466e483192743bfbf0b30dd3" href="Planes/Amonkhet/LegendaryCreatures/Images/TheScorpionGod.jpg" media-type="image/jpeg"/>
 		<item id="f4a38acf5df44d4e8131db480a3995f3" href="Planes/Amonkhet/LegendaryCreatures/Images/TheLocustGod.jpg" media-type="image/jpeg"/>
 		<item id="cb5df0d8ba1c405cb386b5f9ad597f9d" href="Planes/Amonkhet/LegendaryCreatures/Images/TheScarabGod.jpg" media-type="image/jpeg"/>
-		<!-- Planes / Amonkhet / Cities -->
 		<item id="ff2ada7fc7bc49f89671b9e6908475ef" href="Planes/Amonkhet/Cities/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="ab26eccabd614816a0ed76e817ae7416" href="Planes/Amonkhet/Cities/Images/Naktamun.jpg" media-type="image/jpeg"/>
-		<!-- Planes / Amonkhet / Creature Races -->
 		<item id="f9b31749edad46f5bb91806384e8e474" href="Planes/Amonkhet/CreatureRaces/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="b48f4ca055a04d828ecb0ede50956efa" href="Planes/Amonkhet/CreatureRaces/Images/Humans.jpg" media-type="image/jpeg"/>
 		<item id="f161680aa7fd4110ab0fb7b2f8ab738a" href="Planes/Amonkhet/CreatureRaces/Images/Aven.jpg" media-type="image/jpeg"/>
 		<item id="e45d1f94fbaf4d8eabff3bb4ea165b93" href="Planes/Amonkhet/CreatureRaces/Images/Khendra.jpg" media-type="image/jpeg"/>
 		<item id="f28eb8742cb94ea081894d6af64d0fb2" href="Planes/Amonkhet/CreatureRaces/Images/Minotaurs.jpg" media-type="image/jpeg"/>
 		<item id="cb782dd1a8634e838dd5748fd0b87ba4" href="Planes/Amonkhet/CreatureRaces/Images/Naga.jpg" media-type="image/jpeg"/>
-		<!-- Planes / Amonkhet / Planeswalker -->
 		<item id="a9771f133fbe4c1ca3f107a7fa2cc2ec" href="Planes/Amonkhet/Planeswalker/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="d06b6e71488d4513aa7d69db38b033b0" href="Planes/Amonkhet/Planeswalker/Images/GideonJura.jpg" media-type="image/jpeg"/>
 		<item id="edcd18df183a4dd0ab59638ee6ee2507" href="Planes/Amonkhet/Planeswalker/Images/JaceBeleren.jpg" media-type="image/jpeg"/>
@@ -711,19 +872,14 @@
 		<item id="bfd4101c50a1461e9dab9d840c967236" href="Planes/Amonkhet/Planeswalker/Images/NissaRevane.jpg" media-type="image/jpeg"/>
 		<!-- Planeswalker -->
 		<item id="a83904d8831546059a720d2b9281fc13" href="Planeswalker/Index.xhtml" media-type="application/xhtml+xml"/>
-		<!-- Planeswalker / Chandra Nalaar -->
 		<item id="b88f039870394eb78d7d50327bc12b60" href="Planeswalker/ChandraNalaar/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="cb33e9eef86e4b33a58e3dcabf039288" href="Planeswalker/ChandraNalaar/Images/ChandraNalaar.jpg" media-type="image/jpeg"/>
-		<!-- Planeswalker / Gideon Jura -->
 		<item id="ada7ceda5e0242e8bb398186da9b994b" href="Planeswalker/GideonJura/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="e03f90b099ce49279d069e24380e84f6" href="Planeswalker/GideonJura/Images/GideonJura.jpg" media-type="image/jpeg"/>
-		<!-- Planeswalker / Jace Beleren -->
 		<item id="fc0a82de84124f6c8ec2dba6e372ad03" href="Planeswalker/JaceBeleren/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="fd18a048e066457fa41950bb1021e1fa" href="Planeswalker/JaceBeleren/Images/JaceBeleren.jpg" media-type="image/jpeg"/>
-		<!-- Planeswalker / Liliana Vess -->
 		<item id="a2dec4eb5af24034bb6b884fe6d111ea" href="Planeswalker/LilianaVess/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="e4b4dd8afe694cc2a9a74820b9ea5851" href="Planeswalker/LilianaVess/Images/LilianaVess.jpg" media-type="image/jpeg"/>
-		<!-- Planeswalker / Nissa Revane -->
 		<item id="b04552c7ab6d4919a5a406aa9821c0d9" href="Planeswalker/NissaRevane/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="f6881bc56ac54b659a954b13dc8b3b8f" href="Planeswalker/NissaRevane/Images/NissaRevane.jpg" media-type="image/jpeg"/>
 	</manifest>
@@ -776,6 +932,30 @@
 		<itemref idref="dc9186b7509d4f069df26fe6a382c22f" />
 		<itemref idref="aa025b64f3e046389d68861510e2d45a" />
 		<itemref idref="b182d452e7714b1cbf23ac429dcc353d" />
+		<!-- Stories / Shadows over Innistrad -->
+		<itemref idref="fb2c3ff58a354a6cbb85aee8a4d97ae2" />
+		<itemref idref="dab3a20ac59e4193b936d8cc52fccb9f" />
+		<itemref idref="fb6591e3276e40838e36d34223d18c7b" />
+		<itemref idref="b6a85ba010c346ce8d95545ec15a00d3" />
+		<itemref idref="da3bf783bafc4019b8b351e8ede133a4" />
+		<itemref idref="a1946b80965a496d89eca86fb7c7565f" />
+		<itemref idref="aa4d08945be84009bf35120c0380366c" />
+		<itemref idref="c992c3b546a541f7a84c90b0975e58fd" />
+		<itemref idref="c1d4456cdd9947a2aa33352b58bc3b27" />
+		<itemref idref="fcebcb084fe54e81b0c128d5d67387d9" />
+		<itemref idref="bebc21a1bf2b4b009f6a089ab37d9fc9" />
+		<itemref idref="f311c77c999b4db1a4973e01282858a5" />
+		<itemref idref="f56d4760461d4b88928024e5781c93a9" />
+		<itemref idref="b0828b2e9a9c4810afdfc172a4c4e085" />
+		<!-- Stories / Edlritch Moon -->
+		<itemref idref="b4445d14d6564b418cf8380288c19140" />
+		<itemref idref="e3204b649bb845ebbc73600ba920b060" />
+		<itemref idref="f60ff18d62124a91a5caf77a102d3fe9" />
+		<itemref idref="a4c100b8c08f4601a774436be31687df" />
+		<itemref idref="eeecda16c8964783bbb8a1f9ec4d3b19" />
+		<itemref idref="e1e1e60008214265ae1670320394160a" />
+		<itemref idref="a21b4b6312254226b883395577494607" />
+		<itemref idref="dea2808cf82a459291268abb94a00aab" />
 		<!-- Stories / Amonkhet -->
 		<itemref idref="cd94bbd0d534483da85a9818e3d742df" />
 		<itemref idref="e8e0eeb11bbf4d7389222d19b7bb6337" />
