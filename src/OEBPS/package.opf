@@ -145,7 +145,7 @@
 		<item id="eef3582e08904c2ea281d3872d275e64" href="Stories/083-MagicOrigins/005-NissasOriginHome/Images/c4rdar7_S91CI4OVF5.jpg" media-type="image/jpeg"/>
 		<!-- Stories / Battle for Zendikar -->
 		<item id="b1a1593e932f40b2b10a1064b547f5f2" href="Stories/084-BattleForZendikar/Index.xhtml" media-type="application/xhtml+xml"/>
-		<!-- Stories / Battle for Zendikar / 1-Drop for Drop -->
+		<!-- Stories / Battle for Zendikar / 1. Drop for Drop -->
 		<item id="a4f702f7c5b446e48b621655e445d47c" href="Stories/084-BattleForZendikar/001-DropForDrop/Index.xhtml" media-type="application/xhtml+xml"/>
 		<item id="a4e611e3095b44cda45cd5ca509737ff" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_KioratheCrashingWave.png" media-type="image/png"/>
 		<item id="a9255e1ed5334f81b10e30e5a7e014aa" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_ThassasIre.jpg" media-type="image/jpeg"/>
@@ -155,6 +155,363 @@
 		<item id="e755365c799d45e8a9870ba6bbe485fe" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_VoyagesEnd.jpg" media-type="image/jpeg"/>
 		<item id="d0621e9b9c6d4136896cc64a149ac44a" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_Harrow.jpg" media-type="image/jpeg"/>
 		<item id="d32512e3660048e88f0770b3ee1c7881" href="Stories/084-BattleForZendikar/001-DropForDrop/Images/cardart_BidentofThassa.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 2. Stirring from Slumber -->
+		<item id="e68a771ed3c64899820939418eb641b3" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c5883cd929ce4c04b772e7700f0c5d75" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_NomadsAssembly.jpg" media-type="image/jpeg"/>
+		<item id="b88d66dedac2436e9fd289f65fa4c9ab" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_EmrakulsHatcher.jpg" media-type="image/jpeg"/>
+		<item id="b2479da92f4641f38db3d0458f5bd9d5" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_EyeofUgin.jpg" media-type="image/jpeg"/>
+		<item id="a76a7d3353cf49fd95cd05781341d8a1" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_Demolish.jpg" media-type="image/jpeg"/>
+		<item id="b4fdf07873a34b6b956de63b08d4e56f" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_NahiritheLithomancer.png" media-type="image/png"/>
+		<item id="d6b35073e519406e95d833f594e31da1" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_GuulDrazAssassin.jpg" media-type="image/jpeg"/>
+		<item id="b5cb05de125641d796e36695c5eaa88a" href="Stories/084-BattleForZendikar/002-StirringFromSlumber/Images/cardart_PerilousVault.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 3. Limits -->
+		<item id="c3f40d3eb8864ca1beed3a46f951c396" href="Stories/084-BattleForZendikar/003-Limits/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f1c2730e686b40da83f935083c248359" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_Plains123755.jpg" media-type="image/jpeg"/>
+		<item id="d888600403ad433a9434f86d5ba78f3d" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_FiveAlarmFire.jpg" media-type="image/jpeg"/>
+		<item id="e53a7aa7b09643dba06da917c668298a" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_ShattergangBrothers.jpg" media-type="image/jpeg"/>
+		<item id="cdb5b4aadd6c457eb6c8acf1d12ac826" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_BorosPrecinct.jpg" media-type="image/jpeg"/>
+		<item id="f2b3764d6ef84a8687ac630ce584df39" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_Plains123770.jpg" media-type="image/jpeg"/>
+		<item id="c114fd5a8f374236ac7005f0d1c5a596" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_Staggershock.jpg" media-type="image/jpeg"/>
+		<item id="dea27c381867410997b78180c5950e8a" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_D11LoadScreen.jpg" media-type="image/jpeg"/>
+		<item id="ece537187e044847bf0c7469c1db5c0e" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_AncientStirrings.jpg" media-type="image/jpeg"/>
+		<item id="a1f5f23605fd439fa8e6917cae584367" href="Stories/084-BattleForZendikar/003-Limits/Images/cardart_PathrazerofUlamogPromo.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 4. Catching Up -->
+		<item id="c653e6e052344234872193bbdc47d0d0" href="Stories/084-BattleForZendikar/004-CatchingUp/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ab3f014ab46d4504a813efed48fa2669" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_EizdEEZTUQ.png" media-type="image/png"/>
+		<item id="cf57407e8b5c4c5298fa10f373fc18c0" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_LaviniaoftheTenth.jpg" media-type="image/jpeg"/>
+		<item id="ff4d7dfa293747eca98b4f6b4babb7e6" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_JaceSanctum.jpg" media-type="image/jpeg"/>
+		<item id="d7ed185cb3794c82829ccdb242576209" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_LilianaDefiantDecromancer.png" media-type="image/png"/>
+		<item id="e7b06938a306442d89e9e5857ae07170" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_JaceArchitectofThought.jpg" media-type="image/jpeg"/>
+		<item id="c19e1450802340daa5ae244babf4eeac" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_InGarruksWake.jpg" media-type="image/jpeg"/>
+		<item id="c15e7a05231843a6b8d805f611da7398" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_KothophedSoulHoarder.jpg" media-type="image/jpeg"/>
+		<item id="e7f26e057c0d469da208b026cf64a767" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_JacetheLivingGuildpact.png" media-type="image/png"/>
+		<item id="be73e173d34941ebade8b2beac5e870c" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_137427.jpg" media-type="image/jpeg"/>
+		<item id="e1a01aa6800c4bd49e72814766ad8aed" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_TheChainVeil.jpg" media-type="image/jpeg"/>
+		<item id="e159acf5915e427d90e0d9b0f515995c" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_GideonChampionofJustice.png" media-type="image/png"/>
+		<item id="ce26da2b469541be86cf4701477b4cf1" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_TalentoftheTelepath.jpg" media-type="image/jpeg"/>
+		<item id="dfe5b89ee70a4efe9ef139d647eb8a9a" href="Stories/084-BattleForZendikar/004-CatchingUp/Images/cardart_137431.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 5. Unkindness of Ravens -->
+		<item id="e1c44848dbe64b84a1a877d420b8c573" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f25910df20ed4ae4bf1f02a15c560624" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_M15_The-Chain-Veil.jpg" media-type="image/jpeg"/>
+		<item id="eed53b7e39c84bd18eb671c41765aa31" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_ORI_Demonic-Pact.jpg" media-type="image/jpeg"/>
+		<item id="c9d6b65ec3444fd898c25500ab8b006d" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_D16_Liliana-Interstitial-7.jpg" media-type="image/jpeg"/>
+		<item id="c5c1d1eb1f434234acd6d32bde51b74e" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_D16_Raven-Man.jpg" media-type="image/jpeg"/>
+		<item id="d843bdce623b43f8947d8c7e9278f00a" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_C13_Raven-Familiar.jpg" media-type="image/jpeg"/>
+		<item id="eefb81837c624be7a6292ff2c9a93279" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_D16_Liliana-Interstitial-8.jpg" media-type="image/jpeg"/>
+		<item id="bd38ec85bd4042bc938561fbaa732536" href="Stories/084-BattleForZendikar/005-UnkindnessOfRavens/Images/cardart_M15_Carrion-Crow.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 6. Offers to the Fire -->
+		<item id="ab1fdc9bc95b41b3aebefec94fa9f6a7" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d860d7e7b0f14632a967cdc20c0bcfa4" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Mountain_160368.jpg" media-type="image/jpeg"/>
+		<item id="db837ad80e93458db9b3a22fafe53620" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Abbot-of-Keral-Keep.jpg" media-type="image/jpeg"/>
+		<item id="c246d25c931f4c23b5f94a8eed20d8b6" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Embermaw-Hellion.jpg" media-type="image/jpeg"/>
+		<item id="b14806a5ab19485ab2cb8d4ff9b3dc61" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Ravaging-Blaze.jpg" media-type="image/jpeg"/>
+		<item id="bf0826a4ec364544849cf95c70651a4f" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_PC2_Mount-Keralia.jpg" media-type="image/jpeg"/>
+		<item id="ab576377e0dd41789f4ab19671f8c1aa" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Acolyte-of-the-Inferno.jpg" media-type="image/jpeg"/>
+		<item id="d7cfade7097241c4966d3fc07367d8cc" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Jace-Telepath-Unbound.jpg" media-type="image/jpeg"/>
+		<item id="bd1edd15d4d442fcb18b83ddc9f91f7b" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_GTC_Gideon-Champion-of-Justice.jpg" media-type="image/jpeg"/>
+		<item id="c6be88478c3a45fca0da749f4c887669" href="Stories/084-BattleForZendikar/006-OffersToTheFire/Images/cardart_ORI_Chandra-Roaring-Flame.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 7. For Zendikar -->
+		<item id="ba825042741d4625b12a8122a16b129f" href="Stories/084-BattleForZendikar/007-ForZendikar/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d460ff881f904338b776933eb15173e9" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Nissa-Sage-Animist.jpg" media-type="image/jpeg"/>
+		<item id="adbbe44a170041d1b4ca944377e7a72d" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Animists-Awakening.jpg" media-type="image/jpeg"/>
+		<item id="bcf5988dbb9a4eb7bcfa338bf6b9492c" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ROE_Ulamogs-Crusher.jpg" media-type="image/jpeg"/>
+		<item id="b735f854c3df46b88ca4d97bf4d0b724" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Gaeas-Revenge.jpg" media-type="image/jpeg"/>
+		<item id="fea057d7e3814df8972c295ec3ee4538" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_NissasRevelation.jpg" media-type="image/jpeg"/>
+		<item id="f5a6394b36634961b0605570e3e15fe8" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ROE_Regress.jpg" media-type="image/jpeg"/>
+		<item id="caf23ccfea50488786c097b344b4623f" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Forest-159391.jpg" media-type="image/jpeg"/>
+		<item id="a58785065b67480bbf1e8e0754140013" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ROE_Spawnsire-of-Ulamog.jpg" media-type="image/jpeg"/>
+		<item id="adaba0162f844319a8af8a8c0c631b73" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_SVC_Kor-Hookmaster.jpg" media-type="image/jpeg"/>
+		<item id="ff8d4566c08e487a82f025ac8aafb25f" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_WWK_Stirring-Wildwood.jpg" media-type="image/jpeg"/>
+		<item id="f405603a61bc45f9b4d384aa7837b0a8" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_GTC_Contaminated-Ground.jpg" media-type="image/jpeg"/>
+		<item id="a7e9df4bc0274ac2a135d3b4d614ec37" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Malakir-Cullblade.jpg" media-type="image/jpeg"/>
+		<item id="d4a83821d210486dbeee80dda3009f6f" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_WWK_Anowon-the-Ruin-Sage.jpg" media-type="image/jpeg"/>
+		<item id="a09dae7dfd9d4759813966536e1182bd" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_Zendikars-Roil.jpg" media-type="image/jpeg"/>
+		<item id="e121b8bdf28d4905829746eae81d6555" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
+		<item id="fe2d7e86d16b4cfb9f1d09231fcfa10d" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_ZEN_Khalni-Heart-Expedition.jpg" media-type="image/jpeg"/>
+		<item id="a457e82635b8434ca6367b7b6e92522f" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_M11_Leyline-of-Vitality.jpg" media-type="image/jpeg"/>
+		<item id="d0baf66d10e543b2a2b8d0573de80e18" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_WWK_Vastwood-Zendikon.jpg" media-type="image/jpeg"/>
+		<item id="efe38c1ba2634be4a6cb739a26b7ad26" href="Stories/084-BattleForZendikar/007-ForZendikar/Images/cardart_WWK_Groundswell.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 8. Slaughter at the Refuge -->
+		<item id="a587b273641f43bb8b8b85727ed54556" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d2fb47b460ae43c897eec1aac5c4c2ee" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/rj37auzaj7.jpg" media-type="image/jpeg"/>
+		<item id="d8345610d8e84343815d412b0b27696e" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
+		<item id="a20626ce366f4d64b6bb271248baf08d" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/qrt85lbzzf.jpg" media-type="image/jpeg"/>
+		<item id="a6c49d8c0e8d453db69d41daee28d367" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/p6eymm4lji.jpg" media-type="image/jpeg"/>
+		<item id="e141917dc3754bfb97d4ad88e6a4e7a0" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/a87ksezp7j.jpg" media-type="image/jpeg"/>
+		<item id="ce1fd455c071418dbaccf2fb13f5faf1" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/1yu9kxjuce.jpg" media-type="image/jpeg"/>
+		<item id="f773f69cb4b54ad997d011fd26c40874" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/gm07546g55.jpg" media-type="image/jpeg"/>
+		<item id="b67ae854028e47bcb7267cbe5872d2ee" href="Stories/084-BattleForZendikar/008-SlaughterAtTheRefuge/Images/mhenbhvort.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 9. The Silent Cry -->
+		<item id="fd714b084a2f4f0c8b1536badd2e1ae2" href="Stories/084-BattleForZendikar/009-TheSilentCry/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e764f9d4233a4c80ba33a40cbdfb4cc2" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/UdeR7EjjL0.jpg" media-type="image/jpeg"/>
+		<item id="d5b94e06276d4bfd9e77607ee1b2f46e" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/GX9WacRXBY.jpg" media-type="image/jpeg"/>
+		<item id="bfe90036444f4086a4018c50b2209afe" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
+		<item id="ac6df4ebcdf1464cb9640b022f0527fa" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/H3eURMvTnq.jpg" media-type="image/jpeg"/>
+		<item id="f0b39ad3b6f94d7d9ae6705593145327" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/VLhlYyv07G.jpg" media-type="image/jpeg"/>
+		<item id="e9b4204176614cb5b2689855339c3709" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/0d8O1NlYYi.jpg" media-type="image/jpeg"/>
+		<item id="fab2b1a88cac4567b16d401e56dd5da8" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/tcbK7jSl71.jpg" media-type="image/jpeg"/>
+		<item id="a20ea81f230f40d4b2133700679030a2" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/aUYWCmHEKX.jpg" media-type="image/jpeg"/>
+		<item id="f3a2372d89124409859f8469b4c69afe" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/4AfWZrTMSp.jpg" media-type="image/jpeg"/>
+		<item id="fc8f30189bde43968ff79d8758e38e90" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/tQ4SrkPza6.jpg" media-type="image/jpeg"/>
+		<item id="fa04aba0509b4bcaa0553c9db152cfad" href="Stories/084-BattleForZendikar/009-TheSilentCry/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 10. The Believer's Pilgrimage -->
+		<item id="b6e8e87acb6f4909b0a37ef814258303" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a42a5c8b7f3d4035897dc1514462db54" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_WakIySb2h4.jpg" media-type="image/jpeg"/>
+		<item id="aee64edfe9184a65a15cefbe1fa1a435" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_xBBBP3Rc8j.jpg" media-type="image/jpeg"/>
+		<item id="da09f38075cd4a21a3fdced21d763128" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/cardart_M15_Mind-Sculpt.jpg" media-type="image/jpeg"/>
+		<item id="a13ece513e634e17b4a07d42201cbc58" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_0XjrBUvvkU.jpg" media-type="image/jpeg"/>
+		<item id="cf433214084143498d8b6da8838b907e" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_fILiRuMMOt.jpg" media-type="image/jpeg"/>
+		<item id="fb103a42b5534851888cc9cfeeebbf31" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_OTQBwlQeRf.jpg" media-type="image/jpeg"/>
+		<item id="acfdba11e2864ce08599da03ac6ca38c" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_7ziyOorHiy.jpg" media-type="image/jpeg"/>
+		<item id="d9641ee9c57f4edab266933af83ee94a" href="Stories/084-BattleForZendikar/010-TheBelieversPilgrimage/Images/c4rd4r7_WgVLGdHlKz.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 11. The Survivors of Sky Rock -->
+		<item id="ecb4f658f42343bb807abb31eaf9e18f" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a86ed4c94b7848b38aa36c4a617f190e" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_irUQ5GmTXX.jpg" media-type="image/jpeg"/>
+		<item id="d608dab529dd4d1f829761760740bc83" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_9qQm70BtPX.jpg" media-type="image/jpeg"/>
+		<item id="e8b4d950d0bf4305bd6521c8528dc189" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_lZaUFeX8OP.jpg" media-type="image/jpeg"/>
+		<item id="cadb2ad3db13425ebe6618976fe4f0b0" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/qrt85lbzzf.jpg" media-type="image/jpeg"/>
+		<item id="a34655456cab49cfb0a90fae44636a77" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_ysegoN5BHr.jpg" media-type="image/jpeg"/>
+		<item id="ca7a358e980d48f0b7c432e0ef7599e5" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_5cUSTUFyVy.jpg" media-type="image/jpeg"/>
+		<item id="d64e7c2f2ee6454ca23d7c48810d00f4" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_Br0qHmzDZo.jpg" media-type="image/jpeg"/>
+		<item id="ec1b20ad24b64a5694636275fdec2da8" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_6TOB6TuQWl.jpg" media-type="image/jpeg"/>
+		<item id="b6cd832a41e2411da3f6d321ecf309e0" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/rj37auzaj7.jpg" media-type="image/jpeg"/>
+		<item id="e28d94d3210d43e4b93fc1d5d22c7065" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_UK9JpEUCfp.jpg" media-type="image/jpeg"/>
+		<item id="c3a0ac8ba0494cfe9af537e1ca406a46" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_ZOd4kfAjDr.jpg" media-type="image/jpeg"/>
+		<item id="bb8c72d008ac42fe9097b3e3a6912a55" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/c4rd4r7_bjt3ieQws8.jpg" media-type="image/jpeg"/>
+		<item id="c9026570118041a3ae2e7180f8b7d14f" href="Stories/084-BattleForZendikar/011-TheSurvivorsOfSkyRock/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 12. Memories of Blood -->
+		<item id="d200df102568404b8b9e140e766f46e3" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="c5752eb0e1e44bd8862d0464dec5d3a6" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/en_Ofep9LePMi.png" media-type="image/png"/>
+		<item id="cd08cbb0817e4516bc14039248fe3fe4" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_UVElC2YyiL.jpg" media-type="image/jpeg"/>
+		<item id="e225fa5a90814b67b91346050e875e2d" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_qTT2U0MwcR.jpg" media-type="image/jpeg"/>
+		<item id="b0a33c0159e248b2a4f42b90ebf0db09" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_VvMc7OItOI.jpg" media-type="image/jpeg"/>
+		<item id="a9f85f0f72334346bc651dd3711535fd" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_tdaOOHpRvp.jpg" media-type="image/jpeg"/>
+		<item id="e2aa3b84e7f847478ad8e6a1db24ceae" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_8bSqdLYN46.jpg" media-type="image/jpeg"/>
+		<item id="ef7a541b41e744a3a25b4a1dd6a6a1c1" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4rt_6GMrHg46UD.jpg" media-type="image/jpeg"/>
+		<item id="fae9274089624c048b310db40221b4a5" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_Xlgi4ypKRk.jpg" media-type="image/jpeg"/>
+		<item id="bfcaf628036f4cae839a285bb465efdf" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4rt_6IQFzGRoz3.jpg" media-type="image/jpeg"/>
+		<item id="cb095605d6bb43fbae0d256ad2749b5a" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_OxtvU7d6tk.jpg" media-type="image/jpeg"/>
+		<item id="e7403f35b1e746288d0ecc6144621f2b" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_pjr1CzFs9A.jpg" media-type="image/jpeg"/>
+		<item id="c1e5200f80bf46c3b7ea806111d60495" href="Stories/084-BattleForZendikar/012-MemoriesOfBlood/Images/c4rd4r7_n9RtlMZorV.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 13. Nissa's Quest -->
+		<item id="de983dfcc8e4433985211e7cd3f626b5" href="Stories/084-BattleForZendikar/013-NissasQuest/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b187a469897e444b8877427bca639f00" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
+		<item id="ffb7cfd7d31844f0a4c7eac792a56cb1" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ORI_Zendikars-Roil.jpg" media-type="image/jpeg"/>
+		<item id="e134869769d142e3b95a0d1beeb1f8d6" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/c4rd4r7_aFLMl1j3nM.jpg" media-type="image/jpeg"/>
+		<item id="a057982982da4e3881bc379ed46a6483" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ORI_Sword-of-the-Animist.jpg" media-type="image/jpeg"/>
+		<item id="fd2c594a1e5c409498a0f32ed0761537" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/c4rd4r7_lO4EDTKWOX.jpg" media-type="image/jpeg"/>
+		<item id="b4386b24a6b94581aa10516c5145ef7c" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/c4rd4r7_2Tc6AcNvEP.jpg" media-type="image/jpeg"/>
+		<item id="cb7f6debcd0b4ba18e54c54f48f8c776" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_ZEN_Khalni-Heart-Expedition.jpg" media-type="image/jpeg"/>
+		<item id="ffadff49b96846978a0783e2c48e8502" href="Stories/084-BattleForZendikar/013-NissasQuest/Images/cardart_NissasExpedition.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 14. Home Waters -->
+		<item id="d0b09fc7ebb14e2f9196205951b71f29" href="Stories/084-BattleForZendikar/014-HomeWaters/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="aa67944e25524c7bb5b1ef5eedbd9258" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_tsAaRPTRmF.jpg" media-type="image/jpeg"/>
+		<item id="f8fed78983ed4a7dabbd3e886213439b" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_0qEtP7Uja1.jpg" media-type="image/jpeg"/>
+		<item id="c3b80a47e47b435cb6739ed3b5857923" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_2JCi2nUz4x.jpg" media-type="image/jpeg"/>
+		<item id="e88de5ffdb5445bc965180e988bd3c43" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_YuewlGdgee.jpg" media-type="image/jpeg"/>
+		<item id="bdb4f711f420446982db10e493c8e0cf" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_b2uCZ3ALuh.jpg" media-type="image/jpeg"/>
+		<item id="df9ca712c34e492bbef8e7d6e1575767" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_mIvLXGoPuS.jpg" media-type="image/jpeg"/>
+		<item id="c1cf47be032d4f0bb11dba23c3e73d05" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/cardart_ZEN_Shoal-Serpent.jpg" media-type="image/jpeg"/>
+		<item id="d91cc5946eca46fc88a232c7b678ef55" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_OTQBwlQeRf.jpg" media-type="image/jpeg"/>
+		<item id="d7911f5a0dfd4b2680bc004f63b0a069" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/c4rd4r7_7ziyOorHiy.jpg" media-type="image/jpeg"/>
+		<item id="b4967af4543140b88a1c779d4c57bb49" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/cardart_ZEN_Sea-Gate-Loremaster.jpg" media-type="image/jpeg"/>
+		<item id="a34f893659284f7fb0c12eaa6b191682" href="Stories/084-BattleForZendikar/014-HomeWaters/Images/cardart_ZEN_Island-258.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 15. Nissa's Resolve -->
+		<item id="d6bcaa9448184cd8a1cf54bc45d9555e" href="Stories/084-BattleForZendikar/015-NissasResolve/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="daf03fa8368a4da7806d13861147438d" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_BFZ_Blighted-Woodland.jpg" media-type="image/jpeg"/>
+		<item id="c4c009f662474174add8631e5a277481" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/c4rd4r7_6R0jNH68W2.jpg" media-type="image/jpeg"/>
+		<item id="ed0813a61eb745c891d80a402ea99341" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/s70ry4r7_kMb0Qu9sPY.jpg" media-type="image/jpeg"/>
+		<item id="d4d74bcbfd884a3b92c75ba0be5a6bab" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ROE_Guard-Gomazoa.jpg" media-type="image/jpeg"/>
+		<item id="aff48bae499741c8b5723de26ef96e34" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/c4rd4r7_yjPnehkwMJ.jpg" media-type="image/jpeg"/>
+		<item id="a98b5604c5a448f7950c92e6f261080c" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ZEN_Surrakar-Marauder.jpg" media-type="image/jpeg"/>
+		<item id="e73137d9deec4626a3b95e4675b27bf6" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/c4rd4r7_pPT2qjNnun.jpg" media-type="image/jpeg"/>
+		<item id="c8a3247dff92481fae9fd7fa668315ef" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/c4rd4r7_VxY1TFS7My.jpg" media-type="image/jpeg"/>
+		<item id="b1298c82f1934eccaa3af7105b61bd26" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_M13_Spiked-Baloth.jpg" media-type="image/jpeg"/>
+		<item id="accc28df81e74aa89db64685f98a555a" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_M15_Ob-Nixilis-Unshackled.jpg" media-type="image/jpeg"/>
+		<item id="d381f7f5e9724224a8b0f703fbee864f" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ZEN_Nissa-Revane.jpg" media-type="image/jpeg"/>
+		<item id="ce8e28b51a8c4b3b853e2f6289303786" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ZEN_Khalni-Heart-Expedition.jpg" media-type="image/jpeg"/>
+		<item id="a17318fb6293431a9ee1d1779720dabc" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_MM2_Blinkmoth-Nexus.jpg" media-type="image/jpeg"/>
+		<item id="c262575d61634b9d83e078c12c89040e" href="Stories/084-BattleForZendikar/015-NissasResolve/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 16. Revelation at the Eye -->
+		<item id="a4e1874304ea4797b22efaf77a31735d" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="d93f2ce9a477443b922ed2cbbccc0868" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Looming-Spires.jpg" media-type="image/jpeg"/>
+		<item id="fb70b5a46d864f039ef6c4d0debb0c81" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Salvage-Drone.jpg" media-type="image/jpeg"/>
+		<item id="ae9d62ee5f1e438b88bc7890668eea6d" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/c4rd4rt_mp9vR4xNwb.jpg" media-type="image/jpeg"/>
+		<item id="f23344e404694858b7e266c4259a2fe0" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Sanctum-of-Ugin.jpg" media-type="image/jpeg"/>
+		<item id="e785fdad54734b57b1193004ca2745f2" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_FRF_PRO_Ugin-the-Spirit-Dragon.jpg" media-type="image/jpeg"/>
+		<item id="db918f5dd320402981767777a4dec243" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ-Hedron-Archive.jpg" media-type="image/jpeg"/>
+		<item id="dfc6771a2544494a8f1276033f4c70a9" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_ROE_Island-233.jpg" media-type="image/jpeg"/>
+		<item id="ff9c6054eb54483d9f2fc0a397f22f9e" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/cardart_BFZ_Dispel.jpg" media-type="image/jpeg"/>
+		<item id="b073f59e0b9f4ffab1514829f46c28a9" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/3hnueij4kd_storyshot.jpg" media-type="image/jpeg"/>
+		<item id="d72836fb45834f059952d0ae685a4738" href="Stories/084-BattleForZendikar/016-RevelationAtTheEye/Images/c4rd4r7_CXAtiVtVvz.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 17. Shaping an Army -->
+		<item id="ad19b19ba94145fe87dbeeb137e0ce24" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f7c3008294ee4470a38bb8e2b193727b" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Retreat-to-Coralhelm.jpg" media-type="image/jpeg"/>
+		<item id="e238c89fe66f418286c4deade0e76344" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_Roil-Spout.jpg" media-type="image/jpeg"/>
+		<item id="e37ada15da2d4be0b9eaade1a865cf9d" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/qrt85lbzzf.jpg" media-type="image/jpeg"/>
+		<item id="c2489b06e5e34dd995fc7d3548510de7" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/c4rd4r7_gwNLB3aaOx.jpg" media-type="image/jpeg"/>
+		<item id="d91603b787e14dcd96631b873bed6cd7" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Roilmages-Trick.jpg" media-type="image/jpeg"/>
+		<item id="bfbad7c9538343f782d1e4910bc39a6b" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Plains-253.jpg" media-type="image/jpeg"/>
+		<item id="c24f85afc6e34b28bcadb24cbf31f236" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Inspired-Charge.jpg" media-type="image/jpeg"/>
+		<item id="db243bb07ea241178aded65a95fd8784" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/c4rd4r7_0fLeY0Zj40.jpg" media-type="image/jpeg"/>
+		<item id="d9df25626f1340a38f9d82195a7d72d7" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Noyan-Dar-Roil-Shaper.jpg" media-type="image/jpeg"/>
+		<item id="af3e80375a48458c9b70ef0290711620" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Boiling-Earth.jpg" media-type="image/jpeg"/>
+		<item id="d0fd99d02b1141f98bea0f4ba18bd0fc" href="Stories/084-BattleForZendikar/017-ShapingAnArmy/Images/cardart_BFZ_Prairie-Stream.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 18. The Liberation of Sea Gate -->
+		<item id="be8579097f614e58900f8fd13f0a42c7" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ff324e8d12d240ed8dcd015402a92ce3" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Serpentine-Spike.jpg" media-type="image/jpeg"/>
+		<item id="e62ff9b0ca4240879e928a9b6ca61341" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/c4rd4r7_2Tc6AcNvEP.jpg" media-type="image/jpeg"/>
+		<item id="a8ad51d43b334b55964f0547bf9f7fd5" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/storyart_BFZ_Group-shot.jpg" media-type="image/jpeg"/>
+		<item id="fe0298cbb7334998a0f692c778f35104" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_TOK_Octopus.jpg" media-type="image/jpeg"/>
+		<item id="be8155656130427b9ebd15a1f766f51e" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/c4rd4r7_0qEtP7Uja1.jpg" media-type="image/jpeg"/>
+		<item id="d8109ccf7f244ce8af86c4f7523fdb7f" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Kalastria-Nightwatch.jpg" media-type="image/jpeg"/>
+		<item id="aa2caf8baa134ee79c4c0950e3a902cc" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Woodland_Wanderer.jpg" media-type="image/jpeg"/>
+		<item id="db488e8c99464269979013e9952b9bd3" href="Stories/084-BattleForZendikar/018-TheLiberationOfSeaGate/Images/cardart_BFZ_Outnumber.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 19. Hedron Alignment -->
+		<item id="d54b750f154241b7800e9623cc336642" href="Stories/084-BattleForZendikar/019-HedronAlignment/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fe28e80359734c1da3fcc75e4ac3cd59" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_EVK_Kiora-the-Crashing-Wave.jpg" media-type="image/jpeg"/>
+		<item id="a7f0163810f94802add888852837ab43" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_THS_PRM_Bident-of-Thassa.jpg" media-type="image/jpeg"/>
+		<item id="d461a5ad6f1d4feeb43fdb622cf42450" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_GTC_Gideon-Champion-of-Justice-B.jpg" media-type="image/jpeg"/>
+		<item id="b2e6f0f6cdb344d6948f8e4a461ce0c2" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_ORI_Tragic-Arrogance.jpg" media-type="image/jpeg"/>
+		<item id="b5aea95d7ba34635994f0b9ff4c573de" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Hedron-Archive.jpg" media-type="image/jpeg"/>
+		<item id="c846b0b3e0bc4061bb7e02557f9d62fd" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/storyart_BFZ_Three-PW-arguing.jpg" media-type="image/jpeg"/>
+		<item id="d8f3812a22dc4486804059744be90d7c" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/c4rd4r7_0qEtP7Uja1.jpg" media-type="image/jpeg"/>
+		<item id="b4a52f830fed4fb28db75b75222a31de" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Nissas-Renewal.jpg" media-type="image/jpeg"/>
+		<item id="cd69e00c06704a1eb6be1abdcdc008f2" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
+		<item id="d6304a6c0180434a99b1400ea67e2049" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
+		<item id="cdc2023217be47c0a6c40db0e9b4f716" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/c4rd4r7_ysegoN5BHr.jpg" media-type="image/jpeg"/>
+		<item id="c0f812ae9dc546bb830d317787660510" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/c4rd4r7_aMnmBtBpnd.jpg" media-type="image/jpeg"/>
+		<item id="ea914dbfb85e40aaac85282094f23b77" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/qrt85lbzzf.jpg" media-type="image/jpeg"/>
+		<item id="c301ed849ded42f79fe4c5c71c87bebf" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Goblin-War-Paint.jpg" media-type="image/jpeg"/>
+		<item id="d002e98e570a4c4e90ce6ad7bad1b262" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
+		<item id="fd57c0d1cabc416083bfc60f5ab1eec7" href="Stories/084-BattleForZendikar/019-HedronAlignment/Images/cardart_BFZ_Demons-Grasp.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 20. At Any Cost  -->
+		<item id="e2eb521e832d4b5298a5d424e6f1ad4d" href="Stories/084-BattleForZendikar/020-AtAnyCost/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="bea0a4d9dbd1438daa70b87da53e709e" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Nissas-Renewal.jpg" media-type="image/jpeg"/>
+		<item id="bd7a44100e3746bcaa522406b4f70ce2" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Sire-of-Stagnation.jpg" media-type="image/jpeg"/>
+		<item id="b8404373b6b343b196560eb0b2f3b03e" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Lithomancers-Focus.jpg" media-type="image/jpeg"/>
+		<item id="e66255e59a344a1b9bcc3b7b53664273" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
+		<item id="e8b6ba51418b4b1f9f4eed67041b3f24" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/cardart_BFZ_Demons-Grasp.jpg" media-type="image/jpeg"/>
+		<item id="cb5aa9de840f4dcfa6aa5acbe74262f1" href="Stories/084-BattleForZendikar/020-AtAnyCost/Images/c4rd4r7_-VxY1TFS7My.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 21. Promises to Keep  -->
+		<item id="f7bad6826cd0414bbdd5d50ff7eeff08" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="aa5b382d49f44a5f945dc9f7c8b01ba3" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_ORI_Mountain-268.jpg" media-type="image/jpeg"/>
+		<item id="e91a76b1f65b409bac871dc70c438ed8" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_BFZ_Skyline-Cascade.jpg" media-type="image/jpeg"/>
+		<item id="a1f7ad2bc4114ebab751967fc3e0efbe" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/c4rd4r7_ysegoN5BHr.jpg" media-type="image/jpeg"/>
+		<item id="ede63de244a7492586f51b4d094853b6" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_BFZ_Eyeless-Watcher.jpg" media-type="image/jpeg"/>
+		<item id="b34b9bba6bba44fe99ae442eae01f0b1" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_M14_Flames-of-the-Firebrand.jpg" media-type="image/jpeg"/>
+		<item id="a45333b56bf94774afc42d570e734067" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/c4rd4r7_OTQBwlQeRf.jpg" media-type="image/jpeg"/>
+		<item id="ebe81bb8abdd4ff99e8eb985a66cce44" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_ORI_Chandra-Roaring-Flame.jpg" media-type="image/jpeg"/>
+		<item id="ff787a9af1b745b88e6c1feef80260c8" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/cardart_BFZ_Ob-Nixilis-Reignited.jpg" media-type="image/jpeg"/>
+		<item id="e040ca87f5be4377bb635c3619671694" href="Stories/084-BattleForZendikar/021-PromisesToKeep/Images/c4rd4r7_NhORRpG3i5.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Battle for Zendikar / 22. The Rise of Kozilek  -->
+		<item id="c5d3a731db434953811dc4cdc5076333" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="ba45f4a31e664cb8a153814947635cf7" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/cardart_BFZ_Kiora-close.jpg" media-type="image/jpeg"/>
+		<item id="c4f00840b1fc4c3ab9c2a6041f82fa8d" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/cardart_ZEN_Lorthos-the-Tidemaker.jpg" media-type="image/jpeg"/>
+		<item id="a79b4c9a84c944d7816ff5961364288c" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/c4rd4r7_0rAfFxM1Qk.jpg" media-type="image/jpeg"/>
+		<item id="d5ef36a9d84a40fa97dd6ad4da008880" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/c4rd4r7_eOaPvhAUEI.jpg" media-type="image/jpeg"/>
+		<item id="bdc0009cfc1d4d2a854bf27291b7073b" href="Stories/084-BattleForZendikar/022-TheRiseOfKozilek/Images/c4rd4r7_g7jaab0wd0.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch -->
+		<item id="f5429ad999434cab8b6f2e2dd0d0e217" href="Stories/085-OathOfTheGatewatch/Index.xhtml" media-type="application/xhtml+xml"/>
+		<!-- Stories / Oath of the Gatewatch / 1. Retaliation of Ob Nixilis -->
+		<item id="ceb7f0af0c764af6983e53c93c8dda4b" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f77fdff566cd41159a5587271968d906" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/en_PCXZnQjfTF.png" media-type="image/png"/>
+		<item id="f984d4b920074961a6e410c56c31ed55" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
+		<item id="da21cbcf49c24c44942efa25dc4d4c3d" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/cardart_ORI_TOK_Ashaya-the-Awoken-World.jpg" media-type="image/jpeg"/>
+		<item id="b9cfca6c858446c9b2445e49ff44e4a7" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/cardart_ROE_Ulamog-the-Infinite-Gyre.jpg" media-type="image/jpeg"/>
+		<item id="b667692527ad4fe4a5ca58951f7aca22" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/cardart_BFZ_Ob-Nixilis-Reignited.jpg" media-type="image/jpeg"/>
+		<item id="e7d19e7bc7f1454fb0ea870d2ae79dfe" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/c4rd4r7_NhORRpG3i5.jpg" media-type="image/jpeg"/>
+		<item id="e65cee20e0154b0a9c1c352cb5b979e3" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/s70ry4r7_ePCPngt0pD.jpg" media-type="image/jpeg"/>
+		<item id="ff25e9f3095041b881b7995fcdf0d8c2" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/s70ry4r7_MeLb2hvIL3.jpg" media-type="image/jpeg"/>
+		<item id="c0bce15df6a941b8a1450c382aa1a321" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/VnlStEaAbl.jpg" media-type="image/jpeg"/>
+		<item id="ae094291f2274f2f90b4a7997ab963ce" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/ldhrbw81ua.jpg" media-type="image/jpeg"/>
+		<item id="f6a7197aa70247ea83a90f5a49acad1c" href="Stories/085-OathOfTheGatewatch/001-RetaliationOfObNixilis/Images/c4rd4r7_42DJIbUqFt.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 2. Reclamation -->
+		<item id="b306be7e0e334fe491692ebc951e7027" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="f1d6414af58d4183ab95f7b9893df8bd" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/en_2xAXRdWQSW.png" media-type="image/png"/>
+		<item id="bfab23b42ab74ee6b9ddf63faa72f05c" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4rt_gIjMDtzif3.jpg" media-type="image/jpeg"/>
+		<item id="f52e2de0681d4906b496a657672e0f4f" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_B6qVNVfDPC.jpg" media-type="image/jpeg"/>
+		<item id="f72996339a294e7d95c8e50c02cff6da" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_DCBhdxZCRT.jpg" media-type="image/jpeg"/>
+		<item id="a7a62698a4724aa4bd6612eb2edc1c70" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_4XhCrEOW8A.jpg" media-type="image/jpeg"/>
+		<item id="a66684122f2a49e795eaaefcd97cc104" href="Stories/085-OathOfTheGatewatch/002-Reclamation/Images/c4rd4r7_4Vci7ve9Ww.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 3. The Blight We Were Born For -->
+		<item id="e5a0420fa64f4e91b02a4f953c9236be" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="e64f2d09bf1e4cfd9eb519d29b11231e" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/cardart_BFZ_Aligned-Hedron-Network.jpg" media-type="image/jpeg"/>
+		<item id="fd926801351e4806a15cbe92b2ed86cf" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/QxjSHc9Dvr.jpg" media-type="image/jpeg"/>
+		<item id="d73d0ae14eb84e6b8034e7d38fefca6a" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/0chvVZ4TcT.jpg" media-type="image/jpeg"/>
+		<item id="bb3503aa7ab4410a9cd550501e1d9ce1" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/sLsKy0WZOA.jpg" media-type="image/jpeg"/>
+		<item id="c68735bbdc9649d7ac5fcbabbd656ddb" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/cardart_BFZ_Fortified-Rampart.jpg" media-type="image/jpeg"/>
+		<item id="de4afbf78f63439ea4abd2140ec6a125" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/c4rd4r7_UK9JpEUCfp.jpg" media-type="image/jpeg"/>
+		<item id="a020b00272e94618b416ec3eb7b626ee" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/Dru6wVOJZ2.jpg" media-type="image/jpeg"/>
+		<item id="f438808da5664b5abea090aa528860da" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/WkrSeoBmCN.jpg" media-type="image/jpeg"/>
+		<item id="e943bd3dff4c4155985c9b4a111b3cd1" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/c4rd4r7_eOaPvhAUEI.jpg" media-type="image/jpeg"/>
+		<item id="fd218b77f4d449dab906a8e9ebaf36ab" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/dJSQRtT8Yu.jpg" media-type="image/jpeg"/>
+		<item id="ecf21d6e776f4388bbc39eaafa344acf" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/ySS086J4oN.jpg" media-type="image/jpeg"/>
+		<item id="c66befd7f7cf4aa582c5791347b0665c" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/cardart_BFZ_Angelic-Gift.jpg" media-type="image/jpeg"/>
+		<item id="df75b1deb69b4add91e4452399c98002" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/kqDsXtUtZl.jpg" media-type="image/jpeg"/>
+		<item id="e707f52c08ec4d3c81defc4129439743" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/5WIZ2XJr6W.jpg" media-type="image/jpeg"/>
+		<item id="ba8e1f9d822f405ea37c57216a397ebb" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/gjKUCeofy4.jpg" media-type="image/jpeg"/>
+		<item id="baa9105316f24a0ebc983185c25b1338" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/c4rd4r7_OxtvU7d6tk.jpg" media-type="image/jpeg"/>
+		<item id="d154a702e961435a9411ccb99e81bfe2" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/ORBbiVIdoI.jpg" media-type="image/jpeg"/>
+		<item id="f8034f8a551a40bdbe6654a5f6d7ef1a" href="Stories/085-OathOfTheGatewatch/003-TheBlightWeWereBornFor/Images/z0fuoL1hEF.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 4. Up in Flames -->
+		<item id="fe2356475f0a4aac88741c3f7400d66f" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="fe2945721ed34779afd4fba9398ac026" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_ORI_Gideons-PhalanxB.jpg" media-type="image/jpeg"/>
+		<item id="d0da8f9f8bac4faf8ad841d73972bdb6" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_General-Tazri.jpg" media-type="image/jpeg"/>
+		<item id="cbfeb1b0936c4743ac460d754f4f810a" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_Warden-of-Geometries.jpg" media-type="image/jpeg"/>
+		<item id="bf40d606d5e547b7a15d839c3f56413f" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_Chandra-Flamecaller.jpg" media-type="image/jpeg"/>
+		<item id="a1d65757247e4dabaf5d0f0d2bc31573" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_Remorseless-Punishment.jpg" media-type="image/jpeg"/>
+		<item id="c59d59164ae645dfba6deef20eb08856" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/cardart_OGW_Devour-in-Flames.jpg" media-type="image/jpeg"/>
+		<item id="c48ea0e1a6934259b78002e62158eb23" href="Stories/085-OathOfTheGatewatch/004-UpInFlames/Images/storyart_OGW_Nissas-Nemesis.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 5. Beneath the Surface -->
+		<item id="cbbf6256ae384fd5b06b4f00cd463d37" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="cc4beee1cff34a5790ba1aed656cfee6" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Jori-En_Ruin_Diver.jpg" media-type="image/jpeg"/>
+		<item id="f9d91c369f164f82b780d5e5127259d8" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Kozilek-the-Great-Distortion.jpg" media-type="image/jpeg"/>
+		<item id="c0a9174f60234d4181470df18daa32a8" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Deepfathom-SkulkerB.jpg" media-type="image/jpeg"/>
+		<item id="ad9f0e76df28435c9570861f44eb3e38" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Unknown-Shores.jpg" media-type="image/jpeg"/>
+		<item id="c606db7e915f4b71bdc83db42cd9942f" href="Stories/085-OathOfTheGatewatch/005-BeneathTheSurface/Images/cardart_OGW_Goblin-Dark-Dwellers.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 6. Oath of the Gatewatch -->
+		<item id="cbb8aeb6c4464a6190a1d067db837448" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="eef24ce05233469789d2b5a9b2b35676" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Ruin-In-Their-Wake.jpg" media-type="image/jpeg"/>
+		<item id="aaeff08ed6394dd2ad85bbfa3d48dd05" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Gideon.jpg" media-type="image/jpeg"/>
+		<item id="b7f3fba898d149b88194f45092e4a9bc" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Nissa.jpg" media-type="image/jpeg"/>
+		<item id="d9be8ee791c7444db11079d9c0a4ca07" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Jace.jpg" media-type="image/jpeg"/>
+		<item id="f40f0dd7f34d48809e2e2109db4de1ba" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Oath-of-Chandra.jpg" media-type="image/jpeg"/>
+		<item id="e5b36635ad9f4aa9893d9b5deb24a769" href="Stories/085-OathOfTheGatewatch/006-OathOfTheGatewatch/Images/cardart_OGW_Call-the-Gatewatch.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 7. Brink of Extinction -->
+		<item id="dc9186b7509d4f069df26fe6a382c22f" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="a09b2a635173473cb719c3941ff68dd0" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_General-Tazri.jpg" media-type="image/jpeg"/>
+		<item id="f30f3bc2a84d4e88a4726fb1f8d01d81" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_Oath-of-Nissa.jpg" media-type="image/jpeg"/>
+		<item id="d1aefff90aaa44929ec584c5c1ffd517" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/WkrSeoBmCN.jpg" media-type="image/jpeg"/>
+		<item id="a7176c18146b4bf3a6d222eb3850ae6e" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/storyart_ROE_fat-pack.jpg" media-type="image/jpeg"/>
+		<item id="b8aca1ed6f78432996d90587c6f6befb" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_Nissas-Judgment.jpg" media-type="image/jpeg"/>
+		<item id="d76e3fec34b94cf68c36cb17f5cf2d04" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_BFZ_Nissa-Master-of-the-Depths.jpg" media-type="image/jpeg"/>
+		<item id="c4670b3b32b54e6bbc7d4c873afecff0" href="Stories/085-OathOfTheGatewatch/007-BrinkOfExtinction/Images/cardart_OGW_Unity-of-Purpose.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 8. Zendikar's Last Stand -->
+		<item id="aa025b64f3e046389d68861510e2d45a" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="aaf9c1650ed04da69a90d13e11d842ae" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Relief-Captain.jpg" media-type="image/jpeg"/>
+		<item id="f588bc5bb1e0435db53f06fbcb7aa49b" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Overwhelming-Denial.jpg" media-type="image/jpeg"/>
+		<item id="b2cf1fc4983d4c42b5facc3cc950c5b4" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Kozilek-the-Great-Distortion.jpg" media-type="image/jpeg"/>
+		<item id="a9c3b230df234a3e93668db1629d1ec7" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Witness_the_End.jpg" media-type="image/jpeg"/>
+		<item id="d60a2dfc3d8f476084d4be1a59dbd595" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Bonds-of-Mortality.jpg" media-type="image/jpeg"/>
+		<item id="d09f09fb80d248588901bb498da648fa" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Flaying-Tendrils.jpg" media-type="image/jpeg"/>
+		<item id="cc1772d5c2d14e6e8d3bab67561986e7" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Grip-of-the-Roil.jpg" media-type="image/jpeg"/>
+		<item id="d2011346402a424fb0e3d3e32d77dc34" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_BFZ_Looming-Spires.jpg" media-type="image/jpeg"/>
+		<item id="f3551f0148764c06a39f6471b9e11a54" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Sweep-Away.jpg" media-type="image/jpeg"/>
+		<item id="ca97f47e08ed4361a2b4dbdc8ad6487c" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Fall-of-the-Titans.jpg" media-type="image/jpeg"/>
+		<item id="ba9f4086bfb54f03804f0745aede1b0a" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_EXP_Mana-Confluence.jpg" media-type="image/jpeg"/>
+		<item id="a8dccdde087c46b38b570cac4830b032" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_WastesB.jpg" media-type="image/jpeg"/>
+		<item id="f02ec4991acc4c3da5ff10485b4d6957" href="Stories/085-OathOfTheGatewatch/008-ZendikarsLastStand/Images/cardart_OGW_Affa-Protector.jpg" media-type="image/jpeg"/>
+		<!-- Stories / Oath of the Gatewatch / 9. Zendikar Resurgent -->		
+		<item id="b182d452e7714b1cbf23ac429dcc353d" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Index.xhtml" media-type="application/xhtml+xml"/>
+		<item id="b76f4b225d5f4e519ab4df9500135256" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Oath-of-Gideon.jpg" media-type="image/jpeg"/>
+		<item id="c6861885f3f44bd39317761546f61d08" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_BFZ_Island-257.jpg" media-type="image/jpeg"/>
+		<item id="a265ece06b4b4f608016f0d4f18b010a" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Sea-Gate-Wreckage.jpg" media-type="image/jpeg"/>
+		<item id="bf087aba698d4acf8d548c0d6e75e54a" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Oath-of-Chandra.jpg" media-type="image/jpeg"/>
+		<item id="e6c9371ff21f4c6a8cfbc83afb6e5a4e" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Oath-of-Jace.jpg" media-type="image/jpeg"/>
+		<item id="f4819b6d26014ccdb7f4cc5fff2a07ea" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_FRF_Ugin-the-Spirit-DragonA.jpg" media-type="image/jpeg"/>
+		<item id="f269d70f5e5e4f95955612f27343064e" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Oath-of-Nissa.jpg" media-type="image/jpeg"/>
+		<item id="d7554dab04ba408482951cc33cf02487" href="Stories/085-OathOfTheGatewatch/009-ZendikarResurgent/Images/cardart_OGW_Zendikar-Resurgent.jpg" media-type="image/jpeg"/>
 		<!-- Stories / Amonkhet -->
 		<item id="cd94bbd0d534483da85a9818e3d742df" href="Stories/090-Amonkhet/Index.xhtml" media-type="application/xhtml+xml"/>
 		<!-- Stories / Amonkhet / 1. Impact -->
@@ -387,6 +744,38 @@
 		<!-- Stories / Battle for Zendikar -->
 		<itemref idref="b1a1593e932f40b2b10a1064b547f5f2" />
 		<itemref idref="a4f702f7c5b446e48b621655e445d47c" />
+		<itemref idref="e68a771ed3c64899820939418eb641b3" />
+		<itemref idref="c3f40d3eb8864ca1beed3a46f951c396" />
+		<itemref idref="c653e6e052344234872193bbdc47d0d0" />
+		<itemref idref="e1c44848dbe64b84a1a877d420b8c573" />
+		<itemref idref="ab1fdc9bc95b41b3aebefec94fa9f6a7" />
+		<itemref idref="ba825042741d4625b12a8122a16b129f" />
+		<itemref idref="a587b273641f43bb8b8b85727ed54556" />
+		<itemref idref="fd714b084a2f4f0c8b1536badd2e1ae2" />
+		<itemref idref="b6e8e87acb6f4909b0a37ef814258303" />
+		<itemref idref="ecb4f658f42343bb807abb31eaf9e18f" />
+		<itemref idref="d200df102568404b8b9e140e766f46e3" />
+		<itemref idref="de983dfcc8e4433985211e7cd3f626b5" />
+		<itemref idref="d0b09fc7ebb14e2f9196205951b71f29" />
+		<itemref idref="d6bcaa9448184cd8a1cf54bc45d9555e" />
+		<itemref idref="a4e1874304ea4797b22efaf77a31735d" />
+		<itemref idref="ad19b19ba94145fe87dbeeb137e0ce24" />
+		<itemref idref="be8579097f614e58900f8fd13f0a42c7" />
+		<itemref idref="d54b750f154241b7800e9623cc336642" />
+		<itemref idref="e2eb521e832d4b5298a5d424e6f1ad4d" />
+		<itemref idref="f7bad6826cd0414bbdd5d50ff7eeff08" />
+		<itemref idref="c5d3a731db434953811dc4cdc5076333" />
+		<!-- Stories / Oath of the Gatewatch -->
+		<itemref idref="f5429ad999434cab8b6f2e2dd0d0e217" />
+		<itemref idref="ceb7f0af0c764af6983e53c93c8dda4b" />
+		<itemref idref="b306be7e0e334fe491692ebc951e7027" />
+		<itemref idref="e5a0420fa64f4e91b02a4f953c9236be" />
+		<itemref idref="fe2356475f0a4aac88741c3f7400d66f" />
+		<itemref idref="cbbf6256ae384fd5b06b4f00cd463d37" />
+		<itemref idref="cbb8aeb6c4464a6190a1d067db837448" />
+		<itemref idref="dc9186b7509d4f069df26fe6a382c22f" />
+		<itemref idref="aa025b64f3e046389d68861510e2d45a" />
+		<itemref idref="b182d452e7714b1cbf23ac429dcc353d" />
 		<!-- Stories / Amonkhet -->
 		<itemref idref="cd94bbd0d534483da85a9818e3d742df" />
 		<itemref idref="e8e0eeb11bbf4d7389222d19b7bb6337" />
