@@ -1,31 +1,44 @@
-#!/bin/bash
+#!/usr/bin/env php
+<?php
+$r = 0;
+$path = dirname(__FILE__);
+$file = $argv[1] ?? null;
 
-# Helper command to clean a copy/pasted html source code.
+if (!file_exists($file)) {
+	$r = 1;
+	goto onError;
+}
+$content = file_get_contents($file);
+// --
+$content = html_entity_decode($content);
+// --
+$search = [
+	"</a>",
+	"<p></p>",
+	"<br>",
+	"<hr>"
+];
+$replace = [
+	"",
+	"",
+	"<br />",
+	"\n\n<hr />\n\n"
+];
+$content = str_replace($search, $replace, $content);
+// --
+$content = preg_replace("/<a[^>]*>/", "", $content);
+// --
+$content = preg_replace("/(^[\r\n]*|[\r\n]+)[\s\t]*[\r\n]+/", "\n", $content);
+// --
+$search = "/<div[^>]*><img.+src=\".*\/(.*?)\".*><\/div>\s*<p[^>]*>(.*)<\/p>/u";
+$replace = "<figure>\n\t<img alt=\"$2\" src=\"Images/$1\" />\n\t<figcaption>$2</figcaption>\n</figure>";
+$content = preg_replace($search, $replace, $content);
+$search = "/<div[^>]*>\s*<figure>\s*<img.+src=\".*\/(.*?)\".*>\s*<figcaption[^>]*>(.*)<\/figcaption>\s*<\/figure>\s*<\/div>/u";
+$content = preg_replace($search, $replace, $content);
+// --
+file_put_contents($file, $content);
 
-TEMP_FILE=$(mktemp)
+onError:
 
-if [ -f $1 ]; then
-	
-	# Covert HTML-entities to literals.
-	cat $1 | python3 -c 'import html, sys; [print(html.unescape(l), end="") for l in sys.stdin]' > $TEMP_FILE
-	cp $TEMP_FILE $1
-	rm $TEMP_FILE
-	
-	# --
-	sed -i 's/<p><\/p>//g' $1
-	
-	# --
-	sed -i 's/<hr>/<hr \/>/g' $1
-	# --
-	sed -i 's/<a[^>]*>//g' $1
-	sed -i 's/<\/a>//g' $1
-	
-	# Replace image URIs.
-	sed -i 's/http:\/\/media.wizards.com\/2015\/images\/daily\//Images\//g' $1
-	
-	# Remove empty lines.
-	sed -i '/^\s*$/d' $1
-	exit 1
-else
-	exit 0
-fi
+exit($r);
+?>

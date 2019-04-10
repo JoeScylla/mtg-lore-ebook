@@ -1,0 +1,60 @@
+#!/usr/bin/env php
+<?php
+$r = 0;
+$stdout = [];
+$path = dirname(__FILE__);
+$file = $argv[1] ?? null;
+$root = realpath(dirname(dirname(__FILE__)) . "/src/OEBPS");
+$mimeTypes = [
+	"jpg" => "image/jpeg",
+	"png" => "image/png"
+];
+// --
+function uuid(bool $alpha = false) : string {
+	$uuid = function() {
+		return sprintf("%04x%04x%04x%04x%04x%04x%04x%04x",
+			mt_rand( 0, 0xffff ), mt_rand( 0, 0xffff ),
+			mt_rand( 0, 0xffff ),
+			mt_rand( 0, 0x0fff ) | 0x4000,
+			mt_rand( 0, 0x3fff ) | 0x8000,
+			mt_rand( 0, 0xffff ), mt_rand( 0, 0xffff ), mt_rand( 0, 0xffff )
+		);
+	};
+	$r = $uuid();
+	if ($alpha) {
+		while (!in_array($r[0], ["a", "b", "c", "d", "e", "f"])) {
+			$r = $uuid();
+		}
+	}
+	
+	return $r;
+}
+if (!file_exists($file)) {
+	$r = 1;
+	goto onError;
+}
+$file = realpath($file);
+$content = file_get_contents($file);
+$matches = null;
+preg_match_all("/<img.+src=\"(.+)?\".*\/>/u", $content, $matches);
+$base = substr($file, strlen($root) + 1);
+$uuid = uuid(true);
+$stdout[] = "<!-- Manifest -->";
+$stdout[] = "<item id=\"" . $uuid . "\" href=\"" . $base . "\" media-type=\"application/xhtml+xml\"/>";
+$base = dirname($base);
+if ($matches) {
+	foreach ($matches[1] as $image) {
+		$extension = pathinfo($base  . "/" . $image, PATHINFO_EXTENSION);
+		$mimeType = $mimeTypes[$extension] ?? "";
+		$stdout[] = "<item id=\"" . uuid(true) . "\" href=\"" . $base  . "/" . $image . "\" media-type=\"" . $mimeType . "\"/>";
+	}
+}
+$stdout[] = "<!-- Spine -->";
+$stdout[] = "<itemref idref=\"" . $uuid . "\" />";
+$stdout = "\n" . implode("\n", $stdout) . "\n";
+echo $stdout;
+
+onError:
+
+exit($r);
+?>
