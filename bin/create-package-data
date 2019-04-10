@@ -1,14 +1,43 @@
 #!/usr/bin/env php
 <?php
 $r = 0;
-$stdout = [];
 $path = dirname(__FILE__);
-$file = $argv[1] ?? null;
+$outputDirectory = $argv[1] ?? ".";
 $root = realpath(dirname(dirname(__FILE__)) . "/src/OEBPS");
-$mimeTypes = [
-	"jpg" => "image/jpeg",
-	"png" => "image/png"
-];
+// --
+function dir_get_files(string $path) : array {
+	$r = false;
+	
+	$load = null;
+	$load = function($path) use(&$load) {
+		$r = [];
+		if (file_exists($path) && ($resource = opendir($path))) {
+			$files = [];
+			$directories = [];
+			while (($item = readdir($resource)) !== false) {
+				if ($item !== "." && $item !== "..") {
+					$item = $path . "/" . $item;
+					if (is_file($item)) {
+						$files[] = $item;
+					} elseif (is_dir($item)) {
+						$directories[] = $item;
+					}
+				}
+			}
+			sort($files);
+			sort($directories);
+			$r = array_merge($r, $files);
+			foreach ($directories as $directory) {
+				$r = array_merge($r, $load($directory));
+			}
+		}
+		return $r;
+	};
+	
+	$r = $load($path);
+	
+	return $r;
+}
 // --
 function uuid(bool $alpha = false) : string {
 	$uuid = function() {
@@ -29,30 +58,36 @@ function uuid(bool $alpha = false) : string {
 	
 	return $r;
 }
-if (!file_exists($file)) {
+// --
+if (!is_dir($outputDirectory)) {
 	$r = 1;
 	goto onError;
 }
-$file = realpath($file);
-$content = file_get_contents($file);
-$matches = null;
-preg_match_all("/<img.+src=\"(.+)?\".*\/>/u", $content, $matches);
-$base = substr($file, strlen($root) + 1);
-$uuid = uuid(true);
-$stdout[] = "<!-- Manifest -->";
-$stdout[] = "<item id=\"" . $uuid . "\" href=\"" . $base . "\" media-type=\"application/xhtml+xml\"/>";
-$base = dirname($base);
-if ($matches) {
-	foreach ($matches[1] as $image) {
-		$extension = pathinfo($base  . "/" . $image, PATHINFO_EXTENSION);
-		$mimeType = $mimeTypes[$extension] ?? "";
-		$stdout[] = "<item id=\"" . uuid(true) . "\" href=\"" . $base  . "/" . $image . "\" media-type=\"" . $mimeType . "\"/>";
+// --
+$files = array_merge(
+	dir_get_files($root . "/Stories"),
+	dir_get_files($root . "/Planes"),
+	dir_get_files($root . "/Planeswalker")
+);
+$manifest = [];
+$spine = [];
+foreach ($files as $file) {
+	$base = substr($file, strlen($root) + 1);
+	$uuid = uuid(true);
+	$extension = pathinfo($file, PATHINFO_EXTENSION);
+	if ($extension === "xhtml") {
+		$manifest[] = "<item id=\"" . $uuid . "\" href=\"" . $base . "\" media-type=\"application/xhtml+xml\"/>";
+		$spine[] = "<itemref idref=\"" . $uuid . "\" />";
+	} elseif ($extension === "jpg") {
+		$manifest[] = "<item id=\"" . $uuid . "\" href=\"" . $base . "\" media-type=\"image/jpeg\"/>";
+	} elseif ($extension === "png") {
+		$manifest[] = "<item id=\"" . $uuid . "\" href=\"" . $base . "\" media-type=\"image/png\"/>";
 	}
 }
-$stdout[] = "<!-- Spine -->";
-$stdout[] = "<itemref idref=\"" . $uuid . "\" />";
-$stdout = "\n" . implode("\n", $stdout) . "\n";
-echo $stdout;
+$manifest = implode("\n", $manifest);
+$spine = implode("\n", $spine);
+file_put_contents($outputDirectory . "/manifest.tmp", $manifest);
+file_put_contents($outputDirectory . "/spine.tmp", $spine);
 
 onError:
 
