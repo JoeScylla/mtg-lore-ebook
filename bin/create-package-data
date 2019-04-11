@@ -31,8 +31,8 @@ foreach ($files as $file) {
 		$manifest[] = "<item id=\"" . $uuid . "\" href=\"" . $base . "\" media-type=\"image/png\"/>";
 	}
 }
-$manifest = implode("\n", $manifest);
-$spine = implode("\n", $spine);
+$manifest = implode("", $manifest);
+$spine = implode("", $spine);
 file_put_contents($outputDirectory . "/manifest.tmp", $manifest);
 file_put_contents($outputDirectory . "/spine.tmp", $spine);
 

@@ -43,18 +43,11 @@ function mtg_str_clean_content(string $string) : string {
 	// --
 	$r = html_entity_decode($string);
 	// --
-	$search = [
-		"</a>",
-		"<p></p>",
-		"<br>",
-		"<hr>"
-	];
-	$replace = [
-		"",
-		"",
-		"<br />",
-		"\n\n<hr />\n\n"
-	];
+	$search = ["</a>", "<p></p>", "<nbsp>", "</nbsp>"];
+	$r = str_replace($search, "", $r);
+	// --
+	$search = ["<br>", "<hr>"];
+	$replace = ["<br />", "\n\n<hr />\n\n"];
 	$r = str_replace($search, $replace, $r);
 	// --
 	$r = preg_replace("/<a[^>]*>/", "", $r);
