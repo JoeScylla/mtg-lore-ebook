@@ -2,41 +2,28 @@
 <?php
 $r = 0;
 $path = dirname(__FILE__);
-$file = $argv[1] ?? null;
-
-if (!file_exists($file)) {
+require($path . "/Includes/Functions.php");
+$target = $argv[1] ?? null;
+if (is_file($target)) {
+	$content = file_get_contents($target);
+	$content = mtg_str_clean_content($content);
+	file_put_contents($target, $content);
+} elseif (is_dir($target)) {
+	$files = dir_get_files($target);
+	foreach ($files as $file) {
+		$extension = file_get_extension($file);
+		if ($extension === "xhtml") {
+			$content = file_get_contents($file);
+			$content = mtg_str_clean_content($content);
+			file_put_contents($file, $content);
+		}
+	}
+} elseif ($target === null) {
+	echo "clean file|directory\n";
+} else {
 	$r = 1;
 	goto onError;
 }
-$content = file_get_contents($file);
-// --
-$content = html_entity_decode($content);
-// --
-$search = [
-	"</a>",
-	"<p></p>",
-	"<br>",
-	"<hr>"
-];
-$replace = [
-	"",
-	"",
-	"<br />",
-	"\n\n<hr />\n\n"
-];
-$content = str_replace($search, $replace, $content);
-// --
-$content = preg_replace("/<a[^>]*>/", "", $content);
-// --
-$content = preg_replace("/(^[\r\n]*|[\r\n]+)[\s\t]*[\r\n]+/", "\n", $content);
-// --
-$search = "/<div[^>]*><img.+src=\".*\/(.*?)\".*><\/div>\s*<p[^>]*>(.*)<\/p>/u";
-$replace = "<figure>\n\t<img alt=\"$2\" src=\"Images/$1\" />\n\t<figcaption>$2</figcaption>\n</figure>";
-$content = preg_replace($search, $replace, $content);
-$search = "/<div[^>]*>\s*<figure>\s*<img.+src=\".*\/(.*?)\".*>\s*<figcaption[^>]*>(.*)<\/figcaption>\s*<\/figure>\s*<\/div>/u";
-$content = preg_replace($search, $replace, $content);
-// --
-file_put_contents($file, $content);
 
 onError:
 
