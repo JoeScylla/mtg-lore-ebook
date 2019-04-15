@@ -54,3 +54,17 @@ h2.cmp-link a {
 figure.cmp-card {
 	text-align: center;
 }
+div.cmp-list-item {
+	clear: left;
+}
+div.cmp-list-item figure {
+	float: left;
+	width: 33.33333%;
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	margin-right: 1em;
+	padding-bottom: 25%;
+	background-position: center right;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
