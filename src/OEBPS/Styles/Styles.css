@@ -68,3 +68,6 @@ div.cmp-list-item figure {
 	background-size: cover;
 	background-repeat: no-repeat;
 }
+a.cmp-nav-label {
+	text-decoration: none;
+}
