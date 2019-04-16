@@ -21,9 +21,5 @@
 		
 		<!-- This need to get automated. -->
 		
-		<navPoint id="f5579735e2b64a1ab8c7ffa37dfec287">
-			<navLabel><text>Index</text></navLabel>
-			<content src="Index.xhtml"/>
-		</navPoint>
 	</navMap>
 </ncx>
